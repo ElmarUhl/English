@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>Parley 23.08.4</generator>
+    <title>Body Parts</title>
+    <author>Elmar Uhl</author>
+    <license>GPLv2+ (GNU Licença Pública Geral versão 2 ou posterior)</license>
+    <comment>Vocabulary for body parts
+Vocabulário para partes do corpo</comment>
+    <date>2024-04-03</date>
+    <category>Idiomas</category>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>English (world)</name>
+      <locale>en_001</locale>
+    </identifier>
+    <identifier id="1">
+      <name>português (Brasil)</name>
+      <locale>pt_BR</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>head</text>
+      </translation>
+      <translation id="1">
+        <text>cabeça</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>face</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T20:00:02</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>face</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>hair</text>
+      </translation>
+      <translation id="1">
+        <text>cabelo</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>cheek</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T14:35:13</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>bochecha</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>forehead</text>
+      </translation>
+      <translation id="1">
+        <text>testa</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T21:31:22</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>temple</text>
+        <image>file:///run/user/1000/doc/a3ef57e8/temple.png</image>
+      </translation>
+      <translation id="1">
+        <text>têmpora</text>
+        <image>file:///run/user/1000/doc/a3ef57e8/temple.png</image>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>eyebrow</text>
+      </translation>
+      <translation id="1">
+        <text>sobrancelha</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>eye</text>
+      </translation>
+      <translation id="1">
+        <text>olho</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>ear</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-03T03:23:40</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>orelha</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>nose</text>
+      </translation>
+      <translation id="1">
+        <text>nariz</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>bridge of the nose</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-03T16:02:40</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>espaço entre os olhos</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T14:18:04</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>nostril</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-03T03:23:51</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>narina</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T21:30:54</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>mouth</text>
+      </translation>
+      <translation id="1">
+        <text>boca</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>tooth</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T20:00:12</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>dente</text>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>teeth</text>
+      </translation>
+      <translation id="1">
+        <text>dentes</text>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>lips</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T14:18:17</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>lábios</text>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>chin</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-03T16:18:37</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>queixo</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>jaw</text>
+      </translation>
+      <translation id="1">
+        <text>mandíbula</text>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>pupil</text>
+      </translation>
+      <translation id="1">
+        <text>pupila</text>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>iris</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-03T16:18:06</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>íris</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T20:00:19</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>white</text>
+        <image>file:///run/user/1000/doc/9d72f1c3/sclera.jpg</image>
+      </translation>
+      <translation id="1">
+        <text>esclera</text>
+        <image>file:///run/user/1000/doc/9d72f1c3/sclera.jpg</image>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>sclera</text>
+        <image>file:///run/user/1000/doc/9d72f1c3/sclera.jpg</image>
+      </translation>
+      <translation id="1">
+        <text>esclera</text>
+        <image>file:///run/user/1000/doc/9d72f1c3/sclera.jpg</image>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>eyelid</text>
+      </translation>
+      <translation id="1">
+        <text>pálpebra</text>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>eyelash</text>
+      </translation>
+      <translation id="1">
+        <text>cílio</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T14:35:07</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>tear duct</text>
+        <image>file:///run/user/1000/doc/8cd230ed/tear_duct.jpg</image>
+      </translation>
+      <translation id="1">
+        <text>canal lacrimal</text>
+        <image>file:///run/user/1000/doc/8cd230ed/tear_duct.jpg</image>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>body</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-03T16:03:39</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>corpo</text>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>throat</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-03T16:18:12</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>garganta</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-03T16:17:58</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>Adam's apple</text>
+      </translation>
+      <translation id="1">
+        <text>pomo de adão</text>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>shoulder</text>
+      </translation>
+      <translation id="1">
+        <text>ombro</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T14:18:08</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>chest</text>
+      </translation>
+      <translation id="1">
+        <text>peito</text>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>nipple</text>
+      </translation>
+      <translation id="1">
+        <text>mamilo</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-03T03:23:04</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>stomach</text>
+      </translation>
+      <translation id="1">
+        <text>barriga</text>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>navel</text>
+      </translation>
+      <translation id="1">
+        <text>umbigo</text>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>waist</text>
+      </translation>
+      <translation id="1">
+        <text>cintura</text>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>arm</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-03T03:23:21</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>braço</text>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>armpit</text>
+      </translation>
+      <translation id="1">
+        <text>axila</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T20:00:08</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>elbow</text>
+      </translation>
+      <translation id="1">
+        <text>cotovelo</text>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>hand</text>
+      </translation>
+      <translation id="1">
+        <text>mão</text>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>wrist</text>
+      </translation>
+      <translation id="1">
+        <text>pulso</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T14:17:59</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>palm</text>
+      </translation>
+      <translation id="1">
+        <text>palma da mão</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-03T16:18:15</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>thumb</text>
+      </translation>
+      <translation id="1">
+        <text>dedão</text>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>index finger</text>
+      </translation>
+      <translation id="1">
+        <text>dedo indicador</text>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>forefinger</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-03T16:03:36</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>dedo indicador</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-03T16:02:51</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>middle finger</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-03T03:23:30</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>dedo médio</text>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>ring finger</text>
+      </translation>
+      <translation id="1">
+        <text>dedo anelar</text>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>little finger</text>
+      </translation>
+      <translation id="1">
+        <text>dedo mindinho</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-03T16:03:25</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>knuckle</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T21:30:50</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>juntas</text>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>fingernail</text>
+      </translation>
+      <translation id="1">
+        <text>unha da mão</text>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>leg</text>
+      </translation>
+      <translation id="1">
+        <text>perna</text>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>knee</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T14:18:13</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>joelho</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T14:34:52</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>calf</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T14:35:10</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>panturilha</text>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>shin</text>
+      </translation>
+      <translation id="1">
+        <text>canela</text>
+      </translation>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>instep</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-03T16:18:31</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>peito do pé</text>
+      </translation>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>thigh</text>
+      </translation>
+      <translation id="1">
+        <text>coxa</text>
+      </translation>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>ankle</text>
+      </translation>
+      <translation id="1">
+        <text>tornozelo</text>
+      </translation>
+    </entry>
+    <entry id="55">
+      <translation id="0">
+        <text>heel</text>
+        <grade>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-03T16:02:46</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>calcanhar</text>
+      </translation>
+    </entry>
+    <entry id="56">
+      <translation id="0">
+        <text>foot</text>
+      </translation>
+      <translation id="1">
+        <text>pé</text>
+      </translation>
+    </entry>
+    <entry id="57">
+      <translation id="0">
+        <text>feet</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-02T20:00:15</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>pés</text>
+      </translation>
+    </entry>
+    <entry id="58">
+      <translation id="0">
+        <text>arch of the foot</text>
+      </translation>
+      <translation id="1">
+        <text>arco do pé</text>
+      </translation>
+    </entry>
+    <entry id="59">
+      <translation id="0">
+        <text>ball of the foot</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-03T16:18:23</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>joanete</text>
+      </translation>
+    </entry>
+    <entry id="60">
+      <translation id="0">
+        <text>toes</text>
+      </translation>
+      <translation id="1">
+        <text>dedos dos pés</text>
+      </translation>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Vocabulary</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+      <entry id="22"/>
+      <entry id="23"/>
+      <entry id="24"/>
+      <entry id="25"/>
+      <entry id="26"/>
+      <entry id="27"/>
+      <entry id="28"/>
+      <entry id="29"/>
+      <entry id="30"/>
+      <entry id="31"/>
+      <entry id="32"/>
+      <entry id="33"/>
+      <entry id="34"/>
+      <entry id="35"/>
+      <entry id="36"/>
+      <entry id="37"/>
+      <entry id="38"/>
+      <entry id="39"/>
+      <entry id="40"/>
+      <entry id="41"/>
+      <entry id="42"/>
+      <entry id="43"/>
+      <entry id="44"/>
+      <entry id="45"/>
+      <entry id="46"/>
+      <entry id="47"/>
+      <entry id="48"/>
+      <entry id="49"/>
+      <entry id="50"/>
+      <entry id="51"/>
+      <entry id="52"/>
+      <entry id="53"/>
+      <entry id="54"/>
+      <entry id="55"/>
+      <entry id="56"/>
+      <entry id="57"/>
+      <entry id="58"/>
+      <entry id="59"/>
+      <entry id="60"/>
+    </container>
+  </lessons>
+  <synonym>
+    <pair>
+      <entry id="20">
+        <translation id="0"/>
+      </entry>
+      <entry id="21">
+        <translation id="0"/>
+      </entry>
+    </pair>
+  </synonym>
+</kvtml>
