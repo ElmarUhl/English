@@ -1,3 +1,5 @@
+![US-Flag](https://github.com/ElmarUhl/English/assets/157088447/90d31438-55f5-4b7f-9387-d132f23329af)
+
 # English
 Repository for English-portuguese learners
 
