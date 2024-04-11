@@ -8,6 +8,4 @@ Repository for English-portuguese learners
 [Fluent English Fast](https://www.youtube.com/@FluentEnglishFast/videos)
 [EnglishTestBlog](https://www.youtube.com/@EnglishTestBlog)
 [English Bay](https://app.englishbay.com.br/)
-
-
-
+[Easy English](https://www.youtube.com/@easyenglish551/videos)
