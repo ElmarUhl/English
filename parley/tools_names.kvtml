@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>Parley 23.08.4</generator>
+    <title>Tools</title>
+    <author>Elmar Uhl</author>
+    <license>GPLv2+ (GNU Licença Pública Geral versão 2 ou posterior)</license>
+    <comment>Tools names
+Nomes de ferramentas</comment>
+    <date>2024-04-14</date>
+    <category>Idiomas</category>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>English (world)</name>
+      <locale>en_001</locale>
+    </identifier>
+    <identifier id="1">
+      <name>português (Brasil)</name>
+      <locale>pt_BR</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>wrench</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-11T11:38:57</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>chave</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-06T14:50:22</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>monkey wrench</text>
+      </translation>
+      <translation id="1">
+        <text>chave ajustável</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>adjustable wrench</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:40:30</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>chave ajustável</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>hammer</text>
+      </translation>
+      <translation id="1">
+        <text>martelo</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>claw</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-10T22:07:19</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>garra</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>mallet</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:17:26</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>marreta</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:17:07</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>paint roller</text>
+      </translation>
+      <translation id="1">
+        <text>rolo de pintura</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:16:12</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>paintbrush</text>
+      </translation>
+      <translation id="1">
+        <text>pincel</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:40:19</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>pliers</text>
+      </translation>
+      <translation id="1">
+        <text>alicate</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>long-nose pliers</text>
+      </translation>
+      <translation id="1">
+        <text>alicate bico longo</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>diagonal pliers</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:42:58</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>alicate de corte</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:16:17</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>chisel</text>
+        <grade>
+          <pregrade>7</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>8</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:41:03</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>formão</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>bradawl</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:42:29</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>furador</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>11</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-13T23:40:12</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>file</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:40:53</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>lima</text>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>trowel</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>11</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-13T20:15:44</date>
+          <interval>0</interval>
+        </grade>
+        <sound>file:///run/user/1000/doc/3b0b4da1/trowel.mp3</sound>
+      </translation>
+      <translation id="1">
+        <text>colher de pedreiro</text>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>screwdriver</text>
+      </translation>
+      <translation id="1">
+        <text>chave de fenda</text>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>putty knife</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>10</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-12T03:06:55</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>espatula de massa</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:15:59</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>utility knife</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-06T14:50:45</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>estilete</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-06T14:49:42</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>scissors</text>
+      </translation>
+      <translation id="1">
+        <text>tesoura</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:17:35</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>L square</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-06T14:49:55</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>esquadro</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:40:50</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>tape measure</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-12T03:06:52</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>trena</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-06T14:50:11</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>plane</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-12T03:05:57</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>plaina</text>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>vise</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-06T14:49:48</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>morsa</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:40:17</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>clamp</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-12T03:07:10</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>grampos</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:40:41</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>spirit level</text>
+      </translation>
+      <translation id="1">
+        <text>nível</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-11T11:38:20</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>level</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:17:17</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>nível</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-06T14:50:41</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>handsaw</text>
+        <grade>
+          <pregrade>7</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>8</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:40:57</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>serrote</text>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>hacksaw</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-09T17:03:20</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>arco de serra</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:16:39</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>handle</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:17:04</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>cabo</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:17:00</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>blade</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:41:36</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>lâmina</text>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>frame</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-09T01:00:22</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>arco da serra</text>
+        <grade>
+          <pregrade>7</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>13</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-14T23:41:00</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>wing nut</text>
+        <grade>
+          <pregrade>7</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>8</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:43:01</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>porca borboleta</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:41:50</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>coping saw</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-11T11:38:53</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>serra de ourives</text>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>axe</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:17:09</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>machado</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-06T14:50:24</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>pipe wrench</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>11</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-13T20:15:44</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>chave de grifo</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:41:28</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>(electric) drill</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>11</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:41:22</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>furadeira</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:16:35</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>cordless drill</text>
+      </translation>
+      <translation id="1">
+        <text>furadeira a bateria</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:42:07</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>chuck</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:41:06</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>mandril</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:16:08</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>drill bit</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:41:11</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>broca</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:17:29</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>perforator</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-09T17:02:28</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>furadeira pesada</text>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>safety glasses</text>
+      </translation>
+      <translation id="1">
+        <text>óculos de proteção</text>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>safety gloves</text>
+        <grade>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:40:45</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>luvas de proteção</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:40:35</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>earmuffs</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-08T12:58:41</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>abafadores auriculares</text>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>hard hat</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-11T11:38:36</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>capacete</text>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>high-visibility vest</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-06T14:50:19</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>colete de visibilidade</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-11T11:38:01</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>cone</text>
+      </translation>
+      <translation id="1">
+        <text>cone</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-06T14:50:25</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>toolbox</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-06T14:50:54</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>caixa de ferramenta</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:42:53</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>bolt</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-09T01:01:09</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>parafuso</text>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>nut</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:42:11</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>porca</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:16:04</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>washer</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>10</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-13T20:15:54</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>arruela</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-12T03:06:10</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>screw</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-11T11:37:50</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>parafuso de madeira</text>
+        <grade>
+          <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:42:19</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>nail</text>
+      </translation>
+      <translation id="1">
+        <text>prego</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:16:20</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>allen keys</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:42:26</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>chaves Alen</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-12T03:06:08</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>hex keys</text>
+      </translation>
+      <translation id="1">
+        <text>chaves Alen</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:16:01</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>caulking gun</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>3</errorcount>
+          <date>2024-04-12T03:07:13</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Aplicador de silicone</text>
+      </translation>
+    </entry>
+    <entry id="55">
+      <translation id="0">
+        <text>silicon gun</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:42:16</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Aplicador de silicone</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-10T22:07:05</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="56">
+      <translation id="0">
+        <text>grinder</text>
+      </translation>
+      <translation id="1">
+        <text>esmerilhadeira</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-13T20:17:33</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="57">
+      <translation id="0">
+        <text>wheelbarrow</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:41:52</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>carrinho de mão</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:41:15</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="58">
+      <translation id="0">
+        <text>ladder</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-12T03:05:30</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>escada</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:41:09</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="59">
+      <translation id="0">
+        <text>stepladder</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:15:50</date>
+          <interval>0</interval>
+        </grade>
+        <image>file:///run/user/1000/doc/77f67f69/stepladder.jpg</image>
+      </translation>
+      <translation id="1">
+        <text>escada</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:40:23</date>
+          <interval>0</interval>
+        </grade>
+        <image>file:///run/user/1000/doc/77f67f69/stepladder.jpg</image>
+      </translation>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Vocabulary</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+      <entry id="22"/>
+      <entry id="23"/>
+      <entry id="24"/>
+      <entry id="25"/>
+      <entry id="26"/>
+      <entry id="27"/>
+      <entry id="28"/>
+      <entry id="29"/>
+      <entry id="30"/>
+      <entry id="31"/>
+      <entry id="32"/>
+      <entry id="33"/>
+      <entry id="34"/>
+      <entry id="35"/>
+      <entry id="36"/>
+      <entry id="37"/>
+      <entry id="38"/>
+      <entry id="39"/>
+      <entry id="40"/>
+      <entry id="41"/>
+      <entry id="42"/>
+      <entry id="43"/>
+      <entry id="44"/>
+      <entry id="45"/>
+      <entry id="46"/>
+      <entry id="47"/>
+      <entry id="48"/>
+      <entry id="49"/>
+      <entry id="50"/>
+      <entry id="51"/>
+      <entry id="52"/>
+      <entry id="53"/>
+      <entry id="54"/>
+      <entry id="55"/>
+      <entry id="56"/>
+      <entry id="57"/>
+      <entry id="58"/>
+      <entry id="59"/>
+    </container>
+  </lessons>
+  <synonym>
+    <pair>
+      <entry id="1">
+        <translation id="0"/>
+      </entry>
+      <entry id="2">
+        <translation id="0"/>
+      </entry>
+    </pair>
+    <pair>
+      <entry id="24">
+        <translation id="0"/>
+      </entry>
+      <entry id="25">
+        <translation id="0"/>
+      </entry>
+    </pair>
+    <pair>
+      <entry id="52">
+        <translation id="0"/>
+      </entry>
+      <entry id="53">
+        <translation id="0"/>
+      </entry>
+    </pair>
+    <pair>
+      <entry id="54">
+        <translation id="0"/>
+      </entry>
+      <entry id="55">
+        <translation id="0"/>
+      </entry>
+    </pair>
+  </synonym>
+</kvtml>

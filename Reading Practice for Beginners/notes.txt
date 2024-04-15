@@ -1,7 +1,0 @@
-1-The English Boy
-day 1: 70%/95%
-day 2: 95%/97%
-schoolboy = estudante, aluno
-I am a schoolboy (Eu sou um estudante)
-I love reading about adventures of Frodo Baggins (Eu amo ler sobre as aventuras de Frodo Bolseiro)
-Baggins = bagagens.

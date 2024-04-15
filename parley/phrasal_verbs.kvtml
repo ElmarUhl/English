@@ -7,7 +7,7 @@
     <author>Elmar Uhl</author>
     <license>GPLv2+ (GNU Licença Pública Geral versão 2 ou posterior)</license>
     <comment>Phrasal Verbs</comment>
-    <date>2024-04-03</date>
+    <date>2024-04-14</date>
   </information>
   <identifiers>
     <identifier id="0">
@@ -25,10 +25,10 @@
         <text>make over</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:11:30</date>
+          <date>2024-04-06T14:54:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -37,9 +37,9 @@
         <grade>
           <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>2</errorcount>
-          <date>2024-04-03T21:13:09</date>
+          <count>17</count>
+          <errorcount>4</errorcount>
+          <date>2024-04-14T23:50:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -49,10 +49,10 @@
         <text>make up</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:13:14</date>
+          <date>2024-04-06T14:54:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -60,10 +60,10 @@
         <text>fazer as pazes; botar maquiagem</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:11:01</date>
+          <date>2024-04-06T14:53:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -73,10 +73,10 @@
         <text>make up for</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:10:51</date>
+          <date>2024-04-06T14:53:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -84,10 +84,10 @@
         <text>compensar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:11:42</date>
+          <date>2024-04-06T14:54:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -97,10 +97,10 @@
         <text>make out</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:11:54</date>
+          <date>2024-04-06T14:55:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -108,10 +108,10 @@
         <text>distinguir</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:12:41</date>
+          <date>2024-04-06T14:54:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -121,21 +121,21 @@
         <text>do over</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:12:25</date>
+          <date>2024-04-06T14:54:32</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>fazer de novo</text>
         <grade>
-          <pregrade>4</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>5</count>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-03T16:26:18</date>
+          <date>2024-04-13T20:23:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -145,10 +145,10 @@
         <text>do with</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:11:35</date>
+          <date>2024-04-06T14:54:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -156,10 +156,10 @@
         <text>ter a ver</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:12:58</date>
+          <date>2024-04-06T14:54:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -169,10 +169,10 @@
         <text>do without</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:11:21</date>
+          <date>2024-04-06T14:54:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -180,10 +180,10 @@
         <text>ficar sem</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:10:56</date>
+          <date>2024-04-06T14:54:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -193,10 +193,10 @@
         <text>do away with</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:12:34</date>
+          <date>2024-04-06T14:54:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -204,10 +204,10 @@
         <text>para, livrar de algo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-02T16:46:27</date>
+          <date>2024-04-06T14:54:24</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -217,10 +217,10 @@
         <text>Modesty aside</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:11:24</date>
+          <date>2024-04-06T14:53:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -228,10 +228,10 @@
         <text>modéstia à parte</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:11:15</date>
+          <date>2024-04-06T14:53:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -240,11 +240,11 @@
       <translation id="0">
         <text>Once upon a time</text>
         <grade>
-          <pregrade>4</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>5</count>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-03T16:26:10</date>
+          <date>2024-04-13T20:22:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -252,10 +252,10 @@
         <text>Era uma vez</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:12:05</date>
+          <date>2024-04-06T14:53:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -265,10 +265,10 @@
         <text>piece of cake</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:11:59</date>
+          <date>2024-04-06T14:54:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -276,10 +276,10 @@
         <text>muito fácil</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:11:07</date>
+          <date>2024-04-06T14:54:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -289,23 +289,725 @@
         <text>make do</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-03T21:12:10</date>
+          <date>2024-04-06T14:54:16</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>se virar com o que tem</text>
         <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-13T20:21:21</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>break up</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-14T23:47:55</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>separar, romper</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>call off</text>
+      </translation>
+      <translation id="1">
+        <text>cancelar</text>
+        <grade>
+          <pregrade>7</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>8</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:48:09</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>look after</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-12T03:15:46</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>cuidar de</text>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>look for</text>
+      </translation>
+      <translation id="1">
+        <text>procurar por</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:45:46</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>pick up</text>
+      </translation>
+      <translation id="1">
+        <text>coletar</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>turn on</text>
+      </translation>
+      <translation id="1">
+        <text>ligar</text>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>turn off</text>
+      </translation>
+      <translation id="1">
+        <text>desligar</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-11T11:41:07</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>put on</text>
+      </translation>
+      <translation id="1">
+        <text>vestir</text>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>take off</text>
+      </translation>
+      <translation id="1">
+        <text>remover</text>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>take out</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>3</errorcount>
+          <date>2024-04-14T23:50:55</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>desfazer, colocar para fora</text>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>get up</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:21:54</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>levantar</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>8</count>
+          <errorcount>3</errorcount>
+          <date>2024-04-14T23:46:13</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>check in</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:21:30</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>check in</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:22:33</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>check out</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:45:40</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>check out</text>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>turn up</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:22:30</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>chegar</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>10</count>
+          <errorcount>8</errorcount>
+          <date>2024-04-14T23:51:37</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>put off</text>
+      </translation>
+      <translation id="1">
+        <text>adiar</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:48:05</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>hold on</text>
+        <grade>
           <pregrade>4</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:47:33</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>esperar</text>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>bring back</text>
+      </translation>
+      <translation id="1">
+        <text>trazer de volta</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:45:28</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>look up</text>
+      </translation>
+      <translation id="1">
+        <text>procurar por</text>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>run out of</text>
+      </translation>
+      <translation id="1">
+        <text>acabar</text>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>wake up</text>
+      </translation>
+      <translation id="1">
+        <text>acordar</text>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>get along</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-14T23:50:51</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>ter bom relacionamento</text>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>turn down</text>
+      </translation>
+      <translation id="1">
+        <text>rejeitar</text>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>look forward to</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>5</errorcount>
+          <date>2024-04-12T03:16:43</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>esperar por ou antecipar</text>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>call back</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-13T20:21:16</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>ligar de volta</text>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>turn up</text>
+      </translation>
+      <translation id="1">
+        <text>aumentar o volume</text>
+        <grade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
           <count>6</count>
           <errorcount>2</errorcount>
-          <date>2024-04-03T16:26:23</date>
+          <date>2024-04-14T23:47:20</date>
           <interval>0</interval>
         </grade>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>give up</text>
+      </translation>
+      <translation id="1">
+        <text>terminar</text>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>set up</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>10</count>
+          <errorcount>3</errorcount>
+          <date>2024-04-14T23:45:37</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>estabelecer</text>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>bring in</text>
+      </translation>
+      <translation id="1">
+        <text>apresentar</text>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>look out</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>8</count>
+          <errorcount>5</errorcount>
+          <date>2024-04-14T23:49:17</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>ser cauteloso</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:48:50</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>go on</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-14T23:50:37</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>continuar</text>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>get over</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>10</count>
+          <errorcount>5</errorcount>
+          <date>2024-04-14T23:46:01</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>recuperar de</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>8</count>
+          <errorcount>4</errorcount>
+          <date>2024-04-14T23:51:34</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>turn in</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>12</count>
+          <errorcount>6</errorcount>
+          <date>2024-04-14T23:50:42</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>submeter</text>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>find out</text>
+      </translation>
+      <translation id="1">
+        <text>descobrir</text>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>point out</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-14T23:48:45</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>indicar</text>
+        <grade>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>11</count>
+          <errorcount>4</errorcount>
+          <date>2024-04-14T23:50:48</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>run into</text>
+      </translation>
+      <translation id="1">
+        <text>encontrar alguém inesperadamente</text>
+        <grade>
+          <pregrade>6</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>11</count>
+          <errorcount>3</errorcount>
+          <date>2024-04-14T23:45:33</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>go out</text>
+      </translation>
+      <translation id="1">
+        <text>socializar</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-14T23:48:57</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>carry out</text>
+      </translation>
+      <translation id="1">
+        <text>executar</text>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>show up</text>
+        <grade>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>11</count>
+          <errorcount>6</errorcount>
+          <date>2024-04-14T23:47:02</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>aparecer</text>
+        <grade>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-14T23:47:50</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>get by</text>
+      </translation>
+      <translation id="1">
+        <text>sobreviver com limitados recursos</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>5</errorcount>
+          <date>2024-04-14T23:48:31</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>run away</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>take in</text>
+      </translation>
+      <translation id="1">
+        <text>compreender</text>
+      </translation>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>drop off</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-13T20:23:20</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>deixar</text>
+        <grade>
+          <pregrade>7</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>11</count>
+          <errorcount>3</errorcount>
+          <date>2024-04-14T23:46:17</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>let down</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>4</errorcount>
+          <date>2024-04-14T23:47:15</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>desapontado</text>
+      </translation>
+    </entry>
+    <entry id="55">
+      <translation id="0">
+        <text>take off</text>
+      </translation>
+      <translation id="1">
+        <text>decolar, ter sucesso</text>
+      </translation>
+    </entry>
+    <entry id="56">
+      <translation id="0">
+        <text>break down</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>4</errorcount>
+          <date>2024-04-11T11:44:31</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>parar de funcionar</text>
+      </translation>
+    </entry>
+    <entry id="57">
+      <translation id="0">
+        <text>go over</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>3</errorcount>
+          <date>2024-04-11T11:44:22</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>revisar</text>
+      </translation>
+    </entry>
+    <entry id="58">
+      <translation id="0">
+        <text>look into</text>
+      </translation>
+      <translation id="1">
+        <text>investigar</text>
+      </translation>
+    </entry>
+    <entry id="59">
+      <translation id="0">
+        <text>bring up</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-14T23:50:18</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>trazer, criar</text>
       </translation>
     </entry>
   </entries>
@@ -325,6 +1027,54 @@
       <entry id="9"/>
       <entry id="10"/>
       <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+      <entry id="22"/>
+      <entry id="23"/>
+      <entry id="24"/>
+      <entry id="25"/>
+      <entry id="26"/>
+      <entry id="27"/>
+      <entry id="28"/>
+      <entry id="29"/>
+      <entry id="30"/>
+      <entry id="31"/>
+      <entry id="32"/>
+      <entry id="33"/>
+      <entry id="34"/>
+      <entry id="35"/>
+      <entry id="36"/>
+      <entry id="37"/>
+      <entry id="38"/>
+      <entry id="39"/>
+      <entry id="40"/>
+      <entry id="41"/>
+      <entry id="42"/>
+      <entry id="43"/>
+      <entry id="44"/>
+      <entry id="45"/>
+      <entry id="46"/>
+      <entry id="47"/>
+      <entry id="48"/>
+      <entry id="49"/>
+      <entry id="50"/>
+      <entry id="51"/>
+      <entry id="52"/>
+      <entry id="53"/>
+      <entry id="54"/>
+      <entry id="55"/>
+      <entry id="56"/>
+      <entry id="57"/>
+      <entry id="58"/>
+      <entry id="59"/>
     </container>
   </lessons>
 </kvtml>
