@@ -9,3 +9,4 @@ Repository for English-portuguese learners
 [EnglishTestBlog](https://www.youtube.com/@EnglishTestBlog)
 [English Bay](https://app.englishbay.com.br/)
 [Easy English](https://www.youtube.com/@easyenglish551/videos)
+[Elanguages](https://www.youtube.com/@Elanguages)
