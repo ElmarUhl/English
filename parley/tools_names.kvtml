@@ -8,7 +8,7 @@
     <license>GPLv2+ (GNU Licença Pública Geral versão 2 ou posterior)</license>
     <comment>Tools names
 Nomes de ferramentas</comment>
-    <date>2024-04-14</date>
+    <date>2024-04-15</date>
     <category>Idiomas</category>
   </information>
   <identifiers>
@@ -49,9 +49,19 @@ Nomes de ferramentas</comment>
     <entry id="1">
       <translation id="0">
         <text>monkey wrench</text>
+        <image>file:///run/user/1000/doc/30016fd3/monkey wrench.jpg</image>
       </translation>
       <translation id="1">
         <text>chave ajustável</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-15T12:50:44</date>
+          <interval>0</interval>
+        </grade>
+        <image>file:///run/user/1000/doc/30016fd3/monkey wrench.jpg</image>
       </translation>
     </entry>
     <entry id="2">
@@ -153,6 +163,14 @@ Nomes de ferramentas</comment>
     <entry id="8">
       <translation id="0">
         <text>pliers</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-15T12:52:07</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>alicate</text>
@@ -161,6 +179,14 @@ Nomes de ferramentas</comment>
     <entry id="9">
       <translation id="0">
         <text>long-nose pliers</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-15T12:49:23</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>alicate bico longo</text>
@@ -182,10 +208,10 @@ Nomes de ferramentas</comment>
         <text>alicate de corte</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:16:17</date>
+          <date>2024-04-15T12:49:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -194,11 +220,11 @@ Nomes de ferramentas</comment>
       <translation id="0">
         <text>chisel</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>8</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>9</count>
           <errorcount>1</errorcount>
-          <date>2024-04-14T23:41:03</date>
+          <date>2024-04-15T12:50:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -222,10 +248,10 @@ Nomes de ferramentas</comment>
         <text>furador</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-13T23:40:12</date>
+          <date>2024-04-15T12:48:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -277,9 +303,9 @@ Nomes de ferramentas</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-12T03:06:55</date>
+          <date>2024-04-15T12:52:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -300,10 +326,10 @@ Nomes de ferramentas</comment>
         <text>utility knife</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:50:45</date>
+          <date>2024-04-15T12:52:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -311,10 +337,10 @@ Nomes de ferramentas</comment>
         <text>estilete</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:49:42</date>
+          <date>2024-04-15T12:49:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -327,10 +353,10 @@ Nomes de ferramentas</comment>
         <text>tesoura</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:17:35</date>
+          <date>2024-04-15T12:51:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -363,11 +389,11 @@ Nomes de ferramentas</comment>
       <translation id="0">
         <text>tape measure</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2024-04-12T03:06:52</date>
+          <date>2024-04-15T12:50:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -429,9 +455,9 @@ Nomes de ferramentas</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T03:07:10</date>
+          <date>2024-04-15T12:50:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -456,9 +482,9 @@ Nomes de ferramentas</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-11T11:38:20</date>
+          <date>2024-04-15T12:50:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -491,16 +517,24 @@ Nomes de ferramentas</comment>
       <translation id="0">
         <text>handsaw</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>8</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>9</count>
           <errorcount>1</errorcount>
-          <date>2024-04-14T23:40:57</date>
+          <date>2024-04-15T12:52:20</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>serrote</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-15T12:50:40</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="27">
@@ -582,11 +616,11 @@ Nomes de ferramentas</comment>
       <translation id="1">
         <text>arco da serra</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>13</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>14</count>
           <errorcount>2</errorcount>
-          <date>2024-04-14T23:41:00</date>
+          <date>2024-04-15T12:50:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -595,11 +629,11 @@ Nomes de ferramentas</comment>
       <translation id="0">
         <text>wing nut</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>8</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>9</count>
           <errorcount>1</errorcount>
-          <date>2024-04-14T23:43:01</date>
+          <date>2024-04-15T12:51:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -647,10 +681,10 @@ Nomes de ferramentas</comment>
         <text>machado</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:50:24</date>
+          <date>2024-04-15T12:49:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -789,17 +823,25 @@ Nomes de ferramentas</comment>
       </translation>
       <translation id="1">
         <text>óculos de proteção</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-15T12:49:31</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="41">
       <translation id="0">
         <text>safety gloves</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2024-04-14T23:40:45</date>
+          <date>2024-04-15T12:51:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -845,6 +887,14 @@ Nomes de ferramentas</comment>
       </translation>
       <translation id="1">
         <text>capacete</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-15T12:49:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="44">
@@ -864,9 +914,9 @@ Nomes de ferramentas</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-11T11:38:01</date>
+          <date>2024-04-15T12:50:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -943,10 +993,10 @@ Nomes de ferramentas</comment>
         <text>porca</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:16:04</date>
+          <date>2024-04-15T12:50:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -956,10 +1006,10 @@ Nomes de ferramentas</comment>
         <text>washer</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-13T20:15:54</date>
+          <date>2024-04-15T12:50:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -968,9 +1018,9 @@ Nomes de ferramentas</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T03:06:10</date>
+          <date>2024-04-15T12:51:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -981,20 +1031,20 @@ Nomes de ferramentas</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-11T11:37:50</date>
+          <date>2024-04-15T12:52:11</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>parafuso de madeira</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>6</count>
           <errorcount>1</errorcount>
-          <date>2024-04-14T23:42:19</date>
+          <date>2024-04-15T12:49:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1002,6 +1052,14 @@ Nomes de ferramentas</comment>
     <entry id="51">
       <translation id="0">
         <text>nail</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-15T12:51:40</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>prego</text>
@@ -1032,9 +1090,9 @@ Nomes de ferramentas</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T03:06:08</date>
+          <date>2024-04-15T12:49:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1059,11 +1117,11 @@ Nomes de ferramentas</comment>
       <translation id="0">
         <text>caulking gun</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>6</count>
           <errorcount>3</errorcount>
-          <date>2024-04-12T03:07:13</date>
+          <date>2024-04-15T12:51:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1141,9 +1199,9 @@ Nomes de ferramentas</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T03:05:30</date>
+          <date>2024-04-15T12:51:50</date>
           <interval>0</interval>
         </grade>
       </translation>

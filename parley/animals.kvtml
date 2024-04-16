@@ -6,7 +6,7 @@
     <title>Animals</title>
     <author>Elmar Uhl</author>
     <comment>Animals vocabulary</comment>
-    <date>2024-04-14</date>
+    <date>2024-04-15</date>
     <category>idiom</category>
   </information>
   <identifiers>
@@ -74,9 +74,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T02:59:49</date>
+          <date>2024-04-15T12:20:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -109,9 +109,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T02:59:54</date>
+          <date>2024-04-15T12:20:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -121,10 +121,10 @@
         <text>horse</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T02:59:41</date>
+          <date>2024-04-14T12:20:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -181,9 +181,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T03:00:07</date>
+          <date>2024-04-15T12:20:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -194,9 +194,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T02:59:45</date>
+          <date>2024-04-15T12:20:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -260,6 +260,46 @@
         </grade>
       </translation>
     </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>snake</text>
+      </translation>
+      <translation id="1">
+        <text>cobra</text>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>kitten</text>
+      </translation>
+      <translation id="1">
+        <text>gatinhos</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>puppies</text>
+      </translation>
+      <translation id="1">
+        <text>cachorrinhos</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>elephant</text>
+      </translation>
+      <translation id="1">
+        <text>elefante</text>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>hippo</text>
+      </translation>
+      <translation id="1">
+        <text>hipopótamo</text>
+      </translation>
+    </entry>
   </entries>
   <lessons>
     <container>
@@ -275,6 +315,11 @@
       <entry id="7"/>
       <entry id="8"/>
       <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
     </container>
   </lessons>
 </kvtml>
