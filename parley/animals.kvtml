@@ -6,7 +6,7 @@
     <title>Animals</title>
     <author>Elmar Uhl</author>
     <comment>Animals vocabulary</comment>
-    <date>2024-04-15</date>
+    <date>2024-04-16</date>
     <category>idiom</category>
   </information>
   <identifiers>
@@ -26,9 +26,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:11:01</date>
+          <date>2024-04-16T22:37:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -50,9 +50,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:11:07</date>
+          <date>2024-04-16T22:38:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -85,9 +85,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:11:09</date>
+          <date>2024-04-16T22:38:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -122,9 +122,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T12:20:33</date>
+          <date>2024-04-16T22:38:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -132,10 +132,10 @@
         <text>cavalo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:11:11</date>
+          <date>2024-04-15T22:37:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -157,9 +157,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:11:05</date>
+          <date>2024-04-16T22:38:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -263,9 +263,25 @@
     <entry id="10">
       <translation id="0">
         <text>snake</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:38:04</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>cobra</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:38:06</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="11">
@@ -273,23 +289,63 @@
         <text>kitten</text>
       </translation>
       <translation id="1">
-        <text>gatinhos</text>
+        <text>gatinho</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:38:22</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="12">
       <translation id="0">
         <text>puppies</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:38:37</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>cachorrinhos</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:38:32</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="13">
       <translation id="0">
         <text>elephant</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:38:25</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>elefante</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:38:43</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="14">

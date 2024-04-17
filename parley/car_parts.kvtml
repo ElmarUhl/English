@@ -6,7 +6,7 @@
     <title>Car Parts</title>
     <author>Elmar Uhl</author>
     <comment>Car parts vocabulary</comment>
-    <date>2024-04-15</date>
+    <date>2024-04-16</date>
     <category>idiom</category>
   </information>
   <identifiers>
@@ -41,10 +41,10 @@
         <text>windshield</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:28:27</date>
+          <date>2024-04-16T22:43:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -52,10 +52,10 @@
         <text>parabrisa frontal</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T23:35:48</date>
+          <date>2024-04-16T22:40:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -92,10 +92,10 @@
         <text>lanterna traseira</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:28:15</date>
+          <date>2024-04-16T22:41:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -105,10 +105,10 @@
         <text>hood</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>9</count>
           <errorcount>1</errorcount>
-          <date>2024-04-15T12:26:06</date>
+          <date>2024-04-16T22:39:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -138,9 +138,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:15:26</date>
+          <date>2024-04-16T22:40:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -175,6 +175,14 @@
     <entry id="11">
       <translation id="0">
         <text>turn signal</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-16T22:43:18</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>seta</text>
@@ -197,9 +205,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:13:38</date>
+          <date>2024-04-16T22:40:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -229,9 +237,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:15:29</date>
+          <date>2024-04-16T22:41:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -239,9 +247,25 @@
     <entry id="15">
       <translation id="0">
         <text>brake light</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:41:00</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>luz de freio</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:40:43</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="16">
@@ -250,9 +274,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:15:09</date>
+          <date>2024-04-16T22:40:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -261,9 +285,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:14:58</date>
+          <date>2024-04-16T22:43:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -289,10 +313,10 @@
         <text>license plate</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T23:35:26</date>
+          <date>2024-04-16T22:40:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -357,10 +381,10 @@
         <text>calota</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:28:02</date>
+          <date>2024-04-16T22:40:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -381,10 +405,10 @@
         <text>banda de rodagem</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-14T23:35:20</date>
+          <date>2024-04-16T22:42:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -418,10 +442,10 @@
         <text>rear-view mirror</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>10</count>
+          <currentgrade>3</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-15T12:28:21</date>
+          <date>2024-04-16T22:39:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -445,10 +469,10 @@
         <text>cinto de segurança</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:26:16</date>
+          <date>2024-04-16T22:40:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -501,10 +525,10 @@
         <text>encosto de cabeça</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:27:50</date>
+          <date>2024-04-16T22:40:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -534,9 +558,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:14:14</date>
+          <date>2024-04-16T22:41:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -562,20 +586,36 @@
         <text>rev counter</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>12</count>
+          <currentgrade>3</currentgrade>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2024-04-15T12:26:47</date>
+          <date>2024-04-16T22:42:43</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>medidor de rpm</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:43:13</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="35">
       <translation id="0">
         <text>tachometer</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-16T22:42:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>medidor de rpm</text>
@@ -598,9 +638,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:14:45</date>
+          <date>2024-04-16T22:43:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -632,6 +672,14 @@
     <entry id="40">
       <translation id="0">
         <text>clutch</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:42:04</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>embreagem</text>
@@ -662,9 +710,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:15:22</date>
+          <date>2024-04-16T22:41:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -673,11 +721,11 @@
       <translation id="0">
         <text>gas</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>9</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>10</count>
           <errorcount>1</errorcount>
-          <date>2024-04-15T12:27:59</date>
+          <date>2024-04-16T22:41:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -685,10 +733,10 @@
         <text>acelerador</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:27:56</date>
+          <date>2024-04-16T22:43:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -698,15 +746,23 @@
         <text>accelerator</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T23:34:59</date>
+          <date>2024-04-16T22:43:28</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>acelerador</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-16T22:42:29</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="44">
@@ -785,11 +841,11 @@
       <translation id="0">
         <text>muffler</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2024-04-15T12:27:18</date>
+          <date>2024-04-16T22:42:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -814,9 +870,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:13:46</date>
+          <date>2024-04-16T22:40:49</date>
           <interval>0</interval>
         </grade>
       </translation>

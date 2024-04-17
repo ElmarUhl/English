@@ -8,7 +8,7 @@
     <contact>s.eller [at] voxhumanitatis.org</contact>
     <license>Dual license GPL and CC-BY-SA 3.0</license>
     <comment>This file is part of the [b]Vox Humanitatis Educational[/b] contens packages and was created for Parley. Further information on our work for Parley can be found on our website: [url]http://www.voxhumanitatis.org/content/parley[/url].  – please contact us (e-mail addresses are on the page) for suggestions and critics and of course also if you would have fun to co-operate in the creation of further packages or improving the existing ones.</comment>
-    <date>2024-04-15</date>
+    <date>2024-04-16</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -333,11 +333,11 @@
       <translation id="1">
         <text>exército</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>2</errorcount>
-          <date>2024-04-11T11:48:36</date>
+          <date>2024-04-16T23:04:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -550,10 +550,10 @@
         <text>grande</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T01:08:02</date>
+          <date>2024-04-16T23:03:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -896,10 +896,10 @@
         <text>borboleta</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T17:29:49</date>
+          <date>2024-04-16T23:04:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1195,6 +1195,14 @@
     <entry id="126">
       <translation id="0">
         <text>citizen</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T23:03:22</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>cidadão</text>
@@ -1366,9 +1374,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T13:08:02</date>
+          <date>2024-04-16T23:04:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1576,10 +1584,10 @@
         <text>chávena</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T00:02:26</date>
+          <date>2024-04-16T23:05:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1632,10 +1640,10 @@
         <text>morto</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T17:29:44</date>
+          <date>2024-04-16T23:05:52</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1792,11 +1800,11 @@
       <translation id="1">
         <text>diarreia</text>
         <grade>
-          <pregrade>7</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>11</count>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2024-04-12T17:29:14</date>
+          <date>2024-04-16T23:05:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1846,10 +1854,10 @@
         <text>dinosaur</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T13:09:53</date>
+          <date>2024-04-16T23:04:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2339,9 +2347,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T13:08:02</date>
+          <date>2024-04-16T23:03:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2626,10 +2634,10 @@
         <text>moldura</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>10</count>
           <errorcount>1</errorcount>
-          <date>2024-04-15T01:08:02</date>
+          <date>2024-04-16T23:03:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2707,9 +2715,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T13:08:02</date>
+          <date>2024-04-16T23:04:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2739,9 +2747,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T13:08:02</date>
+          <date>2024-04-16T23:05:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2890,10 +2898,10 @@
         <text>gramática</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T01:08:02</date>
+          <date>2024-04-16T23:03:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3144,6 +3152,14 @@
       </translation>
       <translation id="1">
         <text>horizonte</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T23:05:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="327">
@@ -3226,10 +3242,10 @@
         <text>humano</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T17:30:24</date>
+          <date>2024-04-16T23:04:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3295,10 +3311,10 @@
         <text>independence</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T17:29:56</date>
+          <date>2024-04-16T23:05:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3530,10 +3546,10 @@
         <text>Quénia</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T00:02:14</date>
+          <date>2024-04-16T23:03:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3650,10 +3666,10 @@
         <text>lei</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T01:08:02</date>
+          <date>2024-04-16T23:03:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3862,11 +3878,11 @@
       <translation id="0">
         <text>lousy</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2024-04-11T11:49:08</date>
+          <date>2024-04-16T23:03:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4015,10 +4031,10 @@
         <text>melon</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T13:08:51</date>
+          <date>2024-04-16T23:03:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4047,10 +4063,10 @@
         <text>milk</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T01:08:02</date>
+          <date>2024-04-16T23:03:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4208,6 +4224,14 @@
       </translation>
       <translation id="1">
         <text>movimento</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T23:04:34</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="438">
@@ -4314,10 +4338,10 @@
         <text>nervo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T01:08:02</date>
+          <date>2024-04-16T23:03:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4344,9 +4368,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T13:08:02</date>
+          <date>2024-04-16T23:05:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4423,10 +4447,10 @@
         <text>nutcracker</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T17:29:09</date>
+          <date>2024-04-16T23:03:47</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4651,10 +4675,10 @@
         <text>palácio</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T17:29:41</date>
+          <date>2024-04-16T23:04:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4760,10 +4784,10 @@
         <text>percent</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T01:08:02</date>
+          <date>2024-04-16T23:03:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4835,10 +4859,10 @@
         <text>física</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T00:02:35</date>
+          <date>2024-04-16T23:04:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4907,10 +4931,10 @@
         <text>plásticos</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T17:30:14</date>
+          <date>2024-04-16T23:04:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5211,10 +5235,10 @@
         <text>raquete</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T00:01:19</date>
+          <date>2024-04-16T23:04:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5480,10 +5504,10 @@
         <text>Russian</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-12T17:30:17</date>
+          <date>2024-04-16T23:04:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5502,6 +5526,14 @@
     <entry id="568">
       <translation id="0">
         <text>sad</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T23:03:52</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>triste</text>
@@ -5547,10 +5579,10 @@
         <text>são</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T01:08:02</date>
+          <date>2024-04-16T23:03:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5742,6 +5774,14 @@
     <entry id="594">
       <translation id="0">
         <text>shoe</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T23:05:34</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>sapato</text>
@@ -6195,10 +6235,10 @@
         <text>estudo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T00:01:57</date>
+          <date>2024-04-16T23:05:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6558,6 +6598,14 @@
     <entry id="682">
       <translation id="0">
         <text>to hunger</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-16T23:04:49</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>se</text>
@@ -6825,6 +6873,14 @@
       </translation>
       <translation id="1">
         <text>ombro</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-16T23:03:57</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="711">

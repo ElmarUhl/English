@@ -8,7 +8,7 @@
     <license>GPLv2+ (GNU Licença Pública Geral versão 2 ou posterior)</license>
     <comment>Tools names
 Nomes de ferramentas</comment>
-    <date>2024-04-15</date>
+    <date>2024-04-16</date>
     <category>Idiomas</category>
   </information>
   <identifiers>
@@ -109,10 +109,10 @@ Nomes de ferramentas</comment>
         <text>mallet</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:17:26</date>
+          <date>2024-04-16T22:44:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -120,10 +120,10 @@ Nomes de ferramentas</comment>
         <text>marreta</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:17:07</date>
+          <date>2024-04-16T22:46:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -136,10 +136,10 @@ Nomes de ferramentas</comment>
         <text>rolo de pintura</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:16:12</date>
+          <date>2024-04-16T22:45:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -165,10 +165,10 @@ Nomes de ferramentas</comment>
         <text>pliers</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:52:07</date>
+          <date>2024-04-16T22:45:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -181,15 +181,23 @@ Nomes de ferramentas</comment>
         <text>long-nose pliers</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:49:23</date>
+          <date>2024-04-16T22:45:11</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>alicate bico longo</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:45:16</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="10">
@@ -221,10 +229,10 @@ Nomes de ferramentas</comment>
         <text>chisel</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>9</count>
+          <currentgrade>2</currentgrade>
+          <count>10</count>
           <errorcount>1</errorcount>
-          <date>2024-04-15T12:50:23</date>
+          <date>2024-04-16T22:44:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -277,16 +285,24 @@ Nomes de ferramentas</comment>
         <text>trowel</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>11</count>
+          <currentgrade>2</currentgrade>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2024-04-13T20:15:44</date>
+          <date>2024-04-16T22:46:15</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/3b0b4da1/trowel.mp3</sound>
       </translation>
       <translation id="1">
         <text>colher de pedreiro</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:46:24</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="15">
@@ -313,10 +329,10 @@ Nomes de ferramentas</comment>
         <text>espatula de massa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:15:59</date>
+          <date>2024-04-16T22:45:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -377,10 +393,10 @@ Nomes de ferramentas</comment>
         <text>esquadro</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T23:40:50</date>
+          <date>2024-04-16T22:46:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -423,6 +439,14 @@ Nomes de ferramentas</comment>
       </translation>
       <translation id="1">
         <text>plaina</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:43:55</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="22">
@@ -518,10 +542,10 @@ Nomes de ferramentas</comment>
         <text>handsaw</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>9</count>
           <errorcount>1</errorcount>
-          <date>2024-04-15T12:52:20</date>
+          <date>2024-04-16T22:43:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -529,10 +553,10 @@ Nomes de ferramentas</comment>
         <text>serrote</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:50:40</date>
+          <date>2024-04-16T22:44:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -577,10 +601,10 @@ Nomes de ferramentas</comment>
         <text>cabo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:17:00</date>
+          <date>2024-04-16T22:45:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -590,10 +614,10 @@ Nomes de ferramentas</comment>
         <text>blade</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T23:41:36</date>
+          <date>2024-04-16T22:45:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -617,10 +641,10 @@ Nomes de ferramentas</comment>
         <text>arco da serra</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>14</count>
           <errorcount>2</errorcount>
-          <date>2024-04-15T12:50:36</date>
+          <date>2024-04-16T22:43:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -630,10 +654,10 @@ Nomes de ferramentas</comment>
         <text>wing nut</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>9</count>
+          <currentgrade>2</currentgrade>
+          <count>10</count>
           <errorcount>1</errorcount>
-          <date>2024-04-15T12:51:38</date>
+          <date>2024-04-16T22:45:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -641,10 +665,10 @@ Nomes de ferramentas</comment>
         <text>porca borboleta</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T23:41:50</date>
+          <date>2024-04-16T22:46:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -670,10 +694,10 @@ Nomes de ferramentas</comment>
         <text>axe</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:17:09</date>
+          <date>2024-04-16T22:45:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -718,10 +742,10 @@ Nomes de ferramentas</comment>
         <text>(electric) drill</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>11</count>
+          <currentgrade>3</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2024-04-14T23:41:22</date>
+          <date>2024-04-16T22:45:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -730,9 +754,9 @@ Nomes de ferramentas</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:16:35</date>
+          <date>2024-04-16T22:45:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -769,10 +793,10 @@ Nomes de ferramentas</comment>
         <text>mandril</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:16:08</date>
+          <date>2024-04-16T22:46:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -793,10 +817,10 @@ Nomes de ferramentas</comment>
         <text>broca</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:17:29</date>
+          <date>2024-04-16T22:46:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -825,10 +849,10 @@ Nomes de ferramentas</comment>
         <text>óculos de proteção</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:49:31</date>
+          <date>2024-04-16T22:45:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -889,10 +913,10 @@ Nomes de ferramentas</comment>
         <text>capacete</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:49:01</date>
+          <date>2024-04-16T22:46:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -924,6 +948,14 @@ Nomes de ferramentas</comment>
     <entry id="45">
       <translation id="0">
         <text>cone</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-16T22:45:43</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>cone</text>
@@ -1054,10 +1086,10 @@ Nomes de ferramentas</comment>
         <text>nail</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-15T12:51:40</date>
+          <date>2024-04-16T22:44:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1065,10 +1097,10 @@ Nomes de ferramentas</comment>
         <text>prego</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:16:20</date>
+          <date>2024-04-16T22:43:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1078,10 +1110,10 @@ Nomes de ferramentas</comment>
         <text>allen keys</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T23:42:26</date>
+          <date>2024-04-16T22:45:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1105,10 +1137,10 @@ Nomes de ferramentas</comment>
         <text>chaves Alen</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-13T20:16:01</date>
+          <date>2024-04-16T22:45:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1185,10 +1217,10 @@ Nomes de ferramentas</comment>
         <text>carrinho de mão</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-14T23:41:15</date>
+          <date>2024-04-16T22:44:52</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1241,6 +1273,422 @@ Nomes de ferramentas</comment>
           <interval>0</interval>
         </grade>
         <image>file:///run/user/1000/doc/77f67f69/stepladder.jpg</image>
+      </translation>
+    </entry>
+    <entry id="60">
+      <translation id="0">
+        <text>hammer</text>
+      </translation>
+      <translation id="1">
+        <text>martelo</text>
+      </translation>
+    </entry>
+    <entry id="61">
+      <translation id="0">
+        <text>anvil</text>
+      </translation>
+      <translation id="1">
+        <text>bigorna</text>
+      </translation>
+    </entry>
+    <entry id="62">
+      <translation id="0">
+        <text>cable</text>
+      </translation>
+      <translation id="1">
+        <text>fio</text>
+      </translation>
+    </entry>
+    <entry id="63">
+      <translation id="0">
+        <text>chainsaw</text>
+      </translation>
+      <translation id="1">
+        <text>motoserra</text>
+      </translation>
+    </entry>
+    <entry id="64">
+      <translation id="0">
+        <text>combination pliers</text>
+      </translation>
+      <translation id="1">
+        <text>alicate universal</text>
+      </translation>
+    </entry>
+    <entry id="65">
+      <translation id="0">
+        <text>workbench</text>
+      </translation>
+      <translation id="1">
+        <text>bancada</text>
+      </translation>
+    </entry>
+    <entry id="66">
+      <translation id="0">
+        <text>combination wrench</text>
+      </translation>
+      <translation id="1">
+        <text>chave combinada</text>
+      </translation>
+    </entry>
+    <entry id="67">
+      <translation id="0">
+        <text>flashlight</text>
+      </translation>
+      <translation id="1">
+        <text>lanterna</text>
+      </translation>
+    </entry>
+    <entry id="68">
+      <translation id="0">
+        <text>hand brush</text>
+      </translation>
+      <translation id="1">
+        <text>escova</text>
+      </translation>
+    </entry>
+    <entry id="69">
+      <translation id="0">
+        <text>saw blade</text>
+      </translation>
+      <translation id="1">
+        <text>lâmina de serra</text>
+      </translation>
+    </entry>
+    <entry id="70">
+      <translation id="0">
+        <text>hammer</text>
+      </translation>
+      <translation id="1">
+        <text>drill</text>
+      </translation>
+    </entry>
+    <entry id="71">
+      <translation id="0">
+        <text>nut driver</text>
+      </translation>
+      <translation id="1">
+        <text>chave canhão</text>
+      </translation>
+    </entry>
+    <entry id="72">
+      <translation id="0">
+        <text>angle iron</text>
+      </translation>
+      <translation id="1">
+        <text>cantoneira</text>
+      </translation>
+    </entry>
+    <entry id="73">
+      <translation id="0">
+        <text>angled box wrench</text>
+      </translation>
+      <translation id="1">
+        <text>chave L</text>
+      </translation>
+    </entry>
+    <entry id="74">
+      <translation id="0">
+        <text>socket wrench</text>
+      </translation>
+      <translation id="1">
+        <text>chave catraca</text>
+      </translation>
+    </entry>
+    <entry id="75">
+      <translation id="0">
+        <text>socket</text>
+      </translation>
+      <translation id="1">
+        <text>chave soquete</text>
+      </translation>
+    </entry>
+    <entry id="76">
+      <translation id="0">
+        <text>tweezer</text>
+      </translation>
+      <translation id="1">
+        <text>pinça</text>
+      </translation>
+    </entry>
+    <entry id="77">
+      <translation id="0">
+        <text>caliper</text>
+      </translation>
+      <translation id="1">
+        <text>paquímetro</text>
+      </translation>
+    </entry>
+    <entry id="78">
+      <translation id="0">
+        <text>ruler</text>
+      </translation>
+      <translation id="1">
+        <text>régua</text>
+      </translation>
+    </entry>
+    <entry id="79">
+      <translation id="0">
+        <text>scraper</text>
+      </translation>
+      <translation id="1">
+        <text>espátula</text>
+      </translation>
+    </entry>
+    <entry id="80">
+      <translation id="0">
+        <text>screwdriver</text>
+      </translation>
+      <translation id="1">
+        <text>chave de fenda</text>
+      </translation>
+    </entry>
+    <entry id="81">
+      <translation id="0">
+        <text>shovel</text>
+      </translation>
+      <translation id="1">
+        <text>pá</text>
+      </translation>
+    </entry>
+    <entry id="82">
+      <translation id="0">
+        <text>tools</text>
+      </translation>
+      <translation id="1">
+        <text>ferramentas</text>
+      </translation>
+    </entry>
+    <entry id="83">
+      <translation id="0">
+        <text>string</text>
+      </translation>
+      <translation id="1">
+        <text>cordão</text>
+      </translation>
+    </entry>
+    <entry id="84">
+      <translation id="0">
+        <text>wire brush</text>
+      </translation>
+      <translation id="1">
+        <text>escova de aço</text>
+      </translation>
+    </entry>
+    <entry id="85">
+      <translation id="0">
+        <text>rivet</text>
+      </translation>
+      <translation id="1">
+        <text>arrebite</text>
+      </translation>
+    </entry>
+    <entry id="86">
+      <translation id="0">
+        <text>circular saw</text>
+      </translation>
+      <translation id="1">
+        <text>serra circular</text>
+      </translation>
+    </entry>
+    <entry id="87">
+      <translation id="0">
+        <text>silicone</text>
+      </translation>
+      <translation id="1">
+        <text>silicone</text>
+      </translation>
+    </entry>
+    <entry id="88">
+      <translation id="0">
+        <text>glue</text>
+      </translation>
+      <translation id="1">
+        <text>cola</text>
+      </translation>
+    </entry>
+    <entry id="89">
+      <translation id="0">
+        <text>pincers</text>
+      </translation>
+      <translation id="1">
+        <text>torquez</text>
+      </translation>
+    </entry>
+    <entry id="90">
+      <translation id="0">
+        <text>soldering gun</text>
+      </translation>
+      <translation id="1">
+        <text>pistola cola</text>
+      </translation>
+    </entry>
+    <entry id="91">
+      <translation id="0">
+        <text>welder</text>
+      </translation>
+      <translation id="1">
+        <text>máquina de soldagem</text>
+      </translation>
+    </entry>
+    <entry id="92">
+      <translation id="0">
+        <text>concrete mixer</text>
+      </translation>
+      <translation id="1">
+        <text>betoneira</text>
+      </translation>
+    </entry>
+    <entry id="93">
+      <translation id="0">
+        <text>riverter</text>
+      </translation>
+      <translation id="1">
+        <text>rebitadeira</text>
+      </translation>
+    </entry>
+    <entry id="94">
+      <translation id="0">
+        <text>cloth</text>
+      </translation>
+      <translation id="1">
+        <text>pano</text>
+      </translation>
+    </entry>
+    <entry id="95">
+      <translation id="0">
+        <text>lathe</text>
+      </translation>
+      <translation id="1">
+        <text>torno mecânico</text>
+      </translation>
+    </entry>
+    <entry id="96">
+      <translation id="0">
+        <text>scaffolding</text>
+      </translation>
+      <translation id="1">
+        <text>andaime</text>
+      </translation>
+    </entry>
+    <entry id="97">
+      <translation id="0">
+        <text>drill press</text>
+      </translation>
+      <translation id="1">
+        <text>furadeira de bancada</text>
+      </translation>
+    </entry>
+    <entry id="98">
+      <translation id="0">
+        <text>center punch</text>
+      </translation>
+      <translation id="1">
+        <text>punção</text>
+      </translation>
+    </entry>
+    <entry id="99">
+      <translation id="0">
+        <text>table grinder</text>
+      </translation>
+      <translation id="1">
+        <text>esmeril</text>
+      </translation>
+    </entry>
+    <entry id="100">
+      <translation id="0">
+        <text>charger</text>
+      </translation>
+      <translation id="1">
+        <text>carregador</text>
+      </translation>
+    </entry>
+    <entry id="101">
+      <translation id="0">
+        <text>(board) marker</text>
+      </translation>
+      <translation id="1">
+        <text>marcador</text>
+      </translation>
+    </entry>
+    <entry id="102">
+      <translation id="0">
+        <text>tape</text>
+      </translation>
+      <translation id="1">
+        <text>fita</text>
+      </translation>
+    </entry>
+    <entry id="103">
+      <translation id="0">
+        <text>electrical tape</text>
+      </translation>
+      <translation id="1">
+        <text>fita isolante</text>
+      </translation>
+    </entry>
+    <entry id="104">
+      <translation id="0">
+        <text>pulley</text>
+      </translation>
+      <translation id="1">
+        <text>polia</text>
+      </translation>
+    </entry>
+    <entry id="105">
+      <translation id="0">
+        <text>whistle</text>
+      </translation>
+      <translation id="1">
+        <text>apito</text>
+      </translation>
+    </entry>
+    <entry id="106">
+      <translation id="0">
+        <text>needle</text>
+      </translation>
+      <translation id="1">
+        <text>agulha</text>
+      </translation>
+    </entry>
+    <entry id="107">
+      <translation id="0">
+        <text>sewing machine</text>
+      </translation>
+      <translation id="1">
+        <text>máquina de costura</text>
+      </translation>
+    </entry>
+    <entry id="108">
+      <translation id="0">
+        <text>thermometer</text>
+      </translation>
+      <translation id="1">
+        <text>termômetro</text>
+      </translation>
+    </entry>
+    <entry id="109">
+      <translation id="0">
+        <text>hook</text>
+      </translation>
+      <translation id="1">
+        <text>gancho</text>
+      </translation>
+    </entry>
+    <entry id="110">
+      <translation id="0">
+        <text>magnet</text>
+      </translation>
+      <translation id="1">
+        <text>imã</text>
+      </translation>
+    </entry>
+    <entry id="111">
+      <translation id="0">
+        <text>rope</text>
+      </translation>
+      <translation id="1">
+        <text>corda</text>
       </translation>
     </entry>
   </entries>
@@ -1308,6 +1756,62 @@ Nomes de ferramentas</comment>
       <entry id="57"/>
       <entry id="58"/>
       <entry id="59"/>
+    </container>
+        <container>
+      <name>Tools 2</name>
+      <inpractice>true</inpractice>
+      <entry id="60"/>
+      <entry id="61"/>
+      <entry id="62"/>
+      <entry id="63"/>
+      <entry id="64"/>
+      <entry id="65"/>
+      <entry id="66"/>
+      <entry id="67"/>
+      <entry id="68"/>
+      <entry id="69"/>
+      <entry id="70"/>
+      <entry id="71"/>
+      <entry id="72"/>
+      <entry id="73"/>
+      <entry id="74"/>
+      <entry id="75"/>
+      <entry id="76"/>
+      <entry id="77"/>
+      <entry id="78"/>
+      <entry id="79"/>
+      <entry id="80"/>
+      <entry id="81"/>
+      <entry id="82"/>
+      <entry id="83"/>
+      <entry id="84"/>
+      <entry id="85"/>
+      <entry id="86"/>
+      <entry id="87"/>
+      <entry id="88"/>
+      <entry id="89"/>
+      <entry id="90"/>
+      <entry id="91"/>
+      <entry id="92"/>
+      <entry id="93"/>
+      <entry id="94"/>
+      <entry id="95"/>
+      <entry id="96"/>
+      <entry id="97"/>
+      <entry id="98"/>
+      <entry id="99"/>
+      <entry id="100"/>
+      <entry id="101"/>
+      <entry id="102"/>
+      <entry id="103"/>
+      <entry id="104"/>
+      <entry id="105"/>
+      <entry id="106"/>
+      <entry id="107"/>
+      <entry id="108"/>
+      <entry id="109"/>
+      <entry id="110"/>
+      <entry id="111"/>
     </container>
   </lessons>
   <synonym>
