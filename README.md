@@ -1,4 +1,6 @@
 ![US-Flag](https://github.com/ElmarUhl/English/assets/157088447/90d31438-55f5-4b7f-9387-d132f23329af)
+![Flag_of_Brazil](https://github.com/ElmarUhl/English/assets/157088447/5ea286d4-cd98-4667-a3ef-abdf59e1471b)
+
 
 # English
 Repository for English-portuguese learners
