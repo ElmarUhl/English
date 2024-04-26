@@ -5,8 +5,15 @@ Repository for English-portuguese learners
 
 # Good Links
 
-[Fluent English Fast](https://www.youtube.com/@FluentEnglishFast/videos)
-[EnglishTestBlog](https://www.youtube.com/@EnglishTestBlog)
+## YouTube
+
+[EnglishBay](https://www.youtube.com/watch?v=g6eC2MQ1Kv8&list=PLZ65xj2SRHQB0T2GGk-R7bYxorKUkcyoj): YouTube channel with a good English course.
+
+[Fluent English Fast](https://www.youtube.com/@FluentEnglishFast/videos) [EnglishTestBlog](https://www.youtube.com/@EnglishTestBlog) [Easy English](https://www.youtube.com/@easyenglish551/videos) [Elanguages](https://www.youtube.com/@Elanguages) [Practice Easy English](https://www.youtube.com/@PracticeEasyEnglish/videos): videos to increase your vocabulary
+
+
+## Others
+
 [English Bay](https://app.englishbay.com.br/)
-[Easy English](https://www.youtube.com/@easyenglish551/videos)
-[Elanguages](https://www.youtube.com/@Elanguages)
+
+[Sound of text](https://soundoftext.cc): creates mp3 files from text as same style of Google tradutor.
