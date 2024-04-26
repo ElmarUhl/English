@@ -1,0 +1,2192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>Parley 23.08.4</generator>
+    <title>EnglishBay lessons</title>
+    <author>Elmar Uhl</author>
+    <license>Domínio público</license>
+    <date>2024-04-26</date>
+    <category>Idiomas</category>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>American English (United States)</name>
+      <locale>en_US</locale>
+    </identifier>
+    <identifier id="1">
+      <name>português (Brasil)</name>
+      <locale>pt_BR</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>Good evening, Ms. Miranda.</text>
+      </translation>
+      <translation id="1">
+        <text>Boa noite, Srta. Miranda.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-24T14:25:01</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>Hello!</text>
+      </translation>
+      <translation id="1">
+        <text>Olá!</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:16:07</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>Good morning!</text>
+      </translation>
+      <translation id="1">
+        <text>Bom dia!</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-23T16:30:36</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>Good afternoon!</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:15:28</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Boa tarde!</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:17:44</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>Good evening!</text>
+      </translation>
+      <translation id="1">
+        <text>Boa noite!</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>Mr.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-24T14:24:01</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Sr.</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>Mrs.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-23T16:31:15</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Sra.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-23T16:30:59</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>Ms.</text>
+      </translation>
+      <translation id="1">
+        <text>Senhorita</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-23T16:30:17</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>Sir</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-23T16:31:08</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>senhor</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:14:20</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>madam</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:15:15</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>madame</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>Ma'am</text>
+      </translation>
+      <translation id="1">
+        <text>madame</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:16:43</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>Hello, Mr. Ford.</text>
+        <grade>
+          <pregrade>3</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-26T12:53:34</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Olá, Sr. Ford.</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>Good evening, Mrs. Lane.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-23T16:29:05</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Boa noite, Sra. Lane.</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>Hello, madam.</text>
+      </translation>
+      <translation id="1">
+        <text>Olá, madame</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:52:55</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>Good afternoon, Mrs. Dayse.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-23T16:29:34</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Boa tarde, Sra. Dayse.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:16:14</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>Hi!</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-24T14:21:53</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Oi!</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>10</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-26T12:52:24</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>Good morning, Mr. Luthor.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>4</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:16:04</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Bom dia, Sr. Luthor.</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>What is your name?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual o seu nome?</text>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>My name's Elmar</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-24T14:22:47</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Meu nome é Elmar</text>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>I'm Elmar</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:14:30</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Eu sou Elmar</text>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>I am Elmar</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:17:07</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Eu sou Elmar</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-25T03:55:30</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>Pleased to meet you</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>12</count>
+          <errorcount>5</errorcount>
+          <date>2024-04-26T12:53:28</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Prazer em conhecê-lo</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:14:14</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>Nice to meet you too</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:15:48</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Prazer em conhecê-lo também</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-24T14:22:00</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>Nice to meet you</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-24T14:24:34</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Prazer em conhecê-lo</text>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>Glad to meet you</text>
+      </translation>
+      <translation id="1">
+        <text>Prazer em conhecê-lo</text>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>How are you?</text>
+      </translation>
+      <translation id="1">
+        <text>Como você está?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-25T03:56:10</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>How about you?</text>
+      </translation>
+      <translation id="1">
+        <text>E quanto a você?</text>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>What about you?</text>
+        <grade>
+          <pregrade>6</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-26T12:53:18</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>E quanto a você?</text>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>Is everythink well?</text>
+      </translation>
+      <translation id="1">
+        <text>Está tudo bem?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-25T13:40:34</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>What's up?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:53:39</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>E aí?</text>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>How have you been?</text>
+      </translation>
+      <translation id="1">
+        <text>Como você tem estado?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:53:24</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>I’m fine.</text>
+      </translation>
+      <translation id="1">
+        <text>Estou bem.</text>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>I am very well.</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-26T12:54:47</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Estou muito bem.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-25T03:53:50</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>I'm ok.</text>
+      </translation>
+      <translation id="1">
+        <text>Estou ok.</text>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>Yeah, I'm great.</text>
+      </translation>
+      <translation id="1">
+        <text>Sim, estou ótimo.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:17:39</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>Everything's good.</text>
+        <grade>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>11</count>
+          <errorcount>5</errorcount>
+          <date>2024-04-26T12:51:44</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Tudo ótimo.</text>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>Nice!</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-25T03:54:01</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Legal!</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:17:48</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>Pretty good!</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>3</errorcount>
+          <date>2024-04-26T12:52:21</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Muito bom!</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-26T12:53:47</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>So so.</text>
+      </translation>
+      <translation id="1">
+        <text>mais ou menos.</text>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>Nothing much.</text>
+      </translation>
+      <translation id="1">
+        <text>Praticamente nada.</text>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>Not very good.</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>10</count>
+          <errorcount>4</errorcount>
+          <date>2024-04-26T12:52:13</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Não muito bem.</text>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>I'm not feeling well.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não estou me sentindo bem.</text>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>I'm not ok.</text>
+        <grade>
+          <pregrade>7</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>9</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-26T12:52:48</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Eu não estou ok.</text>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>I am fine. And you?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-25T03:56:03</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Estou bem. E você?</text>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>Goodbye, bye-bye, bye</text>
+      </translation>
+      <translation id="1">
+        <text>tchau</text>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>See you soon.</text>
+      </translation>
+      <translation id="1">
+        <text>Te vejo em breve.</text>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>See you next time.</text>
+      </translation>
+      <translation id="1">
+        <text>Te vejo na próxima vez.</text>
+        <grade>
+          <pregrade>6</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>8</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-26T12:52:44</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>See you</text>
+      </translation>
+      <translation id="1">
+        <text>Te vejo.</text>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>Have a good day.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:14:47</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Tenha um bom dia.</text>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>Have a good night</text>
+      </translation>
+      <translation id="1">
+        <text>Tenha uma boa noite.</text>
+      </translation>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>Good night</text>
+      </translation>
+      <translation id="1">
+        <text>Boa noite.</text>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>Take care</text>
+      </translation>
+      <translation id="1">
+        <text>Cuide-se.</text>
+      </translation>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>So long</text>
+      </translation>
+      <translation id="1">
+        <text>Adeus.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:17:00</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>Farewell.</text>
+      </translation>
+      <translation id="1">
+        <text>Adeus.</text>
+      </translation>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>I look forward to seeing you again.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu estou ansioso para vê-lo novamente.</text>
+      </translation>
+    </entry>
+    <entry id="55">
+      <translation id="0">
+        <text>I look forward to talking to you again.</text>
+        <grade>
+          <pregrade>6</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>11</count>
+          <errorcount>4</errorcount>
+          <date>2024-04-26T12:52:06</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Eu estou ansioso para conversar com você novamente.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-25T13:41:03</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="56">
+      <translation id="0">
+        <text>How old are you?</text>
+      </translation>
+      <translation id="1">
+        <text>Quantos anos você tem?</text>
+      </translation>
+    </entry>
+    <entry id="57">
+      <translation id="0">
+        <text>What's your age?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:16:56</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Qual a sua idade?</text>
+      </translation>
+    </entry>
+    <entry id="58">
+      <translation id="0">
+        <text>I am 50 years old.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu tenho 50 anos.</text>
+      </translation>
+    </entry>
+    <entry id="59">
+      <translation id="0">
+        <text>I am 50.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:15:56</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Eu tenho 50.</text>
+      </translation>
+    </entry>
+    <entry id="60">
+      <translation id="0">
+        <text>Where are you from?</text>
+      </translation>
+      <translation id="1">
+        <text>De onde você é?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:54:05</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="61">
+      <translation id="0">
+        <text>I am from Brazil.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-25T03:54:41</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Eu sou do Brasil.</text>
+      </translation>
+    </entry>
+    <entry id="62">
+      <translation id="0">
+        <text>I am from Rio de Janeiro, Brazil.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu sou do Rio de Janeiro, Brasil.</text>
+      </translation>
+    </entry>
+    <entry id="63">
+      <translation id="0">
+        <text>Where do you live?</text>
+      </translation>
+      <translation id="1">
+        <text>Onde você mora?</text>
+      </translation>
+    </entry>
+    <entry id="64">
+      <translation id="0">
+        <text>I live in Rio de Janeiro.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu moro no Rio de Janeiro.</text>
+      </translation>
+    </entry>
+    <entry id="65">
+      <translation id="0">
+        <text>I am from Brazil, and I live in Rio de Janeiro.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu sou do Brasil e moro no Rio de Janeiro.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:15:37</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="66">
+      <translation id="0">
+        <text>I am from Brazil, but I live in Russia.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-25T13:39:50</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Eu sou do Brasil, mas moro na Rússia.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:17:19</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="67">
+      <translation id="0">
+        <text>What do you do?</text>
+      </translation>
+      <translation id="1">
+        <text>O que você faz?</text>
+      </translation>
+    </entry>
+    <entry id="68">
+      <translation id="0">
+        <text>What's your job?</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-26T12:53:08</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Qual é o seu trabalho?</text>
+      </translation>
+    </entry>
+    <entry id="69">
+      <translation id="0">
+        <text>What do you work with?</text>
+        <grade>
+          <pregrade>5</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-26T12:54:38</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Com que você trabalha?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:15:23</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="70">
+      <translation id="0">
+        <text>I am a researcher.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu sou um pesquisador.</text>
+      </translation>
+    </entry>
+    <entry id="71">
+      <translation id="0">
+        <text>I work as researcher.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu trabalho como pesquisador.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:15:08</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="72">
+      <translation id="0">
+        <text>I work with researcher.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-25T13:39:37</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Eu trabalho com pesquisa.</text>
+      </translation>
+    </entry>
+    <entry id="73">
+      <translation id="0">
+        <text>I work with sales.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu trabalho com vendas.</text>
+      </translation>
+    </entry>
+    <entry id="74">
+      <translation id="0">
+        <text>Where do you work?</text>
+      </translation>
+      <translation id="1">
+        <text>Onde você trabalha?</text>
+      </translation>
+    </entry>
+    <entry id="75">
+      <translation id="0">
+        <text>I work at home.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-25T13:41:12</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Eu trabalho em casa.</text>
+      </translation>
+    </entry>
+    <entry id="76">
+      <translation id="0">
+        <text>I am happy.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:53:51</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Estou feliz.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:53:54</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="77">
+      <translation id="0">
+        <text>I am sad.</text>
+      </translation>
+      <translation id="1">
+        <text>Estou triste.</text>
+      </translation>
+    </entry>
+    <entry id="78">
+      <translation id="0">
+        <text>I feel sad.</text>
+      </translation>
+      <translation id="1">
+        <text>Me sinto triste.</text>
+      </translation>
+    </entry>
+    <entry id="79">
+      <translation id="0">
+        <text>I feel happy.</text>
+      </translation>
+      <translation id="1">
+        <text>Me sinto feliz.</text>
+      </translation>
+    </entry>
+    <entry id="80">
+      <translation id="0">
+        <text>I am hungry.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:15:41</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Estou com fome.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:52:17</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="81">
+      <translation id="0">
+        <text>I am thirsty.</text>
+      </translation>
+      <translation id="1">
+        <text>Estou com sede.</text>
+      </translation>
+    </entry>
+    <entry id="82">
+      <translation id="0">
+        <text>I am hot.</text>
+      </translation>
+      <translation id="1">
+        <text>Estou com calor.</text>
+      </translation>
+    </entry>
+    <entry id="83">
+      <translation id="0">
+        <text>I am cold.</text>
+      </translation>
+      <translation id="1">
+        <text>Estou com frio.</text>
+      </translation>
+    </entry>
+    <entry id="84">
+      <translation id="0">
+        <text>What's your hobby?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual o seu hobby?</text>
+      </translation>
+    </entry>
+    <entry id="85">
+      <translation id="0">
+        <text>My hobby is aquarism.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu hobby é aquarismo.</text>
+      </translation>
+    </entry>
+    <entry id="86">
+      <translation id="0">
+        <text>My hobby is watching tv, movies and series.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu hobby é assistir TV, filmes e séries.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T11:17:32</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="87">
+      <translation id="0">
+        <text>My hobby is reading books and magazines</text>
+      </translation>
+      <translation id="1">
+        <text>Meu hobby é ler livros e revistas.</text>
+      </translation>
+    </entry>
+    <entry id="88">
+      <translation id="0">
+        <text>My hobby is listening to music.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu hobby é escutar música.</text>
+      </translation>
+    </entry>
+    <entry id="89">
+      <translation id="0">
+        <text>My hobby is playing sports.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu hobby é praticar esportes.</text>
+      </translation>
+    </entry>
+    <entry id="90">
+      <translation id="0">
+        <text>My hobby is going to the gym.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu hobby é ir à academia.</text>
+      </translation>
+    </entry>
+    <entry id="91">
+      <translation id="0">
+        <text>My hobby is riding a bicycle.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu hobby é andar de bicicleta.</text>
+      </translation>
+    </entry>
+    <entry id="92">
+      <translation id="0">
+        <text>My hobby is playing video games and computer games.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu hobby é jogar videogames e jogos de computador.</text>
+      </translation>
+    </entry>
+    <entry id="93">
+      <translation id="0">
+        <text>My hobby is shopping.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu hobby é fazer compras.</text>
+      </translation>
+    </entry>
+    <entry id="94">
+      <translation id="0">
+        <text>My hobby is playing the guitar.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu hobby é tocar violão/guitarra.</text>
+      </translation>
+    </entry>
+    <entry id="95">
+      <translation id="0">
+        <text>I like movies.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu gosto de filmes.</text>
+      </translation>
+    </entry>
+    <entry id="96">
+      <translation id="0">
+        <text>I like watching movies.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu gosto de assistir filmes.</text>
+      </translation>
+    </entry>
+    <entry id="97">
+      <translation id="0">
+        <text>I like to listen to music.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu gosto de escutar música.</text>
+      </translation>
+    </entry>
+    <entry id="98">
+      <translation id="0">
+        <text>Do you like sports?</text>
+      </translation>
+      <translation id="1">
+        <text>Você gosta de esportes?</text>
+      </translation>
+    </entry>
+    <entry id="99">
+      <translation id="0">
+        <text>Yes, I do.</text>
+      </translation>
+      <translation id="1">
+        <text>Sim, eu gosto.</text>
+      </translation>
+    </entry>
+    <entry id="100">
+      <translation id="0">
+        <text>No, I don't.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, eu não gosto.</text>
+      </translation>
+    </entry>
+    <entry id="101">
+      <translation id="0">
+        <text>Yes, I like sports.</text>
+      </translation>
+      <translation id="1">
+        <text>Sim, eu gosto de esportes.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:52:29</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="102">
+      <translation id="0">
+        <text>No, I don´t like sports.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, eu não gosto de esportes.</text>
+      </translation>
+    </entry>
+    <entry id="103">
+      <translation id="0">
+        <text>Yes, I like it.</text>
+      </translation>
+      <translation id="1">
+        <text>Sim, eu gosto.</text>
+      </translation>
+    </entry>
+    <entry id="104">
+      <translation id="0">
+        <text>No, I don't like it.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, eu não gosto.</text>
+      </translation>
+    </entry>
+    <entry id="105">
+      <translation id="0">
+        <text>What’s your favorite sport?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual seu esporte favorito?</text>
+      </translation>
+    </entry>
+    <entry id="106">
+      <translation id="0">
+        <text>My favorite sport is jiu-jitsu.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu esporte favorito é jiu-jitsu.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:53:01</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="107">
+      <translation id="0">
+        <text>My favorite sport is bodybuilding.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu esporte favorito é musculação.</text>
+      </translation>
+    </entry>
+    <entry id="108">
+      <translation id="0">
+        <text>Do you like movies?</text>
+      </translation>
+      <translation id="1">
+        <text>Você gosta de filmes?</text>
+      </translation>
+    </entry>
+    <entry id="109">
+      <translation id="0">
+        <text>Yes, I like movies.</text>
+      </translation>
+      <translation id="1">
+        <text>Sim, eu gosto de filmes.</text>
+      </translation>
+    </entry>
+    <entry id="110">
+      <translation id="0">
+        <text>No, I don't like movies.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, eu não gosto de filmes.</text>
+      </translation>
+    </entry>
+    <entry id="111">
+      <translation id="0">
+        <text>What's your favorite movie?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual seu filme favorito?</text>
+      </translation>
+    </entry>
+    <entry id="112">
+      <translation id="0">
+        <text>My favorite movie is Ben-Hur.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu filme favorito é Ben-Hur.</text>
+      </translation>
+    </entry>
+    <entry id="113">
+      <translation id="0">
+        <text>Do you like playing sports?</text>
+      </translation>
+      <translation id="1">
+        <text>Você gosta de praticar esportes?</text>
+      </translation>
+    </entry>
+    <entry id="114">
+      <translation id="0">
+        <text>Yes, I do. I like playing football.</text>
+      </translation>
+      <translation id="1">
+        <text>Sim, eu gosto. Eu gosto de jogar futebol.</text>
+      </translation>
+    </entry>
+    <entry id="115">
+      <translation id="0">
+        <text>Do you like to watch sports on tv?</text>
+      </translation>
+      <translation id="1">
+        <text>Você gosta assistir esportes na TV?</text>
+      </translation>
+    </entry>
+    <entry id="116">
+      <translation id="0">
+        <text>Yes, I do. I like watching volleyball.</text>
+      </translation>
+      <translation id="1">
+        <text>Sim, eu gosto. Eu gosto de assistir vôlei.</text>
+      </translation>
+    </entry>
+    <entry id="117">
+      <translation id="0">
+        <text>No, I don't. I don´t like sports.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, eu não gosto. Eu não gosto de esportes.</text>
+      </translation>
+    </entry>
+    <entry id="118">
+      <translation id="0">
+        <text>What kind of music do you like?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual tipo de música você gosta?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:51:51</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="119">
+      <translation id="0">
+        <text>I like rock.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu gosto de rock.</text>
+      </translation>
+    </entry>
+    <entry id="120">
+      <translation id="0">
+        <text>I like listening to reggae.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu gosto de escutar reggae.</text>
+      </translation>
+    </entry>
+    <entry id="121">
+      <translation id="0">
+        <text>What kind of music do you like?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual tipo de música você gosta?</text>
+      </translation>
+    </entry>
+    <entry id="122">
+      <translation id="0">
+        <text>What kind of movies do you like?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual tipo de filme você gosta?</text>
+      </translation>
+    </entry>
+    <entry id="123">
+      <translation id="0">
+        <text>What kind of book do you like?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual tipo de livro você gosta?</text>
+      </translation>
+    </entry>
+    <entry id="124">
+      <translation id="0">
+        <text>What kind of sport do you like?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:52:37</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Qual tipo de esporte você gosta?</text>
+      </translation>
+    </entry>
+    <entry id="125">
+      <translation id="0">
+        <text>What kind of game do you like?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual tipo de jogo você gosta?</text>
+      </translation>
+    </entry>
+    <entry id="126">
+      <translation id="0">
+        <text>What kind of food do you like?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual tipo de comida você gosta?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:54:00</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="127">
+      <translation id="0">
+        <text>Do you like watching movies?</text>
+      </translation>
+      <translation id="1">
+        <text>Você gosta de assistir filmes?</text>
+      </translation>
+    </entry>
+    <entry id="128">
+      <translation id="0">
+        <text>Do you like reading books?</text>
+      </translation>
+      <translation id="1">
+        <text>Você gosta de ler livros?</text>
+      </translation>
+    </entry>
+    <entry id="129">
+      <translation id="0">
+        <text>Do you like listening to music?</text>
+      </translation>
+      <translation id="1">
+        <text>Você gosta de escutar música?</text>
+      </translation>
+    </entry>
+    <entry id="130">
+      <translation id="0">
+        <text>Do you like playing online games?</text>
+      </translation>
+      <translation id="1">
+        <text>Você gosta de jogar jogos online?</text>
+      </translation>
+    </entry>
+    <entry id="131">
+      <translation id="0">
+        <text>Do you like traveling?</text>
+      </translation>
+      <translation id="1">
+        <text>Você gosta de viajar?</text>
+      </translation>
+    </entry>
+    <entry id="132">
+      <translation id="0">
+        <text>Do you like cooking?</text>
+      </translation>
+      <translation id="1">
+        <text>Você gosta de cozinhar?</text>
+      </translation>
+    </entry>
+    <entry id="133">
+      <translation id="0">
+        <text>Do you like shooping?</text>
+      </translation>
+      <translation id="1">
+        <text>Você gosta de fazer compras?</text>
+      </translation>
+    </entry>
+    <entry id="134">
+      <translation id="0">
+        <text>What's your favorite serie?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual sua série favorita?</text>
+      </translation>
+    </entry>
+    <entry id="135">
+      <translation id="0">
+        <text>My favorite serie is Game of Thrones.</text>
+      </translation>
+      <translation id="1">
+        <text>Minha série favorita é Game of Thrones.</text>
+      </translation>
+    </entry>
+    <entry id="136">
+      <translation id="0">
+        <text>What's your favorite book?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual seu livro favorito?</text>
+      </translation>
+    </entry>
+    <entry id="137">
+      <translation id="0">
+        <text>I don't have a favorite book.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não tenho um livro favorito.</text>
+      </translation>
+    </entry>
+    <entry id="138">
+      <translation id="0">
+        <text>What's your favorite band?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual sua banda favorita?</text>
+      </translation>
+    </entry>
+    <entry id="139">
+      <translation id="0">
+        <text>My favorite band is U2.</text>
+      </translation>
+      <translation id="1">
+        <text>Minha banda. favorita é U2.</text>
+      </translation>
+    </entry>
+    <entry id="140">
+      <translation id="0">
+        <text>What's your favorite city?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual sua cidade favorita?</text>
+      </translation>
+    </entry>
+    <entry id="141">
+      <translation id="0">
+        <text>My favorite city is Curitiba.</text>
+      </translation>
+      <translation id="1">
+        <text>Minha cidade favorita é Curitiba.</text>
+      </translation>
+    </entry>
+    <entry id="142">
+      <translation id="0">
+        <text>What's your favorite food?</text>
+      </translation>
+      <translation id="1">
+        <text>Qual sua comida favorita?</text>
+      </translation>
+    </entry>
+    <entry id="143">
+      <translation id="0">
+        <text>My favorite food is roast chicken.</text>
+      </translation>
+      <translation id="1">
+        <text>Minha comida favorita é galinha assada.</text>
+      </translation>
+    </entry>
+    <entry id="144">
+      <translation id="0">
+        <text>I like ...</text>
+      </translation>
+      <translation id="1">
+        <text>Eu gosto...</text>
+      </translation>
+    </entry>
+    <entry id="145">
+      <translation id="0">
+        <text>I’m into ...</text>
+      </translation>
+      <translation id="1">
+        <text>Eu gosto ...</text>
+      </translation>
+    </entry>
+    <entry id="146">
+      <translation id="0">
+        <text>I’m interested in ...</text>
+      </translation>
+      <translation id="1">
+        <text>Estou interessado em ...</text>
+      </translation>
+    </entry>
+    <entry id="147">
+      <translation id="0">
+        <text>I’m fond of ...</text>
+      </translation>
+      <translation id="1">
+        <text>Eu gosto de ...</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-26T12:51:57</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="148">
+      <translation id="0">
+        <text>I’m enjoy ...</text>
+      </translation>
+      <translation id="1">
+        <text>Estou gostando de ...</text>
+      </translation>
+    </entry>
+    <entry id="149">
+      <translation id="0">
+        <text>I like bananas.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu gosto de bananas.</text>
+      </translation>
+    </entry>
+    <entry id="150">
+      <translation id="0">
+        <text>I'm into rock music.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu gosto de rock.</text>
+      </translation>
+    </entry>
+    <entry id="151">
+      <translation id="0">
+        <text>I'm interested in literature.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu estou interessado em literatura.</text>
+      </translation>
+    </entry>
+    <entry id="152">
+      <translation id="0">
+        <text>I’m fond of sports.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu gosto de esportes.</text>
+      </translation>
+    </entry>
+    <entry id="153">
+      <translation id="0">
+        <text>I enjoy surfing.</text>
+      </translation>
+      <translation id="1">
+        <text>Estou gostando de surfar.</text>
+      </translation>
+    </entry>
+    <entry id="154">
+      <translation id="0">
+        <text>I don't like ...</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não gosto de ...</text>
+      </translation>
+    </entry>
+    <entry id="155">
+      <translation id="0">
+        <text>I'm not into ...</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não gosto de ...</text>
+      </translation>
+    </entry>
+    <entry id="156">
+      <translation id="0">
+        <text>I'm not interested in ...</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não me interesso por ...</text>
+      </translation>
+    </entry>
+    <entry id="157">
+      <translation id="0">
+        <text>I'm not fond of ...</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não gosto de ...</text>
+      </translation>
+    </entry>
+    <entry id="158">
+      <translation id="0">
+        <text>I don't enjoy ...</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não estou gostando de ...</text>
+      </translation>
+    </entry>
+    <entry id="159">
+      <translation id="0">
+        <text>I dislike ...</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não gosto de ...</text>
+      </translation>
+    </entry>
+    <entry id="160">
+      <translation id="0">
+        <text>I hate…</text>
+      </translation>
+      <translation id="1">
+        <text>Eu odeio ...</text>
+      </translation>
+    </entry>
+    <entry id="161">
+      <translation id="0">
+        <text>I don't like apples.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não gosto de maçãs.</text>
+      </translation>
+    </entry>
+    <entry id="162">
+      <translation id="0">
+        <text>I'm not into jazz.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não gosto de jazz.</text>
+      </translation>
+    </entry>
+    <entry id="163">
+      <translation id="0">
+        <text>I'm not interested in literature.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não me interesso por literatura.</text>
+      </translation>
+    </entry>
+    <entry id="164">
+      <translation id="0">
+        <text>I'm not fond of shopping.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não gosto de fazer compras.</text>
+      </translation>
+    </entry>
+    <entry id="165">
+      <translation id="0">
+        <text>I don't enjoy online games.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não gosto de jogos online.</text>
+      </translation>
+    </entry>
+    <entry id="166">
+      <translation id="0">
+        <text>I dislike orange juice.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não gosto de suco de laranja.</text>
+      </translation>
+    </entry>
+    <entry id="167">
+      <translation id="0">
+        <text>I hate mustard.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu odeio mustarda.</text>
+      </translation>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Module 1 Class 1</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+      <entry id="22"/>
+      <entry id="23"/>
+      <entry id="24"/>
+      <entry id="25"/>
+      <entry id="26"/>
+      <entry id="27"/>
+      <entry id="28"/>
+      <entry id="29"/>
+      <entry id="30"/>
+      <entry id="31"/>
+      <entry id="32"/>
+      <entry id="33"/>
+      <entry id="34"/>
+      <entry id="35"/>
+      <entry id="36"/>
+      <entry id="37"/>
+      <entry id="38"/>
+      <entry id="39"/>
+      <entry id="40"/>
+      <entry id="41"/>
+      <entry id="42"/>
+      <entry id="43"/>
+      <entry id="44"/>
+      <entry id="45"/>
+      <entry id="46"/>
+      <entry id="47"/>
+      <entry id="48"/>
+      <entry id="49"/>
+      <entry id="50"/>
+      <entry id="51"/>
+      <entry id="52"/>
+      <entry id="53"/>
+      <entry id="54"/>
+      <entry id="55"/>
+    </container>
+    <container>
+      <name>Module 1 Class 2</name>
+      <inpractice>true</inpractice>
+      <entry id="56"/>
+      <entry id="57"/>
+      <entry id="58"/>
+      <entry id="59"/>
+      <entry id="60"/>
+      <entry id="61"/>
+      <entry id="62"/>
+      <entry id="63"/>
+      <entry id="64"/>
+      <entry id="65"/>
+      <entry id="66"/>
+      <entry id="67"/>
+      <entry id="68"/>
+      <entry id="69"/>
+      <entry id="70"/>
+      <entry id="71"/>
+      <entry id="72"/>
+      <entry id="73"/>
+      <entry id="74"/>
+      <entry id="75"/>
+    </container>
+    <container>
+      <name>Module 1 Class 6</name>
+      <inpractice>true</inpractice>
+      <entry id="76"/>
+      <entry id="77"/>
+      <entry id="78"/>
+      <entry id="79"/>
+      <entry id="80"/>
+      <entry id="81"/>
+      <entry id="82"/>
+      <entry id="83"/>
+    </container>
+    <container>
+      <name>Module 1 Class 7</name>
+      <inpractice>true</inpractice>
+      <entry id="84"/>
+      <entry id="85"/>
+      <entry id="86"/>
+      <entry id="87"/>
+      <entry id="88"/>
+      <entry id="89"/>
+      <entry id="90"/>
+      <entry id="91"/>
+      <entry id="92"/>
+      <entry id="93"/>
+      <entry id="94"/>
+    </container>
+    <container>
+      <name>Module 1 Class 8</name>
+      <inpractice>true</inpractice>
+      <entry id="95"/>
+      <entry id="96"/>
+      <entry id="97"/>
+      <entry id="98"/>
+      <entry id="99"/>
+      <entry id="100"/>
+      <entry id="101"/>
+      <entry id="102"/>
+      <entry id="103"/>
+      <entry id="104"/>
+      <entry id="105"/>
+      <entry id="106"/>
+      <entry id="107"/>
+      <entry id="108"/>
+      <entry id="109"/>
+      <entry id="110"/>
+      <entry id="111"/>
+      <entry id="112"/>
+      <entry id="113"/>
+      <entry id="114"/>
+      <entry id="115"/>
+      <entry id="116"/>
+      <entry id="117"/>
+      <entry id="118"/>
+      <entry id="119"/>
+      <entry id="120"/>
+      <entry id="121"/>
+      <entry id="122"/>
+      <entry id="123"/>
+      <entry id="124"/>
+      <entry id="125"/>
+      <entry id="126"/>
+      <entry id="127"/>
+      <entry id="128"/>
+      <entry id="129"/>
+      <entry id="130"/>
+      <entry id="131"/>
+      <entry id="132"/>
+      <entry id="133"/>
+      <entry id="134"/>
+      <entry id="135"/>
+      <entry id="136"/>
+      <entry id="137"/>
+      <entry id="138"/>
+      <entry id="139"/>
+      <entry id="140"/>
+      <entry id="141"/>
+      <entry id="142"/>
+      <entry id="143"/>
+      <entry id="144"/>
+      <entry id="145"/>
+      <entry id="146"/>
+      <entry id="147"/>
+      <entry id="148"/>
+      <entry id="149"/>
+      <entry id="150"/>
+      <entry id="151"/>
+      <entry id="152"/>
+      <entry id="153"/>
+      <entry id="154"/>
+      <entry id="155"/>
+      <entry id="156"/>
+      <entry id="157"/>
+      <entry id="158"/>
+      <entry id="159"/>
+      <entry id="160"/>
+      <entry id="161"/>
+      <entry id="162"/>
+      <entry id="163"/>
+      <entry id="164"/>
+      <entry id="165"/>
+      <entry id="166"/>
+      <entry id="167"/>
+    </container>
+  </lessons>
+  <wordtypes>
+    <container>
+      <name>Substantivo</name>
+      <specialwordtype>noun</specialwordtype>
+      <container>
+        <name>Masculino</name>
+        <specialwordtype>noun/male</specialwordtype>
+      </container>
+      <container>
+        <name>Feminino</name>
+        <specialwordtype>noun/female</specialwordtype>
+      </container>
+      <container>
+        <name>Neutro</name>
+        <specialwordtype>noun/neutral</specialwordtype>
+      </container>
+    </container>
+    <container>
+      <name>Verbo</name>
+      <specialwordtype>verb</specialwordtype>
+    </container>
+    <container>
+      <name>Adjetivo</name>
+      <specialwordtype>adjective</specialwordtype>
+    </container>
+    <container>
+      <name>Advérbio</name>
+      <specialwordtype>adverb</specialwordtype>
+    </container>
+    <container>
+      <name>Conjunção</name>
+      <specialwordtype>conjunction</specialwordtype>
+    </container>
+  </wordtypes>
+</kvtml>

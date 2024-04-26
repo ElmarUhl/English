@@ -1,0 +1,24 @@
+American	americano
+Australian	australiano
+Brazilian	brasileiro
+British	britânico
+Canadian	canadense
+Chinese	chinês
+Egyptian*	egípicio
+English	inglês
+French	francês
+German	alemão
+Greek	grego
+Indian	indiano
+Irish	irlandês
+Italian	italiano
+Japanese	japonês
+Mexican	mexicano
+Nigerian	nigeriano
+Portuguese	português
+Russian	russo
+South Korean	sul coreano
+Spanish	espanhol
+Swedish	sueco
+Swiss	suiço
+Turkish	turco

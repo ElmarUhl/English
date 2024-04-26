@@ -1,0 +1,4 @@
+Artic Ocean	Oceano Ártico
+Atlantic Ocean	Oceano Atlântico
+Indian Ocean	Oceano Índico
+Pacific Ocean	Oceano Pacífico
