@@ -1,0 +1,4 @@
+brick	tijolo
+building	imóvel
+chair	cadeira
+

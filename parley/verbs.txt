@@ -18,6 +18,7 @@ blend	misturar
 blink	piscar
 blow	soprar
 boil	fever
+borrow	pegar emprestado de
 bow	arquear
 brag	gabar-se
 break	quebrar
@@ -25,11 +26,13 @@ brew	coar café ou chá
 broil	assar pelo calor abaixo
 brush	escovar
 build   construir
+buy	comprar
 calculate	calcular
 call	chamar
 carry	carregar
 catch	pegar, agarrar
 charge	carregar
+chase	perseguir
 chew	mastigar
 chisel	usar talhadeira
 chop	cortar
@@ -38,6 +41,8 @@ clap	bater palmas
 clean	limpar
 climb	escalar
 close	fechar
+color	colorir
+comb	pentear
 come	vir
 connect	conectar
 consult	consultar
@@ -65,6 +70,7 @@ destroy	destruir
 dice	cortar em cubos
 dig	escavar
 discuss	dicutir
+dislike	não gostar
 dissect	dissecar
 dive	mergulhar
 divide	dividir
@@ -82,6 +88,7 @@ dye	tingir
 eat	comer
 edit	editar
 encourage	encorajar
+enjoy	aproveitar
 enter	entrar
 erase	apagar
 explode	explodir
@@ -90,6 +97,7 @@ faint	desmaiar
 fall	cair
 feed	alimentar
 feel	sentir
+find	encontrar
 finish	terminar
 flick	estalar
 flip	virar
@@ -102,9 +110,11 @@ fondle	acariciar
 frown	fazer careta
 fry	fritar
 fry	fritar
+gargle	gargarejar
 garnish	adornar
 give	dar
 glide	planar
+glue	colar
 grab	pegar
 grasp	entender
 grate	ralar
@@ -117,11 +127,14 @@ grow	crescer
 hammer	martelar
 hang	pendurar
 harvest colher
+hate	odiar
+have	ter
 hear	ouvir
 help	ajudar
 hide	esconder
 hike    caminhar
 hold	segurar
+hop	saltar
 hug	abraçar
 hunch	palpitar
 interpret	interpretar
@@ -142,20 +155,29 @@ leak	pingar
 lean	encostar
 learn	aprender
 leave	deixar
+lend	emprestar para
 lick	lamber
 lift	levantar
+like	ser como
 listen	escutar
+lock	trancar
 look	olhar
+lose	perder
+love	amar
 mark	marcar
 massage	massagear
 measure	medir
+microwave	usar o microondas
+miss	perder
 mix	misturar
 mix	misturar
 move	mover
 mumble	resmungar
+need	precisar
 nibble	mordiscar
 nod	acenar com a cabeça
 open	abrir
+own	possuir
 pack	empacotar
 paint	pintar
 park    estacionar
@@ -198,6 +220,7 @@ repair	reparar
 repeat	repetir
 rescue	resgatar
 rest	descansar
+return	retornar
 ride	andar de
 rinse	limpar
 rise	ascender
@@ -207,13 +230,16 @@ roll	rolar
 rub	esfregar
 run	correr
 saw	serrar
+score	pontuar
 scratch	arranhar
 scream	gritar
 scrub	esfregar
 sculpt	esculpir
 sear	tostar
+seek	procurar
 see	ver
 select	selecionar
+sell	vender
 send	enviar
 sew	costurar
 shake	sacudir
@@ -232,11 +258,13 @@ sing	cantar
 sip	beber pequenas quantidades
 sit	sentar
 ski	esquiar
+skip	pular
 slam	bater
 sleep	dormir
 slice	fatiar
 slide	escorregar
 slip	escorregar
+slurp	comer ou beber fazendo barulho
 smash	esmagar
 smell	cheirar
 smile	sorrir
@@ -252,7 +280,9 @@ spray	borrifar
 spread	espalhar*
 squeeze	espremer
 stand	ficar
+staple	grampear
 start	começar
+stay	ficar
 steam	cozinhar no vapor
 stir	mexer
 stoop	inclinar-se
@@ -263,7 +293,9 @@ study	estudar
 suck	chupar
 swallow	engolir
 swim	nadar
+swing	balançar
 swoop	investir
+tag	marcar
 talk	conversar
 tap	tocar
 taste	provar
@@ -278,23 +310,28 @@ tickle	cócegas
 tie	atar
 tighten	apertar
 tiptoe	ficar na ponta dos pés
+toast	tostar
 touch	tocar
 travel	viajar
 trim	aparar
 tumble	tombar
 turn	virar, voltar
+twist	torcer
 type	digitar
 unload	descarregar
+unlock	destrancar
 unpack	desempacotar
 unplug	desplugar
 vacuum	limpar com aspirador de pó
 vibrate	vibrar
+visit	visitar
 vomit	vomitar
 wade	caminhar sobre um líquido com esforço
 wag	abanar
 wait	esperar
 wake	acordar
 walk	caminhar
+want	querer
 wash	lavar
 watch	assistir
 water   regar com água
@@ -308,6 +345,7 @@ whisper	sussurrar
 whistle	assobiar
 whittle	talhar em madeira
 wiggle	mexer
+win	ganhar
 wink	piscar
 wipe	limpar
 wither	mirrar
@@ -319,3 +357,55 @@ wring	torcer
 write	escrever
 yawn	bocejar
 zest	ralar a casca de frutas cítricas
+
+
+
+----------------------------------------------
+Novos
+achieve	alcançar
+agree to	concordar
+approve	aprovar
+assume	presumir
+attain	atingir
+be	ser, estar
+capture	capturar
+choose	escolher
+collect	coletar
+convince	convencer
+criticize	criticar
+distribute	distribuir
+do	fazer
+draw	abrir
+exhibit	exibir
+find	achar
+find fault with	encontrar falhas em
+fix	consertar
+gather	juntar
+get	ganhar, conseguir, pegar
+go	ir
+insult	insultar
+know	saber
+make	fazer
+obtain	obter
+offend	ofender
+persuade	persuadir
+propose	propor
+publish	publicar
+purchase	comprar
+reply	responder
+resolve	resolver
+respond	responder
+say	dizer
+secure	asegurar
+seem	parecer
+show	mostrar
+suggest	sugerir
+suspect	suspeitar
+take	pegar, levar
+tell	contar
+toss	lançar
+transform	transformar
+transport	transportar
+try	tentar, experimentar
+unearth	desenterrar
+use	usar

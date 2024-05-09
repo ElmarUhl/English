@@ -22,3 +22,6 @@ Spanish	espanhol
 Swedish	sueco
 Swiss	suiço
 Turkish	turco
+Asian	asiático
+Roman	Romano
+

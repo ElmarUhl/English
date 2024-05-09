@@ -6,7 +6,7 @@
     <title>Animals</title>
     <author>Elmar Uhl</author>
     <comment>Animals vocabulary</comment>
-    <date>2024-04-25</date>
+    <date>2024-05-08</date>
     <category>idiom</category>
   </information>
   <identifiers>
@@ -25,10 +25,10 @@
         <text>cat</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:28:22</date>
+          <date>2024-05-04T19:12:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -36,10 +36,10 @@
         <text>gato</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:23:31</date>
+          <date>2024-05-03T13:50:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -49,10 +49,10 @@
         <text>dog</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>6</count>
+          <currentgrade>7</currentgrade>
+          <count>8</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T13:42:16</date>
+          <date>2024-05-03T13:50:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -60,10 +60,10 @@
         <text>cachorro</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:23:44</date>
+          <date>2024-05-03T13:50:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -73,10 +73,10 @@
         <text>chicken</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>6</count>
+          <currentgrade>7</currentgrade>
+          <count>8</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:41:30</date>
+          <date>2024-05-03T13:51:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -84,10 +84,10 @@
         <text>galinha</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:28:26</date>
+          <date>2024-05-04T19:12:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -97,10 +97,10 @@
         <text>cow</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:24:16</date>
+          <date>2024-05-03T13:51:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -108,10 +108,10 @@
         <text>vaca</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>6</count>
+          <currentgrade>6</currentgrade>
+          <count>9</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:52:48</date>
+          <date>2024-05-08T02:16:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -121,10 +121,10 @@
         <text>horse</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>6</count>
+          <currentgrade>7</currentgrade>
+          <count>8</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:41:03</date>
+          <date>2024-05-03T13:51:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -132,10 +132,10 @@
         <text>cavalo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:28:27</date>
+          <date>2024-05-03T13:50:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -145,10 +145,10 @@
         <text>donkey</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:24:26</date>
+          <date>2024-05-03T13:50:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -156,10 +156,10 @@
         <text>burro</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>6</count>
+          <currentgrade>7</currentgrade>
+          <count>8</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T13:42:13</date>
+          <date>2024-05-03T13:50:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -169,10 +169,10 @@
         <text>pig</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:24:12</date>
+          <date>2024-05-03T13:50:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -180,10 +180,10 @@
         <text>porco</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>6</count>
+          <currentgrade>7</currentgrade>
+          <count>8</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:41:05</date>
+          <date>2024-05-03T13:50:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -193,10 +193,10 @@
         <text>sheep</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>6</count>
+          <currentgrade>7</currentgrade>
+          <count>8</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:41:00</date>
+          <date>2024-05-03T13:50:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -204,10 +204,10 @@
         <text>ovelha</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:23:22</date>
+          <date>2024-05-03T13:50:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -217,10 +217,10 @@
         <text>goat</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:23:18</date>
+          <date>2024-05-03T13:50:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -228,10 +228,10 @@
         <text>cabra</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:24:18</date>
+          <date>2024-05-03T13:50:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -241,10 +241,10 @@
         <text>rabbit</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:24:08</date>
+          <date>2024-05-03T13:50:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -252,10 +252,10 @@
         <text>coelho</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:23:29</date>
+          <date>2024-05-03T13:50:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -265,10 +265,10 @@
         <text>snake</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:41:37</date>
+          <date>2024-05-03T13:50:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -276,10 +276,10 @@
         <text>cobra</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:41:11</date>
+          <date>2024-05-03T13:50:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -289,10 +289,10 @@
         <text>kitten</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:41:34</date>
+          <date>2024-05-03T13:50:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -300,10 +300,10 @@
         <text>gatinho</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:41:08</date>
+          <date>2024-05-03T13:51:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -313,10 +313,10 @@
         <text>puppies</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:40:55</date>
+          <date>2024-05-03T13:50:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -324,10 +324,10 @@
         <text>cachorrinhos</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:40:50</date>
+          <date>2024-05-03T13:50:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -337,10 +337,10 @@
         <text>elephant</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:41:26</date>
+          <date>2024-05-01T05:19:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -348,10 +348,10 @@
         <text>elefante</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:40:58</date>
+          <date>2024-05-03T13:51:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -361,10 +361,10 @@
         <text>hippo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:41:20</date>
+          <date>2024-05-01T05:18:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -372,12 +372,580 @@
         <text>hipopótamo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T01:40:52</date>
+          <date>2024-05-03T13:50:40</date>
           <interval>0</interval>
         </grade>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>cock</text>
+      </translation>
+      <translation id="1">
+        <text>galo</text>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>dinosaur</text>
+      </translation>
+      <translation id="1">
+        <text>dinossauro</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>fish</text>
+      </translation>
+      <translation id="1">
+        <text>peixe</text>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>fowl</text>
+      </translation>
+      <translation id="1">
+        <text>ave</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-08T04:26:44</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>frog</text>
+      </translation>
+      <translation id="1">
+        <text>sapo</text>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>gazelle</text>
+      </translation>
+      <translation id="1">
+        <text>gazela</text>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>giraffe</text>
+      </translation>
+      <translation id="1">
+        <text>girafa</text>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>goose</text>
+      </translation>
+      <translation id="1">
+        <text>ganso</text>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>hedgehog</text>
+      </translation>
+      <translation id="1">
+        <text>ouriço</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T04:25:51</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>hen</text>
+      </translation>
+      <translation id="1">
+        <text>galinha</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T04:26:31</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>human</text>
+      </translation>
+      <translation id="1">
+        <text>humano</text>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>hyena</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-08T04:25:45</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>hiena</text>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>koala</text>
+      </translation>
+      <translation id="1">
+        <text>Koala</text>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>mosquitos</text>
+      </translation>
+      <translation id="1">
+        <text>mosquito</text>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>owl</text>
+      </translation>
+      <translation id="1">
+        <text>mocho</text>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>parrot</text>
+      </translation>
+      <translation id="1">
+        <text>papagaio</text>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>peacock</text>
+      </translation>
+      <translation id="1">
+        <text>pavão</text>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>penguin</text>
+      </translation>
+      <translation id="1">
+        <text>pinguim</text>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>rabbit</text>
+      </translation>
+      <translation id="1">
+        <text>coelho</text>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>seal</text>
+      </translation>
+      <translation id="1">
+        <text>foca</text>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>snake</text>
+      </translation>
+      <translation id="1">
+        <text>cobra</text>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>sparrow</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T04:25:21</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>pardal</text>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>spider</text>
+      </translation>
+      <translation id="1">
+        <text>aranha</text>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>squirrel</text>
+      </translation>
+      <translation id="1">
+        <text>esquilo</text>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>ant</text>
+      </translation>
+      <translation id="1">
+        <text>formiga</text>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>bee</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T04:26:13</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>abelha</text>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>bear</text>
+      </translation>
+      <translation id="1">
+        <text>urso</text>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>turtle</text>
+      </translation>
+      <translation id="1">
+        <text>tartaruga</text>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>bird</text>
+      </translation>
+      <translation id="1">
+        <text>pássaro</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T04:25:24</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>butterfly</text>
+      </translation>
+      <translation id="1">
+        <text>borboleta</text>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>camel</text>
+      </translation>
+      <translation id="1">
+        <text>camelo</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T04:25:35</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>cattle</text>
+      </translation>
+      <translation id="1">
+        <text>gado</text>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>crow</text>
+      </translation>
+      <translation id="1">
+        <text>corvo</text>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>dolphin</text>
+      </translation>
+      <translation id="1">
+        <text>golfinho</text>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>duck</text>
+      </translation>
+      <translation id="1">
+        <text>pato</text>
+      </translation>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>goose</text>
+      </translation>
+      <translation id="1">
+        <text>ganso</text>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>rhino</text>
+      </translation>
+      <translation id="1">
+        <text>rinoceronte</text>
+      </translation>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>bird</text>
+      </translation>
+      <translation id="1">
+        <text>pássaro</text>
+      </translation>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>wolf</text>
+      </translation>
+      <translation id="1">
+        <text>lobo</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T04:26:23</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>wos</text>
+      </translation>
+      <translation id="1">
+        <text>verme</text>
+      </translation>
+    </entry>
+    <entry id="55">
+      <translation id="0">
+        <text>turtle</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T04:26:40</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>tartaruga</text>
+      </translation>
+    </entry>
+    <entry id="56">
+      <translation id="0">
+        <text>cattle</text>
+      </translation>
+      <translation id="1">
+        <text>gado</text>
+      </translation>
+    </entry>
+    <entry id="57">
+      <translation id="0">
+        <text>camel</text>
+      </translation>
+      <translation id="1">
+        <text>camelo</text>
+      </translation>
+    </entry>
+    <entry id="58">
+      <translation id="0">
+        <text>butterfly</text>
+      </translation>
+      <translation id="1">
+        <text>borboleta</text>
+      </translation>
+    </entry>
+    <entry id="59">
+      <translation id="0">
+        <text>tiger</text>
+      </translation>
+      <translation id="1">
+        <text>tigre</text>
+      </translation>
+    </entry>
+    <entry id="60">
+      <translation id="0">
+        <text>duck</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T04:26:03</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>pato</text>
+      </translation>
+    </entry>
+    <entry id="61">
+      <translation id="0">
+        <text>dolphin</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T04:25:55</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>golfinho</text>
+      </translation>
+    </entry>
+    <entry id="62">
+      <translation id="0">
+        <text>gull</text>
+      </translation>
+      <translation id="1">
+        <text>gaivota</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-08T04:26:17</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="63">
+      <translation id="0">
+        <text>mouse</text>
+      </translation>
+      <translation id="1">
+        <text>rato</text>
+      </translation>
+    </entry>
+    <entry id="64">
+      <translation id="0">
+        <text>monkey</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T04:25:38</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>macaco</text>
+      </translation>
+    </entry>
+    <entry id="65">
+      <translation id="0">
+        <text>ostrich</text>
+      </translation>
+      <translation id="1">
+        <text>avestruz</text>
+      </translation>
+    </entry>
+    <entry id="66">
+      <translation id="0">
+        <text>crow</text>
+      </translation>
+      <translation id="1">
+        <text>corvo</text>
+      </translation>
+    </entry>
+    <entry id="67">
+      <translation id="0">
+        <text>deer</text>
+      </translation>
+      <translation id="1">
+        <text>cervo</text>
+      </translation>
+    </entry>
+    <entry id="68">
+      <translation id="0">
+        <text>swan</text>
+      </translation>
+      <translation id="1">
+        <text>cisne</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-08T04:26:25</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="69">
+      <translation id="0">
+        <text>fox</text>
+      </translation>
+      <translation id="1">
+        <text>raposa</text>
+      </translation>
+    </entry>
+    <entry id="70">
+      <translation id="0">
+        <text>scorpion</text>
+      </translation>
+      <translation id="1">
+        <text>escorpião</text>
       </translation>
     </entry>
   </entries>
@@ -400,6 +968,62 @@
       <entry id="12"/>
       <entry id="13"/>
       <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+      <entry id="22"/>
+      <entry id="23"/>
+      <entry id="24"/>
+      <entry id="25"/>
+      <entry id="26"/>
+      <entry id="27"/>
+      <entry id="28"/>
+      <entry id="29"/>
+      <entry id="30"/>
+      <entry id="31"/>
+      <entry id="32"/>
+      <entry id="33"/>
+      <entry id="34"/>
+      <entry id="35"/>
+      <entry id="36"/>
+      <entry id="37"/>
+      <entry id="38"/>
+      <entry id="39"/>
+      <entry id="40"/>
+      <entry id="41"/>
+      <entry id="42"/>
+      <entry id="43"/>
+      <entry id="44"/>
+      <entry id="45"/>
+      <entry id="46"/>
+      <entry id="47"/>
+      <entry id="48"/>
+      <entry id="49"/>
+      <entry id="50"/>
+      <entry id="51"/>
+      <entry id="52"/>
+      <entry id="53"/>
+      <entry id="54"/>
+      <entry id="55"/>
+      <entry id="56"/>
+      <entry id="57"/>
+      <entry id="58"/>
+      <entry id="59"/>
+      <entry id="60"/>
+      <entry id="61"/>
+      <entry id="62"/>
+      <entry id="63"/>
+      <entry id="64"/>
+      <entry id="65"/>
+      <entry id="66"/>
+      <entry id="67"/>
+      <entry id="68"/>
+      <entry id="69"/>
+      <entry id="70"/>
     </container>
   </lessons>
 </kvtml>

@@ -8,7 +8,7 @@
     <license>GPLv2+ (GNU Licença Pública Geral versão 2 ou posterior)</license>
     <comment>Vocabulary for body parts
 Vocabulário para partes do corpo</comment>
-    <date>2024-04-26</date>
+    <date>2024-05-08</date>
     <category>Idiomas</category>
   </information>
   <identifiers>
@@ -51,10 +51,10 @@ Vocabulário para partes do corpo</comment>
         <text>face</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:05:15</date>
+          <date>2024-05-04T19:08:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -75,10 +75,10 @@ Vocabulário para partes do corpo</comment>
         <text>hair</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:23:27</date>
+          <date>2024-05-04T19:06:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -99,21 +99,22 @@ Vocabulário para partes do corpo</comment>
         <text>cheek</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-17T11:26:17</date>
+          <date>2024-05-03T01:20:12</date>
           <interval>0</interval>
         </grade>
+        <sound>file:///run/user/1000/doc/523b4cba/cheek.mp3</sound>
       </translation>
       <translation id="1">
         <text>bochecha</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:22:36</date>
+          <date>2024-05-04T19:05:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -123,10 +124,10 @@ Vocabulário para partes do corpo</comment>
         <text>forehead</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
+          <currentgrade>2</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-05-07T02:42:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -134,10 +135,10 @@ Vocabulário para partes do corpo</comment>
         <text>testa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:25:44</date>
+          <date>2024-05-03T01:18:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -145,7 +146,7 @@ Vocabulário para partes do corpo</comment>
     <entry id="5">
       <translation id="0">
         <text>temple</text>
-        <image>file:///run/user/1000/doc/a3ef57e8/temple.png</image>
+        <image>file:///run/user/1000/doc/506d2ef3/temple.jpg</image>
       </translation>
       <translation id="1">
         <text>têmpora</text>
@@ -165,10 +166,10 @@ Vocabulário para partes do corpo</comment>
         <text>eyebrow</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:23:52</date>
+          <date>2024-05-04T19:06:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -176,10 +177,10 @@ Vocabulário para partes do corpo</comment>
         <text>sobrancelha</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:04:15</date>
+          <date>2024-04-27T00:38:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -189,10 +190,10 @@ Vocabulário para partes do corpo</comment>
         <text>eye</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T13:32:09</date>
+          <date>2024-05-03T13:46:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -224,10 +225,10 @@ Vocabulário para partes do corpo</comment>
         <text>orelha</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-05-08T02:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -238,9 +239,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-07T02:41:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -261,10 +262,10 @@ Vocabulário para partes do corpo</comment>
         <text>bridge of the nose</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>12</count>
+          <currentgrade>5</currentgrade>
+          <count>14</count>
           <errorcount>1</errorcount>
-          <date>2024-04-26T11:07:21</date>
+          <date>2024-05-03T13:45:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -272,10 +273,10 @@ Vocabulário para partes do corpo</comment>
         <text>espaço entre os olhos</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:05:07</date>
+          <date>2024-05-04T19:08:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -285,10 +286,10 @@ Vocabulário para partes do corpo</comment>
         <text>nostril</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:55</date>
+          <date>2024-05-01T12:33:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -296,10 +297,10 @@ Vocabulário para partes do corpo</comment>
         <text>narina</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:28</date>
+          <date>2024-05-01T12:32:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -309,10 +310,10 @@ Vocabulário para partes do corpo</comment>
         <text>mouth</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-05-08T02:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -344,10 +345,10 @@ Vocabulário para partes do corpo</comment>
         <text>dente</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:48:21</date>
+          <date>2024-05-05T18:44:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -366,17 +367,25 @@ Vocabulário para partes do corpo</comment>
       </translation>
       <translation id="1">
         <text>dentes</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:41:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="15">
       <translation id="0">
         <text>lips</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:21:47</date>
+          <date>2024-05-04T19:04:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -396,11 +405,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>chin</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:21:03</date>
+          <date>2024-05-08T02:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -408,10 +417,10 @@ Vocabulário para partes do corpo</comment>
         <text>queixo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:04:53</date>
+          <date>2024-04-27T00:40:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -432,10 +441,10 @@ Vocabulário para partes do corpo</comment>
         <text>mandíbula</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:18</date>
+          <date>2024-04-27T00:39:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -456,10 +465,10 @@ Vocabulário para partes do corpo</comment>
         <text>pupila</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>3</count>
+          <currentgrade>2</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-05-08T02:06:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -468,11 +477,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>iris</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>10</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:20:43</date>
+          <date>2024-05-07T02:41:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -480,10 +489,10 @@ Vocabulário para partes do corpo</comment>
         <text>íris</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:04</date>
+          <date>2024-05-01T12:33:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -499,16 +508,16 @@ Vocabulário para partes do corpo</comment>
           <date>2024-04-21T00:17:33</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/9d72f1c3/sclera.jpg</image>
+        <image>file:///run/user/1000/doc/fdb6990/sclera.jpg</image>
       </translation>
       <translation id="1">
         <text>esclera</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:23:55</date>
+          <date>2024-05-04T19:05:59</date>
           <interval>0</interval>
         </grade>
         <image>file:///run/user/1000/doc/9d72f1c3/sclera.jpg</image>
@@ -519,22 +528,22 @@ Vocabulário para partes do corpo</comment>
         <text>sclera</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:05:02</date>
+          <date>2024-04-27T00:39:57</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/9d72f1c3/sclera.jpg</image>
+        <image>file:///run/user/1000/doc/fdb6990/sclera.jpg</image>
       </translation>
       <translation id="1">
         <text>esclera</text>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-18T12:45:14</date>
+          <date>2024-05-07T02:41:01</date>
           <interval>0</interval>
         </grade>
         <image>file:///run/user/1000/doc/9d72f1c3/sclera.jpg</image>
@@ -545,10 +554,10 @@ Vocabulário para partes do corpo</comment>
         <text>eyelid</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:04:46</date>
+          <date>2024-04-27T00:40:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -579,11 +588,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="1">
         <text>cílio</text>
         <grade>
-          <pregrade>6</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>8</count>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:20:41</date>
+          <date>2024-05-08T02:08:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -593,22 +602,22 @@ Vocabulário para partes do corpo</comment>
         <text>tear duct</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:24:10</date>
+          <date>2024-05-03T01:18:24</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/8cd230ed/tear_duct.jpg</image>
+        <image>file:///run/user/1000/doc/3987a140/tear_duct.jpg</image>
       </translation>
       <translation id="1">
         <text>canal lacrimal</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:04:29</date>
+          <date>2024-04-27T00:38:29</date>
           <interval>0</interval>
         </grade>
         <image>file:///run/user/1000/doc/8cd230ed/tear_duct.jpg</image>
@@ -619,10 +628,10 @@ Vocabulário para partes do corpo</comment>
         <text>body</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:31</date>
+          <date>2024-05-03T01:19:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -630,10 +639,10 @@ Vocabulário para partes do corpo</comment>
         <text>corpo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:09</date>
+          <date>2024-04-27T00:39:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -677,6 +686,14 @@ Vocabulário para partes do corpo</comment>
       </translation>
       <translation id="1">
         <text>pomo de adão</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:41:26</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="28">
@@ -684,10 +701,10 @@ Vocabulário para partes do corpo</comment>
         <text>shoulder</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:06:56</date>
+          <date>2024-05-03T13:45:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -695,10 +712,10 @@ Vocabulário para partes do corpo</comment>
         <text>ombro</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:26</date>
+          <date>2024-04-27T00:38:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -719,10 +736,10 @@ Vocabulário para partes do corpo</comment>
         <text>peito</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
+          <currentgrade>1</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-07T14:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -731,11 +748,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>nipple</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:21:58</date>
+          <date>2024-04-27T12:53:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -743,10 +760,10 @@ Vocabulário para partes do corpo</comment>
         <text>mamilo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:28:47</date>
+          <date>2024-05-03T01:20:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -756,10 +773,10 @@ Vocabulário para partes do corpo</comment>
         <text>stomach</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:49:03</date>
+          <date>2024-05-05T18:43:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -767,10 +784,10 @@ Vocabulário para partes do corpo</comment>
         <text>barriga</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:51</date>
+          <date>2024-04-27T00:38:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -780,10 +797,10 @@ Vocabulário para partes do corpo</comment>
         <text>navel</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:33</date>
+          <date>2024-04-27T00:38:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -791,10 +808,10 @@ Vocabulário para partes do corpo</comment>
         <text>umbigo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:05:11</date>
+          <date>2024-04-27T00:40:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -850,15 +867,23 @@ Vocabulário para partes do corpo</comment>
     <entry id="35">
       <translation id="0">
         <text>armpit</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:05:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>axila</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:04:32</date>
+          <date>2024-04-27T00:39:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -866,15 +891,23 @@ Vocabulário para partes do corpo</comment>
     <entry id="36">
       <translation id="0">
         <text>elbow</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:07:27</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>cotovelo</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>10</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:25:28</date>
+          <date>2024-04-27T12:54:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -895,10 +928,10 @@ Vocabulário para partes do corpo</comment>
         <text>mão</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:23</date>
+          <date>2024-04-27T00:37:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -919,10 +952,10 @@ Vocabulário para partes do corpo</comment>
         <text>pulso</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:26</date>
+          <date>2024-05-01T12:33:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -930,6 +963,14 @@ Vocabulário para partes do corpo</comment>
     <entry id="39">
       <translation id="0">
         <text>palm</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:41:10</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>palma da mão</text>
@@ -954,7 +995,7 @@ Vocabulário para partes do corpo</comment>
           <date>2024-04-15T12:14:55</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/a6527ddf/thumb.jpg</image>
+        <image>file:///run/user/1000/doc/4168a8a/thumb.jpg</image>
         <sound>file:///run/user/1000/doc/1bc38805/thumb.mp3</sound>
       </translation>
       <translation id="1">
@@ -973,6 +1014,14 @@ Vocabulário para partes do corpo</comment>
     <entry id="41">
       <translation id="0">
         <text>index finger</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-01T12:34:47</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>dedo indicador</text>
@@ -991,10 +1040,10 @@ Vocabulário para partes do corpo</comment>
         <text>forefinger</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:46</date>
+          <date>2024-05-03T01:18:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1015,10 +1064,10 @@ Vocabulário para partes do corpo</comment>
         <text>middle finger</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:28:16</date>
+          <date>2024-05-01T12:33:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1026,10 +1075,10 @@ Vocabulário para partes do corpo</comment>
         <text>dedo médio</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:22:29</date>
+          <date>2024-05-04T19:05:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1040,9 +1089,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-05-04T19:04:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1087,10 +1136,10 @@ Vocabulário para partes do corpo</comment>
         <text>knuckles</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:23:44</date>
+          <date>2024-05-03T01:19:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1103,10 +1152,10 @@ Vocabulário para partes do corpo</comment>
         <text>fingernail</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>9</count>
+          <currentgrade>1</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-25T03:48:14</date>
+          <date>2024-05-07T14:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1114,10 +1163,10 @@ Vocabulário para partes do corpo</comment>
         <text>unha da mão</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:48:29</date>
+          <date>2024-05-05T18:44:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1138,10 +1187,10 @@ Vocabulário para partes do corpo</comment>
         <text>perna</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T13:31:45</date>
+          <date>2024-05-03T13:46:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1151,10 +1200,10 @@ Vocabulário para partes do corpo</comment>
         <text>knee</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:28:06</date>
+          <date>2024-05-03T01:18:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1162,10 +1211,10 @@ Vocabulário para partes do corpo</comment>
         <text>joelho</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:12</date>
+          <date>2024-05-01T12:33:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1222,11 +1271,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>instep</text>
         <grade>
-          <pregrade>7</pregrade>
+          <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>10</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:20:33</date>
+          <date>2024-05-04T19:04:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1272,10 +1321,10 @@ Vocabulário para partes do corpo</comment>
         <text>ankle</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:22:45</date>
+          <date>2024-05-03T01:19:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1283,10 +1332,10 @@ Vocabulário para partes do corpo</comment>
         <text>tornozelo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:54</date>
+          <date>2024-04-27T00:38:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1297,9 +1346,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>12</count>
+          <count>13</count>
           <errorcount>2</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-04T19:04:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1343,11 +1392,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>feet</text>
         <grade>
-          <pregrade>6</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>8</count>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>11</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:20:58</date>
+          <date>2024-05-08T02:08:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1367,11 +1416,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>arch of the foot</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-05T18:44:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1379,10 +1428,10 @@ Vocabulário para partes do corpo</comment>
         <text>arco do pé</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>1</count>
+          <currentgrade>1</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-17T11:24:34</date>
+          <date>2024-05-07T14:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1391,22 +1440,22 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>ball of the foot</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>13</count>
+          <count>16</count>
           <errorcount>3</errorcount>
-          <date>2024-04-24T01:22:41</date>
+          <date>2024-05-07T02:41:01</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>joanete</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
-          <errorcount>1</errorcount>
-          <date>2024-04-24T01:24:20</date>
+          <count>9</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-27T12:54:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1417,9 +1466,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-04-30T14:10:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1427,10 +1476,10 @@ Vocabulário para partes do corpo</comment>
         <text>dedos dos pés</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T13:31:38</date>
+          <date>2024-05-03T13:44:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1440,10 +1489,10 @@ Vocabulário para partes do corpo</comment>
         <text>sneeze</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>13</count>
+          <currentgrade>5</currentgrade>
+          <count>16</count>
           <errorcount>1</errorcount>
-          <date>2024-04-26T11:07:35</date>
+          <date>2024-05-03T13:44:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1452,9 +1501,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:55:46</date>
+          <date>2024-05-08T02:08:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1477,9 +1526,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:56:14</date>
+          <date>2024-05-07T02:43:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1491,9 +1540,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:55:54</date>
+          <date>2024-05-08T02:07:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1502,9 +1551,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:56:52</date>
+          <date>2024-05-08T02:07:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1528,9 +1577,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:56:42</date>
+          <date>2024-05-07T02:42:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1553,9 +1602,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:56:31</date>
+          <date>2024-05-07T02:42:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1566,10 +1615,10 @@ Vocabulário para partes do corpo</comment>
         <text>belch</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>16</count>
+          <currentgrade>6</currentgrade>
+          <count>18</count>
           <errorcount>2</errorcount>
-          <date>2024-04-25T03:48:47</date>
+          <date>2024-05-05T18:43:34</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/699330d9/belch.mp3</sound>
@@ -1579,9 +1628,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:56:22</date>
+          <date>2024-05-07T02:43:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1593,9 +1642,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:56:59</date>
+          <date>2024-05-07T02:42:32</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1629,9 +1678,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:56:50</date>
+          <date>2024-05-07T02:41:33</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1642,22 +1691,22 @@ Vocabulário para partes do corpo</comment>
         <text>crack the knuckles</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>13</count>
+          <currentgrade>0</currentgrade>
+          <count>14</count>
           <errorcount>1</errorcount>
-          <date>2024-04-26T11:08:18</date>
+          <date>2024-05-05T18:43:09</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/a2f534a/crack the knuckles.jpg</image>
+        <image>file:///run/user/1000/doc/28d15dcd/crack-the-knuckles.jpg</image>
       </translation>
       <translation id="1">
         <text>estalar os dedos</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:22:52</date>
+          <date>2024-05-04T19:06:25</date>
           <interval>0</interval>
         </grade>
         <image>file:///run/user/1000/doc/a2f534a/crack the knuckles.jpg</image>
@@ -1671,10 +1720,10 @@ Vocabulário para partes do corpo</comment>
         <text>gargle</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:04:26</date>
+          <date>2024-04-27T00:37:35</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/5e5cb44f/gargle.mp3</sound>
@@ -1696,23 +1745,23 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>cough</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>5</count>
-          <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:59</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-27T00:40:30</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/5e363c40/cough.mp3</sound>
       </translation>
       <translation id="1">
-        <text>tossir</text>
+        <text>tosse</text>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:56:17</date>
+          <date>2024-05-07T02:41:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1723,10 +1772,10 @@ Vocabulário para partes do corpo</comment>
         <text>hiccup</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>11</count>
+          <currentgrade>1</currentgrade>
+          <count>12</count>
           <errorcount>1</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-05-07T14:05:59</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/b84468c3/hiccup.mp3</sound>
@@ -1736,9 +1785,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:57:03</date>
+          <date>2024-05-07T02:41:38</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1750,24 +1799,24 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:56:07</date>
+          <date>2024-05-07T02:42:49</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/781a2081/snap the fingers.png</image>
+        <image>file:///run/user/1000/doc/e15877e2/snap-the-fingers.jpg</image>
       </translation>
       <translation id="1">
         <text>estalar os dedos</text>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:55:50</date>
+          <date>2024-05-08T02:08:27</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/781a2081/snap the fingers.png</image>
+        <image>file:///run/user/1000/doc/e15877e2/snap-the-fingers.jpg</image>
       </translation>
       <translation id="2">
         <image>file:///run/user/1000/doc/781a2081/snap the fingers.png</image>
@@ -1779,9 +1828,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:13:55</date>
+          <date>2024-05-08T02:07:09</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/8cf9652/whisper.mp3</sound>
@@ -1790,10 +1839,10 @@ Vocabulário para partes do corpo</comment>
         <text>sussurar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>12</count>
+          <currentgrade>2</currentgrade>
+          <count>13</count>
           <errorcount>1</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-05-07T02:41:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1805,9 +1854,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:56:01</date>
+          <date>2024-05-08T02:06:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1816,9 +1865,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>7</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>0</errorcount>
-          <date>2024-04-06T14:56:47</date>
+          <date>2024-05-07T02:42:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1866,11 +1915,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="1">
         <text>bocejar</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>5</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:20:55</date>
+          <date>2024-04-27T12:54:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1880,11 +1929,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>tap the fingers</text>
         <grade>
-          <pregrade>0</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>12</count>
-          <errorcount>1</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <count>14</count>
+          <errorcount>2</errorcount>
+          <date>2024-05-03T01:20:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1930,9 +1979,25 @@ Vocabulário para partes do corpo</comment>
     <entry id="80">
       <translation id="0">
         <text>fair hair</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-29T13:35:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>louro</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-30T14:10:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="81">
@@ -1940,10 +2005,10 @@ Vocabulário para partes do corpo</comment>
         <text>belt</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:48:24</date>
+          <date>2024-05-05T18:43:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1951,10 +2016,10 @@ Vocabulário para partes do corpo</comment>
         <text>cinto</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:34</date>
+          <date>2024-05-03T01:18:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1965,10 +2030,10 @@ Vocabulário para partes do corpo</comment>
         <text>bikini</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>3</count>
+          <currentgrade>2</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-07T02:42:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1976,10 +2041,10 @@ Vocabulário para partes do corpo</comment>
         <text>biquini</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:59</date>
+          <date>2024-05-01T12:34:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1990,10 +2055,10 @@ Vocabulário para partes do corpo</comment>
         <text>blouse</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:16</date>
+          <date>2024-05-01T12:34:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2013,15 +2078,23 @@ Vocabulário para partes do corpo</comment>
     <entry id="84">
       <translation id="0">
         <text>boots</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:05:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>botas</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>5</count>
+          <currentgrade>6</currentgrade>
+          <count>7</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:48:35</date>
+          <date>2024-05-05T18:44:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2030,9 +2103,25 @@ Vocabulário para partes do corpo</comment>
     <entry id="85">
       <translation id="0">
         <text>cap</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:05:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>boné</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-30T14:10:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="2"/>
     </entry>
@@ -2040,11 +2129,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>coat</text>
         <grade>
-          <pregrade>0</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-04-16T22:23:27</date>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-30T14:12:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2066,10 +2155,10 @@ Vocabulário para partes do corpo</comment>
         <text>dress</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-05-07T02:41:05</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2091,23 +2180,23 @@ Vocabulário para partes do corpo</comment>
         <text>gloves</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:25:58</date>
+          <date>2024-05-03T01:18:39</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/d0cb8d3/gloves.jpg</image>
+        <image>file:///run/user/1000/doc/1590a693/gloves.jpg</image>
         <sound>file:///run/user/1000/doc/f402af1e/gloves.mp3</sound>
       </translation>
       <translation id="1">
         <text>luvas</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T13:31:19</date>
+          <date>2024-05-03T13:45:50</date>
           <interval>0</interval>
         </grade>
         <image>file:///run/user/1000/doc/d0cb8d3/gloves.jpg</image>
@@ -2120,26 +2209,26 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>mittens</text>
         <grade>
-          <pregrade>5</pregrade>
+          <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2024-04-24T01:21:32</date>
+          <date>2024-05-03T01:18:12</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/f326f666/mittens.jpg</image>
+        <image>file:///run/user/1000/doc/1c51bb57/mittens.jpg</image>
       </translation>
       <translation id="1">
         <text>luvas</text>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-05-08T02:05:59</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/f326f666/mittens.jpg</image>
+        <image>file:///run/user/1000/doc/1c51bb57/mittens.jpg</image>
       </translation>
       <translation id="2">
         <image>file:///run/user/1000/doc/f326f666/mittens.jpg</image>
@@ -2149,26 +2238,26 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>fingerless gloves</text>
         <grade>
-          <pregrade>0</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <count>6</count>
+          <errorcount>2</errorcount>
+          <date>2024-05-04T19:09:06</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/ce1c1040/fingerless-gloves.jpg</image>
+        <image>file:///run/user/1000/doc/aab188a9/fingerless-gloves.jpg</image>
       </translation>
       <translation id="1">
         <text>luvas</text>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-18T12:45:14</date>
+          <date>2024-05-08T02:05:59</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/ce1c1040/fingerless-gloves.jpg</image>
+        <image>file:///run/user/1000/doc/aab188a9/fingerless-gloves.jpg</image>
       </translation>
       <translation id="2">
         <image>file:///run/user/1000/doc/ce1c1040/fingerless-gloves.jpg</image>
@@ -2177,9 +2266,25 @@ Vocabulário para partes do corpo</comment>
     <entry id="91">
       <translation id="0">
         <text>hat</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:06:04</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>chapéu</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:05:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="2"/>
     </entry>
@@ -2189,9 +2294,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>11</count>
           <errorcount>2</errorcount>
-          <date>2024-04-22T13:31:23</date>
+          <date>2024-05-07T02:41:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2199,10 +2304,10 @@ Vocabulário para partes do corpo</comment>
         <text>capuz</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:07:29</date>
+          <date>2024-05-04T19:06:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2212,16 +2317,24 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>jacket</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>8</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:24:11</date>
+          <date>2024-04-27T12:55:46</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>jaqueta</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-03T13:44:28</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="2"/>
     </entry>
@@ -2241,10 +2354,10 @@ Vocabulário para partes do corpo</comment>
         <text>jeans</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T13:31:41</date>
+          <date>2024-05-03T13:44:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2261,16 +2374,16 @@ Vocabulário para partes do corpo</comment>
           <date>2024-04-11T11:30:40</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/2b5c58ee/dungarees.jpg</image>
+        <image>file:///run/user/1000/doc/527c53ba/dungarees.jpg</image>
       </translation>
       <translation id="1">
         <text>macacão</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:23:07</date>
+          <date>2024-05-04T19:08:04</date>
           <interval>0</interval>
         </grade>
         <image>file:///run/user/1000/doc/2b5c58ee/dungarees.jpg</image>
@@ -2290,16 +2403,16 @@ Vocabulário para partes do corpo</comment>
           <date>2024-04-12T16:48:27</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/c33b919b/overalls.jpeg</image>
+        <image>file:///run/user/1000/doc/41e5770f/overalls.jpg</image>
       </translation>
       <translation id="1">
         <text>macação</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-17T11:25:46</date>
+          <date>2024-05-01T12:32:54</date>
           <interval>0</interval>
         </grade>
         <image>file:///run/user/1000/doc/c33b919b/overalls.jpeg</image>
@@ -2316,10 +2429,10 @@ Vocabulário para partes do corpo</comment>
         <text>pijamas</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T13:32:16</date>
+          <date>2024-05-03T01:18:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2356,14 +2469,22 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-18T12:45:14</date>
+          <date>2024-05-08T02:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>calcinhas</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-03T13:46:15</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="2"/>
     </entry>
@@ -2371,16 +2492,24 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>trousers</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
+          <count>4</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:24:46</date>
+          <date>2024-04-27T12:54:02</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>calça</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:41:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="2"/>
     </entry>
@@ -2414,10 +2543,10 @@ Vocabulário para partes do corpo</comment>
         <text>raincoat</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-17T11:28:17</date>
+          <date>2024-05-01T12:33:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2429,9 +2558,25 @@ Vocabulário para partes do corpo</comment>
     <entry id="103">
       <translation id="0">
         <text>scarf</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:05:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
-        <text>lenço</text>
+        <text>cachecol</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:05:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="2"/>
     </entry>
@@ -2440,22 +2585,22 @@ Vocabulário para partes do corpo</comment>
         <text>shirt</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:25:40</date>
+          <date>2024-05-01T12:33:13</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/b73b2ee9/shirt.jpg</image>
+        <image>file:///run/user/1000/doc/c048dbe7/shirt.jpg</image>
       </translation>
       <translation id="1">
         <text>camisa</text>
         <grade>
-          <pregrade>6</pregrade>
+          <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>7</count>
+          <count>9</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:22:29</date>
+          <date>2024-04-28T14:45:53</date>
           <interval>0</interval>
         </grade>
         <image>file:///run/user/1000/doc/b73b2ee9/shirt.jpg</image>
@@ -2469,10 +2614,10 @@ Vocabulário para partes do corpo</comment>
         <text>shoes</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:07:02</date>
+          <date>2024-05-03T13:44:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2480,10 +2625,10 @@ Vocabulário para partes do corpo</comment>
         <text>sapato</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:07:11</date>
+          <date>2024-04-29T13:34:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2493,11 +2638,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>shorts</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
-          <errorcount>0</errorcount>
-          <date>2024-04-17T11:25:56</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-01T12:34:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2505,10 +2650,10 @@ Vocabulário para partes do corpo</comment>
         <text>calção</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
+          <currentgrade>2</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-08T02:07:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2519,10 +2664,10 @@ Vocabulário para partes do corpo</comment>
         <text>skirt</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:52</date>
+          <date>2024-05-03T01:19:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2530,10 +2675,10 @@ Vocabulário para partes do corpo</comment>
         <text>saia</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:06:41</date>
+          <date>2024-05-04T19:08:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2543,26 +2688,26 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>socks</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>6</count>
           <errorcount>2</errorcount>
-          <date>2024-04-24T01:34:37</date>
+          <date>2024-04-27T12:56:23</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/cdb1e2a8/socks.jpg</image>
+        <image>file:///run/user/1000/doc/533fc65e/socks.jpg</image>
       </translation>
       <translation id="1">
         <text>meias</text>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>1</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-05-07T14:05:59</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/cdb1e2a8/socks.jpg</image>
+        <image>file:///run/user/1000/doc/533fc65e/socks.jpg</image>
       </translation>
       <translation id="2">
         <image>file:///run/user/1000/doc/cdb1e2a8/socks.jpg</image>
@@ -2573,10 +2718,10 @@ Vocabulário para partes do corpo</comment>
         <text>suit</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:23:30</date>
+          <date>2024-05-01T12:34:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2584,10 +2729,10 @@ Vocabulário para partes do corpo</comment>
         <text>terno</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:28:35</date>
+          <date>2024-05-03T01:18:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2633,11 +2778,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="1">
         <text>suéter</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:25:25</date>
+          <date>2024-04-27T12:54:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2647,11 +2792,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>sweater</text>
         <grade>
-          <pregrade>0</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-30T14:13:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2659,10 +2804,10 @@ Vocabulário para partes do corpo</comment>
         <text>suéter</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>3</count>
+          <currentgrade>2</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-05-07T02:41:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2684,10 +2829,10 @@ Vocabulário para partes do corpo</comment>
         <text>calção de banho</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:48:32</date>
+          <date>2024-05-05T18:43:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2696,15 +2841,23 @@ Vocabulário para partes do corpo</comment>
     <entry id="114">
       <translation id="0">
         <text>swimsuit</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:41:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>roupa de banho</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>3</count>
+          <currentgrade>2</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-05-08T02:06:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2740,10 +2893,10 @@ Vocabulário para partes do corpo</comment>
         <text>tie</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:26:11</date>
+          <date>2024-05-03T01:18:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2751,10 +2904,10 @@ Vocabulário para partes do corpo</comment>
         <text>gravata</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:49:40</date>
+          <date>2024-05-05T18:43:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2775,11 +2928,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="1">
         <text>camiseta</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>7</pregrade>
           <currentgrade>0</currentgrade>
-          <count>6</count>
+          <count>9</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:20:48</date>
+          <date>2024-04-30T14:12:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2802,9 +2955,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-17T11:24:34</date>
+          <date>2024-05-07T02:41:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2816,20 +2969,36 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>10</count>
+          <count>12</count>
           <errorcount>2</errorcount>
-          <date>2024-04-25T03:48:14</date>
+          <date>2024-05-08T02:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>colete</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:05:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="2"/>
     </entry>
     <entry id="120">
       <translation id="0">
         <text>overcoat</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-30T14:10:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>sobretudo</text>
@@ -2850,6 +3019,14 @@ Vocabulário para partes do corpo</comment>
       </translation>
       <translation id="1">
         <text>casaco</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-03T13:45:52</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="2"/>
     </entry>
@@ -2870,9 +3047,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
+          <count>10</count>
           <errorcount>1</errorcount>
-          <date>2024-04-23T16:22:06</date>
+          <date>2024-05-03T13:44:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2914,16 +3091,16 @@ Vocabulário para partes do corpo</comment>
           <date>2024-04-22T13:31:23</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/a0bf3e63/rompers.jpg</image>
+        <image>file:///run/user/1000/doc/59c8f17e/rompers.jpg</image>
       </translation>
       <translation id="1">
         <text>macação</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
+          <currentgrade>2</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:23:27</date>
+          <date>2024-05-08T02:08:03</date>
           <interval>0</interval>
         </grade>
         <image>file:///run/user/1000/doc/a0bf3e63/rompers.jpg</image>
@@ -2974,9 +3151,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T14:01:29</date>
+          <date>2024-05-08T02:06:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2985,6 +3162,14 @@ Vocabulário para partes do corpo</comment>
     <entry id="127">
       <translation id="0">
         <text>nightdress</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:05:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>camisola</text>
@@ -3015,10 +3200,10 @@ Vocabulário para partes do corpo</comment>
         <text>vestido formal</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-17T11:27:51</date>
+          <date>2024-05-01T12:32:50</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3040,10 +3225,10 @@ Vocabulário para partes do corpo</comment>
         <text>roupão de banho</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>6</count>
+          <currentgrade>6</currentgrade>
+          <count>8</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:08:42</date>
+          <date>2024-05-08T02:07:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3065,10 +3250,10 @@ Vocabulário para partes do corpo</comment>
         <text>cueca</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>7</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-16T22:27:07</date>
+          <date>2024-05-01T12:33:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3089,6 +3274,14 @@ Vocabulário para partes do corpo</comment>
       </translation>
       <translation id="1">
         <text>meia-calça</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-03T13:44:28</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="2"/>
     </entry>
@@ -3133,10 +3326,10 @@ Vocabulário para partes do corpo</comment>
         <text>sutiã</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:08:32</date>
+          <date>2024-05-08T02:06:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3153,11 +3346,19 @@ Vocabulário para partes do corpo</comment>
           <date>2024-04-25T03:48:14</date>
           <interval>0</interval>
         </grade>
-        <image>file:///run/user/1000/doc/bb37fb82/stockings.jpg</image>
+        <image>file:///run/user/1000/doc/ff1886a3/stockings.jpg</image>
       </translation>
       <translation id="1">
         <text>meias</text>
-        <image>file:///run/user/1000/doc/bb37fb82/stockings.jpg</image>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-05T18:43:23</date>
+          <interval>0</interval>
+        </grade>
+        <image>file:///run/user/1000/doc/ff1886a3/stockings.jpg</image>
       </translation>
       <translation id="2">
         <image>file:///run/user/1000/doc/bb37fb82/stockings.jpg</image>
@@ -3168,15 +3369,23 @@ Vocabulário para partes do corpo</comment>
         <text>vest</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:07:55</date>
+          <date>2024-05-05T18:43:09</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>colete</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:05:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="2"/>
     </entry>
@@ -3197,9 +3406,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-18T12:45:14</date>
+          <date>2024-05-08T02:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3210,10 +3419,10 @@ Vocabulário para partes do corpo</comment>
         <text>happy</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:06:38</date>
+          <date>2024-05-03T13:44:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3221,10 +3430,10 @@ Vocabulário para partes do corpo</comment>
         <text>feliz</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:22:42</date>
+          <date>2024-05-04T19:08:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3234,10 +3443,10 @@ Vocabulário para partes do corpo</comment>
         <text>sad</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:48:37</date>
+          <date>2024-05-05T18:44:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3246,9 +3455,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-08T02:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3256,6 +3465,14 @@ Vocabulário para partes do corpo</comment>
     <entry id="139">
       <translation id="0">
         <text>angry</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-08T02:07:30</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>nervoso</text>
@@ -3307,20 +3524,36 @@ Vocabulário para partes do corpo</comment>
       </translation>
       <translation id="1">
         <text>preocupado</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-04T19:08:53</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="142">
       <translation id="0">
         <text>surprised</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-28T14:48:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>surpresso</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-17T11:24:34</date>
+          <date>2024-05-07T02:42:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3328,23 +3561,47 @@ Vocabulário para partes do corpo</comment>
     <entry id="143">
       <translation id="0">
         <text>calm</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-27T01:28:17</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>calma</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-08T02:06:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="144">
       <translation id="0">
         <text>tired</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>3</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:41:48</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>cansado</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:07:44</date>
+          <date>2024-05-03T13:45:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3365,10 +3622,10 @@ Vocabulário para partes do corpo</comment>
         <text>estressado</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
+          <currentgrade>2</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-07T02:41:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3377,11 +3634,11 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>crying</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>1</errorcount>
-          <date>2024-04-24T01:24:24</date>
+          <count>5</count>
+          <errorcount>2</errorcount>
+          <date>2024-04-27T12:55:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3424,9 +3681,25 @@ Vocabulário para partes do corpo</comment>
     <entry id="148">
       <translation id="0">
         <text>laughing</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-04T19:09:10</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>rindo</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-30T14:12:11</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="149">
@@ -3443,6 +3716,14 @@ Vocabulário para partes do corpo</comment>
       </translation>
       <translation id="1">
         <text>trabalho</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:41:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="150">
@@ -3450,10 +3731,10 @@ Vocabulário para partes do corpo</comment>
         <text>doctor</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>2</count>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-05-08T02:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3462,9 +3743,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-05-07T02:41:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3474,10 +3755,10 @@ Vocabulário para partes do corpo</comment>
         <text>nurse</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:07:06</date>
+          <date>2024-05-08T02:08:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3485,10 +3766,10 @@ Vocabulário para partes do corpo</comment>
         <text>enfermeira</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:22:10</date>
+          <date>2024-05-04T19:05:06</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3496,6 +3777,14 @@ Vocabulário para partes do corpo</comment>
     <entry id="152">
       <translation id="0">
         <text>dentist</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-03T13:44:28</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>dentista</text>
@@ -3515,9 +3804,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-04-30T14:10:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3526,9 +3815,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-04T19:04:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3554,10 +3843,10 @@ Vocabulário para partes do corpo</comment>
         <text>teacher</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:08:09</date>
+          <date>2024-05-03T13:46:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3565,10 +3854,10 @@ Vocabulário para partes do corpo</comment>
         <text>professor</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>1</count>
+          <currentgrade>1</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-05-07T14:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3578,10 +3867,10 @@ Vocabulário para partes do corpo</comment>
         <text>driver</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-05-07T02:42:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3589,10 +3878,10 @@ Vocabulário para partes do corpo</comment>
         <text>motorista</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
+          <currentgrade>1</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-05-07T14:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3602,10 +3891,10 @@ Vocabulário para partes do corpo</comment>
         <text>auto mechanic</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:08:26</date>
+          <date>2024-05-03T13:45:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3624,15 +3913,23 @@ Vocabulário para partes do corpo</comment>
     <entry id="158">
       <translation id="0">
         <text>cashier</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-30T14:10:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>caixa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-24T14:02:19</date>
+          <date>2024-04-30T14:10:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3640,15 +3937,23 @@ Vocabulário para partes do corpo</comment>
     <entry id="159">
       <translation id="0">
         <text>engineer</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:41:29</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>engenheiro</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:07:59</date>
+          <date>2024-04-29T13:34:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3658,26 +3963,34 @@ Vocabulário para partes do corpo</comment>
         <text>architect</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:08:04</date>
+          <date>2024-05-03T13:46:34</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>arquiteto</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:43:16</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="161">
       <translation id="0">
         <text>plumber</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:21:06</date>
+          <date>2024-04-27T12:54:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3688,15 +4001,23 @@ Vocabulário para partes do corpo</comment>
     <entry id="162">
       <translation id="0">
         <text>electrician</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-27T12:56:02</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>eletricista</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-20T00:03:05</date>
+          <date>2024-05-07T02:42:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3707,14 +4028,22 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>1</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-18T12:45:14</date>
+          <date>2024-05-03T13:44:28</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>trabalhador da construção</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:41:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="164">
@@ -3722,10 +4051,10 @@ Vocabulário para partes do corpo</comment>
         <text>landscaper</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-08T02:07:40</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3733,10 +4062,10 @@ Vocabulário para partes do corpo</comment>
         <text>paisagista</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-04-27T00:27:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3746,10 +4075,10 @@ Vocabulário para partes do corpo</comment>
         <text>farmer</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:48:54</date>
+          <date>2024-05-05T18:44:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3757,10 +4086,10 @@ Vocabulário para partes do corpo</comment>
         <text>agricultor, fazendeiro</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-23T16:24:05</date>
+          <date>2024-05-04T19:06:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3771,20 +4100,20 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-07T02:41:01</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>chefe de cozinha, cozinheiro</text>
         <grade>
-          <pregrade>4</pregrade>
+          <pregrade>6</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
+          <count>7</count>
           <errorcount>1</errorcount>
-          <date>2024-04-24T01:34:42</date>
+          <date>2024-04-27T12:55:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3794,10 +4123,10 @@ Vocabulário para partes do corpo</comment>
         <text>waiter</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-05-08T02:06:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3806,9 +4135,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-04-30T14:10:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3818,10 +4147,10 @@ Vocabulário para partes do corpo</comment>
         <text>waitress</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:07:38</date>
+          <date>2024-05-03T13:46:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3829,10 +4158,10 @@ Vocabulário para partes do corpo</comment>
         <text>garçonete</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:48:19</date>
+          <date>2024-05-05T18:43:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3840,16 +4169,24 @@ Vocabulário para partes do corpo</comment>
     <entry id="169">
       <translation id="0">
         <text>lawyer</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T14:05:59</date>
+          <interval>0</interval>
+        </grade>
         <sound>file:///run/user/1000/doc/d6ffbd5a/lawyer.mp3</sound>
       </translation>
       <translation id="1">
         <text>advogado</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>1</count>
+          <currentgrade>2</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-08T02:06:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3859,10 +4196,10 @@ Vocabulário para partes do corpo</comment>
         <text>scientist</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-05-08T02:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3870,10 +4207,10 @@ Vocabulário para partes do corpo</comment>
         <text>cientista</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:49:28</date>
+          <date>2024-05-05T18:44:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3884,9 +4221,9 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-04-30T14:10:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3894,10 +4231,10 @@ Vocabulário para partes do corpo</comment>
         <text>empregado doméstico</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>2</count>
+          <currentgrade>2</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-05-07T02:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3905,15 +4242,23 @@ Vocabulário para partes do corpo</comment>
     <entry id="172">
       <translation id="0">
         <text>mail carrier</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-08T02:07:23</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>carteiro</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
-          <count>1</count>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T23:06:31</date>
+          <date>2024-04-30T14:10:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3921,15 +4266,23 @@ Vocabulário para partes do corpo</comment>
     <entry id="173">
       <translation id="0">
         <text>pilot</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:43:13</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>piloto</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-25T03:48:39</date>
+          <date>2024-05-05T18:43:42</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3939,15 +4292,23 @@ Vocabulário para partes do corpo</comment>
         <text>flight attendant</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:06:45</date>
+          <date>2024-05-08T02:08:42</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>atendente de voo</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-30T14:10:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="175">
@@ -3966,10 +4327,10 @@ Vocabulário para partes do corpo</comment>
         <text>policial</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>1</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-26T11:06:36</date>
+          <date>2024-05-07T14:05:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3980,14 +4341,22 @@ Vocabulário para partes do corpo</comment>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-04-30T14:10:21</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>bombeiro</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-07T02:41:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="177">
@@ -3998,10 +4367,10 @@ Vocabulário para partes do corpo</comment>
         <text>contador</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-04-21T00:15:30</date>
+          <date>2024-05-05T18:44:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4010,17 +4379,25 @@ Vocabulário para partes do corpo</comment>
       <translation id="0">
         <text>politician</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-04-25T03:49:20</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2024-04-27T01:28:58</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/84aff57a/politician.mp3</sound>
       </translation>
       <translation id="1">
         <text>político</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-04-30T14:10:21</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
   </entries>

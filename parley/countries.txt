@@ -77,3 +77,41 @@ Venezuela	Venezuela
 Vietnam	Vietnã
 Wales	País de Gales
 Yemen	Iémen
+
+-------------------------------
+Novos
+Hungary	Hungria
+Libya	Líbia
+Lebanon	Líbano
+Sudan	Sudão
+Algeria	Argélia
+Amman	Amã
+Tunisia	Tunísia
+Holland	Holanda
+Israel	Israel
+Italy	Itália
+Kenya	Quénia
+Kuwait	Koweit
+Mongolia	Mongólia
+Morocco	Marrocos
+Moscow	Moscou
+Algeria	Argélia
+Israel	Israel
+
+African	africano
+American	americano
+Jordanian	jordão
+Ottoman	otomano
+Asian	asiático
+
+America	América
+
+Mecca	Meca
+Babylon	Babilónia
+
+North	Norte
+Norway	Noruega
+Oman	Omã
+Poland	Polónia
+
+
