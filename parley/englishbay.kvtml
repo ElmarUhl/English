@@ -6,7 +6,7 @@
     <title>EnglishBay lessons</title>
     <author>Elmar Uhl</author>
     <license>Domínio público</license>
-    <date>2024-05-08</date>
+    <date>2024-05-13</date>
     <category>Idiomas</category>
   </information>
   <identifiers>
@@ -260,10 +260,10 @@
         <text>Olá, madame</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T13:55:33</date>
+          <date>2024-05-10T15:11:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -308,10 +308,10 @@
         <text>Oi!</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>13</count>
           <errorcount>1</errorcount>
-          <date>2024-05-07T02:17:16</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -340,10 +340,10 @@
         <text>Qual o seu nome?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>2</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-05T19:20:47</date>
+          <date>2024-05-12T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -369,10 +369,10 @@
         <text>I'm Elmar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T01:28:01</date>
+          <date>2024-05-10T15:15:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -385,10 +385,10 @@
         <text>I am Elmar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>4</count>
+          <currentgrade>5</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T13:54:20</date>
+          <date>2024-05-09T13:32:18</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -469,9 +469,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:19:18</date>
+          <date>2024-05-12T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -676,10 +676,10 @@
         <text>Legal!</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T01:24:19</date>
+          <date>2024-05-13T19:16:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -753,10 +753,10 @@
         <text>I'm not feeling well.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -789,9 +789,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:21:11</date>
+          <date>2024-05-12T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -857,10 +857,10 @@
         <text>See you</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>3</count>
+          <currentgrade>2</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-05T19:20:13</date>
+          <date>2024-05-12T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -872,11 +872,11 @@
       <translation id="0">
         <text>Have a good day.</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-03T13:55:02</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-10T15:16:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -903,6 +903,14 @@
     <entry id="51">
       <translation id="0">
         <text>Take care</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T19:14:14</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Cuide-se.</text>
@@ -992,11 +1000,11 @@
       <translation id="0">
         <text>What's your age?</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-03T01:25:41</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-13T19:13:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1017,10 +1025,10 @@
         <text>I am 50.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T01:26:57</date>
+          <date>2024-05-10T15:14:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1036,10 +1044,10 @@
         <text>De onde você é?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T13:53:55</date>
+          <date>2024-05-10T15:10:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1071,6 +1079,14 @@
     <entry id="62">
       <translation id="0">
         <text>I am from Rio de Janeiro, Brazil.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Eu sou do Rio de Janeiro, Brasil.</text>
@@ -1103,15 +1119,23 @@
     <entry id="65">
       <translation id="0">
         <text>I am from Brazil, and I live in Rio de Janeiro.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T19:13:39</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Eu sou do Brasil e moro no Rio de Janeiro.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T01:24:27</date>
+          <date>2024-05-13T19:16:35</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1132,10 +1156,10 @@
         <text>Eu sou do Brasil, mas moro na Rússia.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T13:55:25</date>
+          <date>2024-05-13T19:13:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1164,10 +1188,10 @@
         <text>Qual é o seu trabalho?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-04T19:38:04</date>
+          <date>2024-05-13T19:16:00</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1188,10 +1212,10 @@
         <text>Com que você trabalha?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T01:26:52</date>
+          <date>2024-05-10T15:10:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1220,10 +1244,10 @@
         <text>Eu trabalho como pesquisador.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T13:54:37</date>
+          <date>2024-05-13T19:14:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1265,15 +1289,23 @@
         <text>I work at home.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T13:52:29</date>
+          <date>2024-05-10T15:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>Eu trabalho em casa.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="76">
@@ -1281,10 +1313,10 @@
         <text>I am happy.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T01:27:01</date>
+          <date>2024-05-10T15:16:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1303,6 +1335,14 @@
     <entry id="77">
       <translation id="0">
         <text>I am sad.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Estou triste.</text>
@@ -1329,10 +1369,10 @@
         <text>I am hungry.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T01:25:31</date>
+          <date>2024-05-13T19:14:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1340,10 +1380,10 @@
         <text>Estou com fome.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T01:26:13</date>
+          <date>2024-05-13T19:12:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1572,10 +1612,10 @@
         <text>Sim, eu gosto de esportes.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T01:27:21</date>
+          <date>2024-05-10T15:17:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1585,10 +1625,10 @@
         <text>No, I don´t like sports.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T03:05:52</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1620,10 +1660,10 @@
         <text>Meu esporte favorito é jiu-jitsu.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T01:27:48</date>
+          <date>2024-05-13T19:12:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1652,10 +1692,10 @@
         <text>Sim, eu gosto de filmes.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1716,10 +1756,10 @@
         <text>Sim, eu gosto. Eu gosto de jogar futebol.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T03:09:33</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1802,6 +1842,14 @@
       </translation>
       <translation id="1">
         <text>Qual tipo de livro você gosta?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="122">
@@ -1809,10 +1857,10 @@
         <text>What kind of sport do you like?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T01:26:04</date>
+          <date>2024-05-10T15:13:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1841,10 +1889,10 @@
         <text>What kind of food do you like?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-05-05T19:20:26</date>
+          <date>2024-05-13T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2025,10 +2073,10 @@
         <text>My favorite food is roast chicken.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>1</count>
+          <currentgrade>1</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:17:16</date>
+          <date>2024-05-13T07:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2036,10 +2084,10 @@
         <text>Minha comida favorita é galinha assada.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>5</currentgrade>
-          <count>4</count>
+          <currentgrade>6</currentgrade>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-04T19:40:40</date>
+          <date>2024-05-13T19:13:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2074,6 +2122,14 @@
       </translation>
       <translation id="1">
         <text>Eu estou interessado em literatura.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="145">
@@ -2097,10 +2153,10 @@
         <text>I don't like apples.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2108,10 +2164,10 @@
         <text>Eu não gosto de maçãs.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2305,10 +2361,10 @@
         <text>I don't like ...</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:22:50</date>
+          <date>2024-05-13T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2338,6 +2394,14 @@
       </translation>
       <translation id="1">
         <text>Não, eu sou solteiro.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="168">
@@ -2449,10 +2513,10 @@
         <text>No, I'm an only child.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T03:07:25</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2501,9 +2565,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:18:07</date>
+          <date>2024-05-12T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2562,6 +2626,14 @@
       </translation>
       <translation id="1">
         <text>Você mora em casa ou apartamento?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T19:13:53</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="190">
@@ -2604,10 +2676,10 @@
         <text>Eu moro com meus pais.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-05-05T19:19:04</date>
+          <date>2024-05-13T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2788,10 +2860,10 @@
         <text>Eu gosto de cozinhar arroz e feijões.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>1</count>
+          <currentgrade>1</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T13:51:41</date>
+          <date>2024-05-13T07:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2889,10 +2961,10 @@
         <text>I travel to the beach by bus.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T03:04:22</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2961,10 +3033,10 @@
         <text>mom</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>1</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T03:08:07</date>
+          <date>2024-05-13T07:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3025,10 +3097,10 @@
         <text>brother</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T03:08:12</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3082,6 +3154,14 @@
       </translation>
       <translation id="1">
         <text>filho(a), criança</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="239">
@@ -3089,10 +3169,10 @@
         <text>grandmother</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:18:28</date>
+          <date>2024-05-13T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3124,10 +3204,10 @@
         <text>neto</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T03:09:23</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3137,10 +3217,10 @@
         <text>granddaughter</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3156,10 +3236,10 @@
         <text>netos</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>4</currentgrade>
-          <count>3</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-03T13:55:13</date>
+          <date>2024-05-09T13:30:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3177,10 +3257,10 @@
         <text>wife</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3188,10 +3268,10 @@
         <text>esposa</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T02:17:16</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3234,6 +3314,14 @@
       </translation>
       <translation id="1">
         <text>sobrinho</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T19:16:20</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="251">
@@ -3338,6 +3426,14 @@
       </translation>
       <translation id="1">
         <text>cunhada</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="262">
@@ -3359,6 +3455,14 @@
     <entry id="264">
       <translation id="0">
         <text>son-in-law</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>genro</text>
@@ -3575,6 +3679,14 @@
     <entry id="283">
       <translation id="0">
         <text>What's your dog name?</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-10T15:12:12</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Qual o nome do seu cachorro?</text>
@@ -3602,6 +3714,14 @@
       </translation>
       <translation id="1">
         <text>O nome do meu cachorro é Campeão.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T19:16:41</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="286">
@@ -3641,10 +3761,10 @@
         <text>Their names are Rudolf and Thereza.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T03:09:42</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3709,9 +3829,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:19:51</date>
+          <date>2024-05-12T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3730,9 +3850,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:18:17</date>
+          <date>2024-05-12T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3793,7 +3913,7 @@
         <text>How old is he?</text>
       </translation>
       <translation id="1">
-        <text>Quantos anos elet tem?</text>
+        <text>Quantos anos ele tem?</text>
       </translation>
     </entry>
     <entry id="304">
@@ -3807,15 +3927,23 @@
     <entry id="305">
       <translation id="0">
         <text>He is 42.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Ele tem 42.</text>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T02:17:16</date>
+          <date>2024-05-13T19:16:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3825,10 +3953,10 @@
         <text>How old is your sister?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3866,6 +3994,14 @@
       </translation>
       <translation id="1">
         <text>Quantos anos tem seu carro?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T19:14:04</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="311">
@@ -3876,10 +4012,10 @@
         <text>Quantos anos ele tem?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T02:17:16</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3911,9 +4047,17 @@
     <entry id="315">
       <translation id="0">
         <text>How old are they?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
-        <text>Quantos anos ele têm?</text>
+        <text>Quantos anos eles têm?</text>
       </translation>
     </entry>
     <entry id="316">
@@ -3980,10 +4124,10 @@
         <text>Sim, ele está.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4010,6 +4154,14 @@
       </translation>
       <translation id="1">
         <text>Sim, meu marido gosta de futebol.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="327">
@@ -4076,10 +4228,10 @@
         <text>Qual tipo de fimes seus pais gostam?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:17:24</date>
+          <date>2024-05-13T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4108,10 +4260,10 @@
         <text>Eles assistem filmes de noite.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T02:17:16</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4167,6 +4319,14 @@
     <entry id="341">
       <translation id="0">
         <text>He listen to music in his bedroom.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Ele escuta musica no seu quarto.</text>
@@ -4181,9 +4341,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:19:37</date>
+          <date>2024-05-12T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4423,6 +4583,14 @@
     <entry id="367">
       <translation id="0">
         <text>I drink tea.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Eu bebo chá.</text>
@@ -4433,10 +4601,10 @@
         <text>I drink milk.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4543,6 +4711,14 @@
     <entry id="379">
       <translation id="0">
         <text>What time do you usually get up?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T19:15:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Que horas você usualmente acorda?</text>
@@ -4604,10 +4780,10 @@
         <text>Eu geralmente vou para o trabalho de ônibus. I raramente vou para o trabalho de carro.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T03:04:39</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4754,6 +4930,14 @@
       </translation>
       <translation id="1">
         <text>Eu gasto meu tempo com minha família antes do jantar.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="404">
@@ -4855,6 +5039,14 @@
     <entry id="416">
       <translation id="0">
         <text>I sometimes play the guitar on weekends.</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2024-05-13T19:16:55</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Algumas vezes eu toco guitar nos finais de semana.</text>
@@ -4876,10 +5068,10 @@
         <text>Eu gosto caminhar no parque aos sábados de manhã.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4937,10 +5129,10 @@
         <text>The clock is on the wall.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T03:05:34</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5087,6 +5279,14 @@
     <entry id="442">
       <translation id="0">
         <text>Sherlock Holmes lives at 221B Baker Street.</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-10T15:15:09</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Sherlock Holmes mora na Rua Baker, 221B.</text>
@@ -5146,6 +5346,14 @@
       </translation>
       <translation id="1">
         <text>Eu amo ir ao parque na primavera.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="450">
@@ -5153,10 +5361,10 @@
         <text>I was born in 1983.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:19:13</date>
+          <date>2024-05-13T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5244,10 +5452,10 @@
         <text>A partida de futebol começa às 8 horas da noite.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T03:07:46</date>
+          <date>2024-05-10T15:10:17</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5282,6 +5490,14 @@
       </translation>
       <translation id="1">
         <text>Paul visita seus avós na Páscoa.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="464">
@@ -5290,6 +5506,14 @@
       </translation>
       <translation id="1">
         <text>Eu sempre viajo no Natal.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="465">
@@ -5444,10 +5668,10 @@
         <text>Eles estão na escola.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5676,10 +5900,10 @@
         <text>O restaurante está aberto durante o dia.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-07T14:17:16</date>
+          <date>2024-05-09T13:29:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5695,6 +5919,14 @@
     <entry id="511">
       <translation id="0">
         <text>You can go to the cinema without me.</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-09T13:33:37</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Você pode ir ao cinema sem mim.</text>
@@ -5738,6 +5970,14 @@
       </translation>
       <translation id="1">
         <text>Seu país está sob ataque.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="517">
@@ -5746,6 +5986,14 @@
       </translation>
       <translation id="1">
         <text>Claire corre ao redor do lago toda manhã.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="518">
@@ -5759,6 +6007,14 @@
     <entry id="519">
       <translation id="0">
         <text>She is among the best architects in the world.</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2024-05-13T19:15:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Ela está entre os melhores arquitetos do mundo.</text>
@@ -6063,6 +6319,14 @@
     <entry id="557">
       <translation id="0">
         <text>I check my Facebook every 15 minutes.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T19:17:29</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Eu checo meu Facebook a cada 15 minutos.</text>
@@ -6081,10 +6345,10 @@
         <text>She goes out with her friends every Friday evening.</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-08T02:19:02</date>
+          <date>2024-05-13T19:11:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6151,6 +6415,14 @@
     <entry id="567">
       <translation id="0">
         <text>How often does your wife cook?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T19:14:49</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Com que frequência sua esposa cozinha?</text>
@@ -6303,6 +6575,14 @@
     <entry id="586">
       <translation id="0">
         <text>New Year's Eve is on 31 December.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Véspera de ano novo é no dia 31 de dezembro.</text>
@@ -6490,6 +6770,1710 @@
       </translation>
       <translation id="1">
         <text>Bob tem grandes memorias dos anos 2000.</text>
+      </translation>
+    </entry>
+    <entry id="610">
+      <translation id="0">
+        <text>I am teaching English and you are studying English now.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu estou ensinando inglês e você esta estudando inglês agora.</text>
+      </translation>
+    </entry>
+    <entry id="611">
+      <translation id="0">
+        <text>Carl is taking a shower now. He is not taking a bath.</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-10T15:16:46</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Carl está tomando banho agora. Ele não está tomando banho na banheiro.</text>
+      </translation>
+    </entry>
+    <entry id="612">
+      <translation id="0">
+        <text>Marcy and Frank are not sleeping now. They are watching tv.</text>
+      </translation>
+      <translation id="1">
+        <text>Marcy e Frank não estão dormingo agora. Eles estão assistindo TV.</text>
+      </translation>
+    </entry>
+    <entry id="613">
+      <translation id="0">
+        <text>Jean is brushing her teeth now. She is not brushing her hair.</text>
+      </translation>
+      <translation id="1">
+        <text>Jean está escovando seus dentes agora. Ela não está escovando o cabelo.</text>
+      </translation>
+    </entry>
+    <entry id="614">
+      <translation id="0">
+        <text>We are having a English class now, right?</text>
+      </translation>
+      <translation id="1">
+        <text>Nós estamos tendo uma aula de inglês agora, certo?</text>
+      </translation>
+    </entry>
+    <entry id="615">
+      <translation id="0">
+        <text>Is Carl taking a shower?</text>
+      </translation>
+      <translation id="1">
+        <text>Ele está tomando banho?</text>
+      </translation>
+    </entry>
+    <entry id="616">
+      <translation id="0">
+        <text>Are Marcy and Frank sleeping?</text>
+      </translation>
+      <translation id="1">
+        <text>Marcy e Frank estão dormindo?</text>
+      </translation>
+    </entry>
+    <entry id="617">
+      <translation id="0">
+        <text>Is Jean brushing her teeth or her hair?</text>
+      </translation>
+      <translation id="1">
+        <text>Jean está escovando seus dentes ou seu cabelo?</text>
+      </translation>
+    </entry>
+    <entry id="618">
+      <translation id="0">
+        <text>She is brushing her teeth.</text>
+      </translation>
+      <translation id="1">
+        <text>Ela está escovando seus dentes.</text>
+      </translation>
+    </entry>
+    <entry id="619">
+      <translation id="0">
+        <text>Am I speaking English now?</text>
+      </translation>
+      <translation id="1">
+        <text>Eu estou falando inglês agora?</text>
+      </translation>
+    </entry>
+    <entry id="620">
+      <translation id="0">
+        <text>Are you working at the moment?</text>
+      </translation>
+      <translation id="1">
+        <text>Você esta trabalhando no momento?</text>
+      </translation>
+    </entry>
+    <entry id="621">
+      <translation id="0">
+        <text>What are you doing now?</text>
+      </translation>
+      <translation id="1">
+        <text>O que você está fazendo agora?</text>
+      </translation>
+    </entry>
+    <entry id="622">
+      <translation id="0">
+        <text>What am I drinking?</text>
+      </translation>
+      <translation id="1">
+        <text>Eu estou bebendo?</text>
+      </translation>
+    </entry>
+    <entry id="623">
+      <translation id="0">
+        <text>What is Carl doing?</text>
+      </translation>
+      <translation id="1">
+        <text>O que Carl está fazendo?</text>
+      </translation>
+    </entry>
+    <entry id="624">
+      <translation id="0">
+        <text>What are Marcy and Frank doing?</text>
+      </translation>
+      <translation id="1">
+        <text>O que Marcy e Frank estão fazendo?</text>
+      </translation>
+    </entry>
+    <entry id="625">
+      <translation id="0">
+        <text>What is Jean doing?</text>
+      </translation>
+      <translation id="1">
+        <text>O que Jean está fazendo?</text>
+      </translation>
+    </entry>
+    <entry id="626">
+      <translation id="0">
+        <text>Are you studying Spanish now?</text>
+      </translation>
+      <translation id="1">
+        <text>Você está estudando espanhol agora?</text>
+      </translation>
+    </entry>
+    <entry id="627">
+      <translation id="0">
+        <text>Are you having a Japanese class now?</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-09T13:31:28</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Você esta tendo uma aula de japonês agora?</text>
+      </translation>
+    </entry>
+    <entry id="628">
+      <translation id="0">
+        <text>Am I teaching English or Japanese at moment?</text>
+      </translation>
+      <translation id="1">
+        <text>Eu estou ensinando inglês ou japonês agora?</text>
+      </translation>
+    </entry>
+    <entry id="629">
+      <translation id="0">
+        <text>Are you teaching English or studying English?</text>
+      </translation>
+      <translation id="1">
+        <text>Vocês está ensinando inglês ou estudando inglês?</text>
+      </translation>
+    </entry>
+    <entry id="630">
+      <translation id="0">
+        <text>What am I doing now?</text>
+      </translation>
+      <translation id="1">
+        <text>O que eu estou fazendo agora?</text>
+      </translation>
+    </entry>
+    <entry id="631">
+      <translation id="0">
+        <text>Where is he going?</text>
+      </translation>
+      <translation id="1">
+        <text>Onde ele está indo?</text>
+      </translation>
+    </entry>
+    <entry id="632">
+      <translation id="0">
+        <text>He's going to church.</text>
+      </translation>
+      <translation id="1">
+        <text>Ele está indo a igreja.</text>
+      </translation>
+    </entry>
+    <entry id="633">
+      <translation id="0">
+        <text>Where are they going?</text>
+      </translation>
+      <translation id="1">
+        <text>Onde eles estão indo?</text>
+      </translation>
+    </entry>
+    <entry id="634">
+      <translation id="0">
+        <text>They are going to school.</text>
+      </translation>
+      <translation id="1">
+        <text>Eles estão indo a escola.</text>
+      </translation>
+    </entry>
+    <entry id="635">
+      <translation id="0">
+        <text>Who is she calling?</text>
+      </translation>
+      <translation id="1">
+        <text>Para quem ela está ligando?</text>
+      </translation>
+    </entry>
+    <entry id="636">
+      <translation id="0">
+        <text>She's calling the police.</text>
+      </translation>
+      <translation id="1">
+        <text>Ela está ligando para a polícia.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>1</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T07:11:45</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="637">
+      <translation id="0">
+        <text>Who is she calling?</text>
+      </translation>
+      <translation id="1">
+        <text>Para quem ela está ligando?</text>
+      </translation>
+    </entry>
+    <entry id="638">
+      <translation id="0">
+        <text>She is calling the/a doctor.</text>
+      </translation>
+      <translation id="1">
+        <text>Ela está ligando para o médico.</text>
+      </translation>
+    </entry>
+    <entry id="639">
+      <translation id="0">
+        <text>Why is the baby crying?</text>
+      </translation>
+      <translation id="1">
+        <text>Porque o bebê está chorando?</text>
+      </translation>
+    </entry>
+    <entry id="640">
+      <translation id="0">
+        <text>Because he's hungry.</text>
+      </translation>
+      <translation id="1">
+        <text>Porque ele está com fome.</text>
+      </translation>
+    </entry>
+    <entry id="641">
+      <translation id="0">
+        <text>Why is the boy crying?</text>
+      </translation>
+      <translation id="1">
+        <text>Porque o garoto está chorando.</text>
+      </translation>
+    </entry>
+    <entry id="642">
+      <translation id="0">
+        <text>Because he's sad.</text>
+      </translation>
+      <translation id="1">
+        <text>Porque ele está triste.</text>
+      </translation>
+    </entry>
+    <entry id="643">
+      <translation id="0">
+        <text>How are you doing?</text>
+      </translation>
+      <translation id="1">
+        <text>Como você está?</text>
+      </translation>
+    </entry>
+    <entry id="644">
+      <translation id="0">
+        <text>I'm doing good.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu estou bem.</text>
+      </translation>
+    </entry>
+    <entry id="645">
+      <translation id="0">
+        <text>Why are you studying English?</text>
+      </translation>
+      <translation id="1">
+        <text>Por que você está estudando inglês?</text>
+      </translation>
+    </entry>
+    <entry id="646">
+      <translation id="0">
+        <text>What time is it?</text>
+      </translation>
+      <translation id="1">
+        <text>Que horas são?</text>
+      </translation>
+    </entry>
+    <entry id="647">
+      <translation id="0">
+        <text>It's seven (and) ten.</text>
+      </translation>
+      <translation id="1">
+        <text>São sete e dez.</text>
+      </translation>
+    </entry>
+    <entry id="648">
+      <translation id="0">
+        <text>It's seven fifteen.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T19:12:05</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>São sete e quinze.</text>
+      </translation>
+    </entry>
+    <entry id="649">
+      <translation id="0">
+        <text>It's seven and five.</text>
+      </translation>
+      <translation id="1">
+        <text>Que horas são sete e cinco.</text>
+      </translation>
+    </entry>
+    <entry id="650">
+      <translation id="0">
+        <text>It's seven and twenty.</text>
+      </translation>
+      <translation id="1">
+        <text>São sete e vinte.</text>
+      </translation>
+    </entry>
+    <entry id="651">
+      <translation id="0">
+        <text>nine and thirty a.m.</text>
+      </translation>
+      <translation id="1">
+        <text>São nove e trinta da manhã.</text>
+      </translation>
+    </entry>
+    <entry id="652">
+      <translation id="0">
+        <text>nine and thirty p.m.</text>
+      </translation>
+      <translation id="1">
+        <text>São nove e trinta da noite.</text>
+      </translation>
+    </entry>
+    <entry id="653">
+      <translation id="0">
+        <text>four forty five in the morning.</text>
+      </translation>
+      <translation id="1">
+        <text>São 4:05 da manhã.</text>
+      </translation>
+    </entry>
+    <entry id="654">
+      <translation id="0">
+        <text>four forty five in the afternoon.</text>
+      </translation>
+      <translation id="1">
+        <text>São 4:05 da tarde.</text>
+      </translation>
+    </entry>
+    <entry id="655">
+      <translation id="0">
+        <text>It's six and fifty two a.m.</text>
+      </translation>
+      <translation id="1">
+        <text>São 6:52 da manhã.</text>
+      </translation>
+    </entry>
+    <entry id="656">
+      <translation id="0">
+        <text>It's three and twenty two p.m.</text>
+      </translation>
+      <translation id="1">
+        <text>São 3:22 da tarde.</text>
+      </translation>
+    </entry>
+    <entry id="657">
+      <translation id="0">
+        <text>It’s eleven and forty seven p.m.</text>
+      </translation>
+      <translation id="1">
+        <text>São 11:47 da noite.</text>
+      </translation>
+    </entry>
+    <entry id="658">
+      <translation id="0">
+        <text>What time is it in Brazil now?</text>
+      </translation>
+      <translation id="1">
+        <text>Que horas são no Brasil agora?</text>
+      </translation>
+    </entry>
+    <entry id="659">
+      <translation id="0">
+        <text>What time is it in Russia now?</text>
+      </translation>
+      <translation id="1">
+        <text>Que horas são na Rússia agora?</text>
+      </translation>
+    </entry>
+    <entry id="660">
+      <translation id="0">
+        <text>It's eleven fifteen or It's fifteen past eleven.</text>
+      </translation>
+      <translation id="1">
+        <text>São 11:15.</text>
+      </translation>
+    </entry>
+    <entry id="661">
+      <translation id="0">
+        <text>It's one thirteen or It's thirteen past one.</text>
+      </translation>
+      <translation id="1">
+        <text>São 1:13.</text>
+      </translation>
+    </entry>
+    <entry id="662">
+      <translation id="0">
+        <text>It's nine five or It's five past nine.</text>
+      </translation>
+      <translation id="1">
+        <text>São 9:05.</text>
+      </translation>
+    </entry>
+    <entry id="663">
+      <translation id="0">
+        <text>It's ten fifty five or It's five to eleven.</text>
+      </translation>
+      <translation id="1">
+        <text>São 10:55.</text>
+      </translation>
+    </entry>
+    <entry id="664">
+      <translation id="0">
+        <text>It's four forty five or It's fifteen to five.</text>
+      </translation>
+      <translation id="1">
+        <text>São 4:45.</text>
+      </translation>
+    </entry>
+    <entry id="665">
+      <translation id="0">
+        <text>It's three thirty five or It's twenty five to four.</text>
+      </translation>
+      <translation id="1">
+        <text>São 3:35.</text>
+      </translation>
+    </entry>
+    <entry id="666">
+      <translation id="0">
+        <text>It's three o'clock.</text>
+      </translation>
+      <translation id="1">
+        <text>São 3 horas.</text>
+      </translation>
+    </entry>
+    <entry id="667">
+      <translation id="0">
+        <text>It's eight sharp.</text>
+      </translation>
+      <translation id="1">
+        <text>São oito em ponto.</text>
+      </translation>
+    </entry>
+    <entry id="668">
+      <translation id="0">
+        <text>It's two o'clock.</text>
+      </translation>
+      <translation id="1">
+        <text>São duas horas.</text>
+      </translation>
+    </entry>
+    <entry id="669">
+      <translation id="0">
+        <text>It's twelve noon.</text>
+      </translation>
+      <translation id="1">
+        <text>São 12 horas.</text>
+      </translation>
+    </entry>
+    <entry id="670">
+      <translation id="0">
+        <text>It's noon.</text>
+      </translation>
+      <translation id="1">
+        <text>É meio dia.</text>
+      </translation>
+    </entry>
+    <entry id="671">
+      <translation id="0">
+        <text>It's twelve midnight.</text>
+      </translation>
+      <translation id="1">
+        <text>São meia-noite.</text>
+      </translation>
+    </entry>
+    <entry id="672">
+      <translation id="0">
+        <text>It's midnight.</text>
+      </translation>
+      <translation id="1">
+        <text>São meia-noite.</text>
+      </translation>
+    </entry>
+    <entry id="673">
+      <translation id="0">
+        <text>It's (a) quarter past ten.</text>
+      </translation>
+      <translation id="1">
+        <text>São 4:15.</text>
+      </translation>
+    </entry>
+    <entry id="674">
+      <translation id="0">
+        <text>It's quarter to ten.</text>
+      </translation>
+      <translation id="1">
+        <text>São 15 para as quatro.</text>
+      </translation>
+    </entry>
+    <entry id="675">
+      <translation id="0">
+        <text>It's a quarter past one.</text>
+      </translation>
+      <translation id="1">
+        <text>São 1:15.</text>
+      </translation>
+    </entry>
+    <entry id="676">
+      <translation id="0">
+        <text>It's a quarter to one.</text>
+      </translation>
+      <translation id="1">
+        <text>São 1:45.</text>
+      </translation>
+    </entry>
+    <entry id="677">
+      <translation id="0">
+        <text>It's half past twelve.</text>
+      </translation>
+      <translation id="1">
+        <text>São 12:30.</text>
+      </translation>
+    </entry>
+    <entry id="678">
+      <translation id="0">
+        <text>It's half past eight.</text>
+      </translation>
+      <translation id="1">
+        <text>São 8:30</text>
+      </translation>
+    </entry>
+    <entry id="679">
+      <translation id="0">
+        <text>It's half past seven.</text>
+      </translation>
+      <translation id="1">
+        <text>São 7:30</text>
+      </translation>
+    </entry>
+    <entry id="680">
+      <translation id="0">
+        <text>It's half past ten.</text>
+      </translation>
+      <translation id="1">
+        <text>São 10:30.</text>
+      </translation>
+    </entry>
+    <entry id="681">
+      <translation id="0">
+        <text>What time is it in England now?</text>
+      </translation>
+      <translation id="1">
+        <text>Que horas são na Inglaterra agora?</text>
+      </translation>
+    </entry>
+    <entry id="682">
+      <translation id="0">
+        <text>What time is it in Argentina now?</text>
+      </translation>
+      <translation id="1">
+        <text>Que horas são na Argentina agora?</text>
+      </translation>
+    </entry>
+    <entry id="683">
+      <translation id="0">
+        <text>What time is it in China now?</text>
+      </translation>
+      <translation id="1">
+        <text>Que horas são na China agora?</text>
+      </translation>
+    </entry>
+    <entry id="684">
+      <translation id="0">
+        <text>What time is it in Japan now?</text>
+      </translation>
+      <translation id="1">
+        <text>Que horas são no Japão agora?</text>
+      </translation>
+    </entry>
+    <entry id="685">
+      <translation id="0">
+        <text>Do you have the time?</text>
+      </translation>
+      <translation id="1">
+        <text>Você tem horas?</text>
+      </translation>
+    </entry>
+    <entry id="686">
+      <translation id="0">
+        <text>Could you tell me the time?</text>
+      </translation>
+      <translation id="1">
+        <text>Você poderia me dizer as horas?</text>
+      </translation>
+    </entry>
+    <entry id="687">
+      <translation id="0">
+        <text>Do you know what time is it?</text>
+      </translation>
+      <translation id="1">
+        <text>Você sabe que horas são?</text>
+      </translation>
+    </entry>
+    <entry id="688">
+      <translation id="0">
+        <text>There is a dog in the park.</text>
+      </translation>
+      <translation id="1">
+        <text>Há um cachorro no parque.</text>
+      </translation>
+    </entry>
+    <entry id="689">
+      <translation id="0">
+        <text>There are dogs in the park.</text>
+      </translation>
+      <translation id="1">
+        <text>Há cachorros no parque.</text>
+      </translation>
+    </entry>
+    <entry id="690">
+      <translation id="0">
+        <text>There is a boy in the yard.</text>
+      </translation>
+      <translation id="1">
+        <text>Há um garoto no jardim.</text>
+      </translation>
+    </entry>
+    <entry id="691">
+      <translation id="0">
+        <text>There are boys in the yard.</text>
+      </translation>
+      <translation id="1">
+        <text>Há garotos no jardim.</text>
+      </translation>
+    </entry>
+    <entry id="692">
+      <translation id="0">
+        <text>There is a book on the desk.</text>
+      </translation>
+      <translation id="1">
+        <text>Há um livro sobre a mesa.</text>
+      </translation>
+    </entry>
+    <entry id="693">
+      <translation id="0">
+        <text>There are 8 books on the desk.</text>
+      </translation>
+      <translation id="1">
+        <text>Há 8 livros sobre a mesa.</text>
+      </translation>
+    </entry>
+    <entry id="694">
+      <translation id="0">
+        <text>There is a bicycle in the garage.</text>
+      </translation>
+      <translation id="1">
+        <text>Há uma bicicleta na garagem.</text>
+      </translation>
+    </entry>
+    <entry id="695">
+      <translation id="0">
+        <text>There isn't a motorcycle in the garage.</text>
+      </translation>
+      <translation id="1">
+        <text>Não há uma bicicleta na garagem.</text>
+      </translation>
+    </entry>
+    <entry id="696">
+      <translation id="0">
+        <text>Is there a car in the garage?</text>
+      </translation>
+      <translation id="1">
+        <text>Há um carro na garagem?</text>
+      </translation>
+    </entry>
+    <entry id="697">
+      <translation id="0">
+        <text>There are cars on the street.</text>
+      </translation>
+      <translation id="1">
+        <text>Existem carros na rua.</text>
+      </translation>
+    </entry>
+    <entry id="698">
+      <translation id="0">
+        <text>There aren't motorcycles on the street.</text>
+      </translation>
+      <translation id="1">
+        <text>Não há motorcycles na rua.</text>
+      </translation>
+    </entry>
+    <entry id="699">
+      <translation id="0">
+        <text>Are there trucks on the streets?</text>
+      </translation>
+      <translation id="1">
+        <text>Há caminhões na estrada?</text>
+      </translation>
+    </entry>
+    <entry id="700">
+      <translation id="0">
+        <text>No, there isn't.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, não tem.</text>
+      </translation>
+    </entry>
+    <entry id="701">
+      <translation id="0">
+        <text>No, there aren’t.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, não tem.</text>
+      </translation>
+    </entry>
+    <entry id="702">
+      <translation id="0">
+        <text>Yes, there are.</text>
+      </translation>
+      <translation id="1">
+        <text>Sim, há</text>
+      </translation>
+    </entry>
+    <entry id="703">
+      <translation id="0">
+        <text>There is sugar in my coffee.</text>
+      </translation>
+      <translation id="1">
+        <text>Tem açúcar no meu café.</text>
+      </translation>
+    </entry>
+    <entry id="704">
+      <translation id="0">
+        <text>There are books here.</text>
+      </translation>
+      <translation id="1">
+        <text>Tem livros aqui.</text>
+      </translation>
+    </entry>
+    <entry id="705">
+      <translation id="0">
+        <text>Is there a blue book on the table?</text>
+      </translation>
+      <translation id="1">
+        <text>Tem um livro azul na mesa?</text>
+      </translation>
+    </entry>
+    <entry id="706">
+      <translation id="0">
+        <text>Is there a book on the floor?</text>
+      </translation>
+      <translation id="1">
+        <text>Tem um livro sobre o chão?</text>
+      </translation>
+    </entry>
+    <entry id="707">
+      <translation id="0">
+        <text>How many books are on the table?</text>
+      </translation>
+      <translation id="1">
+        <text>Quantos livros estão sobre a mesa?</text>
+      </translation>
+    </entry>
+    <entry id="708">
+      <translation id="0">
+        <text>Are there dogs on the sofa?</text>
+      </translation>
+      <translation id="1">
+        <text>Tem cachorros sobre o sofá?</text>
+      </translation>
+    </entry>
+    <entry id="709">
+      <translation id="0">
+        <text>Are there dogs on floor?</text>
+      </translation>
+      <translation id="1">
+        <text>Tem cachorros no chão?</text>
+      </translation>
+    </entry>
+    <entry id="710">
+      <translation id="0">
+        <text>How many dogs are there on the sofa?</text>
+      </translation>
+      <translation id="1">
+        <text>Quantos cachorros estão no sofá?</text>
+      </translation>
+    </entry>
+    <entry id="711">
+      <translation id="0">
+        <text>Chris has a lot of friends.</text>
+      </translation>
+      <translation id="1">
+        <text>Chris tem muitos amigos.</text>
+      </translation>
+    </entry>
+    <entry id="712">
+      <translation id="0">
+        <text>Amanda has some friends.</text>
+      </translation>
+      <translation id="1">
+        <text>Amanda tem alguns amigos.</text>
+      </translation>
+    </entry>
+    <entry id="713">
+      <translation id="0">
+        <text>Does Justin have (any) friends?</text>
+      </translation>
+      <translation id="1">
+        <text>Justin tem amigos?</text>
+      </translation>
+    </entry>
+    <entry id="714">
+      <translation id="0">
+        <text>Justin doesn't have any friends.</text>
+      </translation>
+      <translation id="1">
+        <text>Justin não tem qualquer amigo.</text>
+      </translation>
+    </entry>
+    <entry id="715">
+      <translation id="0">
+        <text>Justin has no friends.</text>
+      </translation>
+      <translation id="1">
+        <text>Justin não tem amigos.</text>
+      </translation>
+    </entry>
+    <entry id="716">
+      <translation id="0">
+        <text>There are a lot of students in this classroom.</text>
+      </translation>
+      <translation id="1">
+        <text>Tem muitos estudantes nesta sala de aula.</text>
+      </translation>
+    </entry>
+    <entry id="717">
+      <translation id="0">
+        <text>There are some students in this classroom.</text>
+      </translation>
+      <translation id="1">
+        <text>Tem alguns estudantes nessa sala de aula.</text>
+      </translation>
+    </entry>
+    <entry id="718">
+      <translation id="0">
+        <text>Are there students in this classroom?</text>
+      </translation>
+      <translation id="1">
+        <text>Tem estudantes nesta sala de aula?</text>
+      </translation>
+    </entry>
+    <entry id="719">
+      <translation id="0">
+        <text>No, there aren't any students in this classroom.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, não tem estudantes nesta sala de aula.</text>
+      </translation>
+    </entry>
+    <entry id="720">
+      <translation id="0">
+        <text>No, there are no students in this classroom.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, não tem estudantes nesta sala de aula.</text>
+      </translation>
+    </entry>
+    <entry id="721">
+      <translation id="0">
+        <text>There is some water in the fridge.</text>
+      </translation>
+      <translation id="1">
+        <text>Tem alguma água na geladeira.</text>
+      </translation>
+    </entry>
+    <entry id="722">
+      <translation id="0">
+        <text>There isn't beer in the fridge.</text>
+      </translation>
+      <translation id="1">
+        <text>Não tem cerveja na geladeira.</text>
+      </translation>
+    </entry>
+    <entry id="723">
+      <translation id="0">
+        <text>Is there any milk in the fridge too?</text>
+      </translation>
+      <translation id="1">
+        <text>Tem algum leite na geladeira também?</text>
+      </translation>
+    </entry>
+    <entry id="724">
+      <translation id="0">
+        <text>How much water is there in the fridge?</text>
+      </translation>
+      <translation id="1">
+        <text>Quanta água tem na geladeira?</text>
+      </translation>
+    </entry>
+    <entry id="725">
+      <translation id="0">
+        <text>There are some bottles of water in the fridge.</text>
+      </translation>
+      <translation id="1">
+        <text>Tem algumas garrafas de água na geladeira.</text>
+      </translation>
+    </entry>
+    <entry id="726">
+      <translation id="0">
+        <text>There are two bottles of water in the fridge.</text>
+      </translation>
+      <translation id="1">
+        <text>Tem duas garrafas de água na geladeira.</text>
+      </translation>
+    </entry>
+    <entry id="727">
+      <translation id="0">
+        <text>There aren't any cans of beer in the fridge.</text>
+      </translation>
+      <translation id="1">
+        <text>Não tem qualquer lata de cerveja na geladeira.</text>
+      </translation>
+    </entry>
+    <entry id="728">
+      <translation id="0">
+        <text>Are there any cartons of milk in the fridge?</text>
+      </translation>
+      <translation id="1">
+        <text>Tem alguma caixa de leite na geladeira?</text>
+      </translation>
+    </entry>
+    <entry id="729">
+      <translation id="0">
+        <text>How many cartons of milk are there in the fridge?</text>
+      </translation>
+      <translation id="1">
+        <text>Quantas caixas de leite tem na geladeira?</text>
+      </translation>
+    </entry>
+    <entry id="730">
+      <translation id="0">
+        <text>There are no cartons of milk in the fridge.</text>
+      </translation>
+      <translation id="1">
+        <text>Não tem caixas de leite na geladeira.</text>
+      </translation>
+    </entry>
+    <entry id="731">
+      <translation id="0">
+        <text>There is a lot of money in the drawer.</text>
+      </translation>
+      <translation id="1">
+        <text>Tem muito dinheiro na gaveta.</text>
+      </translation>
+    </entry>
+    <entry id="732">
+      <translation id="0">
+        <text>There isn't any gold in the drawer.</text>
+      </translation>
+      <translation id="1">
+        <text>Não tem qualquer ouro na gaveta.</text>
+      </translation>
+    </entry>
+    <entry id="733">
+      <translation id="0">
+        <text>Is there any sand in the drawer?</text>
+      </translation>
+      <translation id="1">
+        <text>Tem alguma areia na gaveta?</text>
+      </translation>
+    </entry>
+    <entry id="734">
+      <translation id="0">
+        <text>How much money is there in the drawer?</text>
+      </translation>
+      <translation id="1">
+        <text>Quanto dinheiro tem na gaveta?</text>
+      </translation>
+    </entry>
+    <entry id="735">
+      <translation id="0">
+        <text>There are thousands of dollars in the drawer.</text>
+      </translation>
+      <translation id="1">
+        <text>Tem milhares de dólares na gaveta.</text>
+      </translation>
+    </entry>
+    <entry id="736">
+      <translation id="0">
+        <text>Are there any grains of sand in the drawer?</text>
+      </translation>
+      <translation id="1">
+        <text>Tem algum grão de areia na gaveta?</text>
+      </translation>
+    </entry>
+    <entry id="737">
+      <translation id="0">
+        <text>How many bars of gold are there in the drawer?</text>
+      </translation>
+      <translation id="1">
+        <text>Quantas barras de ouro tem na gaveta?</text>
+      </translation>
+    </entry>
+    <entry id="738">
+      <translation id="0">
+        <text>There aren't any bars of gold in the drawer.</text>
+      </translation>
+      <translation id="1">
+        <text>Não tem qualquer barra de ouro na gaveta.</text>
+      </translation>
+    </entry>
+    <entry id="739">
+      <translation id="0">
+        <text>I am a good student.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu sou um bom estudante.</text>
+      </translation>
+    </entry>
+    <entry id="740">
+      <translation id="0">
+        <text>Avatar is a very good movie.</text>
+      </translation>
+      <translation id="1">
+        <text>Avatar é um filme muito bom.</text>
+      </translation>
+    </entry>
+    <entry id="741">
+      <translation id="0">
+        <text>We need new computers.</text>
+      </translation>
+      <translation id="1">
+        <text>Nós precisamos de novos computadores.</text>
+      </translation>
+    </entry>
+    <entry id="742">
+      <translation id="0">
+        <text>Alice has a new idea.</text>
+      </translation>
+      <translation id="1">
+        <text>Alice tem uma nova ideia.</text>
+      </translation>
+    </entry>
+    <entry id="743">
+      <translation id="0">
+        <text>First, I will brush my hair.</text>
+      </translation>
+      <translation id="1">
+        <text>Primeiro, I pentearei meu cabelo.</text>
+      </translation>
+    </entry>
+    <entry id="744">
+      <translation id="0">
+        <text>My first suggestion is to study hard.</text>
+      </translation>
+      <translation id="1">
+        <text>Minha primeira sugestão é estudar duro.</text>
+      </translation>
+    </entry>
+    <entry id="745">
+      <translation id="0">
+        <text>Bianca played basketball last weekend.</text>
+      </translation>
+      <translation id="1">
+        <text>Bianca jogou basquete no último final de semana.</text>
+      </translation>
+    </entry>
+    <entry id="746">
+      <translation id="0">
+        <text>This is the last time I work on Sunday.</text>
+      </translation>
+      <translation id="1">
+        <text>Este é a última vez que eu trabalho domingo.</text>
+      </translation>
+    </entry>
+    <entry id="747">
+      <translation id="0">
+        <text>The Lord of Rings is a very long movie.</text>
+      </translation>
+      <translation id="1">
+        <text>O Senhor dos Anéis é um filme muito longo.</text>
+      </translation>
+    </entry>
+    <entry id="748">
+      <translation id="0">
+        <text>The Amazon River is very long.</text>
+      </translation>
+      <translation id="1">
+        <text>O rio Amazonas é muito longo.</text>
+      </translation>
+    </entry>
+    <entry id="749">
+      <translation id="0">
+        <text>Brenda is a great doctor.</text>
+      </translation>
+      <translation id="1">
+        <text>Brenda é uma grande médica.</text>
+      </translation>
+    </entry>
+    <entry id="750">
+      <translation id="0">
+        <text>Traveling is great!</text>
+      </translation>
+      <translation id="1">
+        <text>Viajar é ótimo.</text>
+      </translation>
+    </entry>
+    <entry id="751">
+      <translation id="0">
+        <text>There's a little mouse under the table.</text>
+      </translation>
+      <translation id="1">
+        <text>Tem um pequeno rato debaixo da mesa.</text>
+      </translation>
+    </entry>
+    <entry id="752">
+      <translation id="0">
+        <text>I have a little pet fish.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu tenho um pequeno peixe de estimação.</text>
+      </translation>
+    </entry>
+    <entry id="753">
+      <translation id="0">
+        <text>Do you have your own business?</text>
+      </translation>
+      <translation id="1">
+        <text>Você tem seu próprio negócio?</text>
+      </translation>
+    </entry>
+    <entry id="754">
+      <translation id="0">
+        <text>He is very rude to his own brother.</text>
+      </translation>
+      <translation id="1">
+        <text>Ele é muito rude com seu irmão.</text>
+      </translation>
+    </entry>
+    <entry id="755">
+      <translation id="0">
+        <text>I like this jacket, but do you have other colors?</text>
+      </translation>
+      <translation id="1">
+        <text>I gosto desta jaqueta, mas você tem outras cores.</text>
+      </translation>
+    </entry>
+    <entry id="756">
+      <translation id="0">
+        <text>They have other interests besides fishing.</text>
+      </translation>
+      <translation id="1">
+        <text>Eles têm outros interesses além de pescar.</text>
+      </translation>
+    </entry>
+    <entry id="757">
+      <translation id="0">
+        <text>Your dog is so old.</text>
+      </translation>
+      <translation id="1">
+        <text>Seu cachorro é tão velho.</text>
+      </translation>
+    </entry>
+    <entry id="758">
+      <translation id="0">
+        <text>Ted lives in an old house.</text>
+      </translation>
+      <translation id="1">
+        <text>Ted mora em uma casa velha.</text>
+      </translation>
+    </entry>
+    <entry id="759">
+      <translation id="0">
+        <text>She's the right person for the job.</text>
+      </translation>
+      <translation id="1">
+        <text>Ela é a pessoa certa para o trabalho.</text>
+      </translation>
+    </entry>
+    <entry id="760">
+      <translation id="0">
+        <text>You are right, Sorry!</text>
+      </translation>
+      <translation id="1">
+        <text>Você está certo. Desculpe!</text>
+      </translation>
+    </entry>
+    <entry id="761">
+      <translation id="0">
+        <text>Who works in that big office?</text>
+      </translation>
+      <translation id="1">
+        <text>Quem trabalha naquele grande escritório?</text>
+      </translation>
+    </entry>
+    <entry id="762">
+      <translation id="0">
+        <text>Elephants are big animals.</text>
+      </translation>
+      <translation id="1">
+        <text>Elefantes são animais grandes.</text>
+      </translation>
+    </entry>
+    <entry id="763">
+      <translation id="0">
+        <text>Mount Everest is really high.</text>
+      </translation>
+      <translation id="1">
+        <text>Monte Everest é realmente alto.</text>
+      </translation>
+    </entry>
+    <entry id="764">
+      <translation id="0">
+        <text>The temperature is usually high in Brazil in the summer.</text>
+      </translation>
+      <translation id="1">
+        <text>A temperatura é usualmente alta no Brasil no verão.</text>
+      </translation>
+    </entry>
+    <entry id="765">
+      <translation id="0">
+        <text>I don't like sushi. I want something different.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu não gosto de sushi. Eu quero algo diferente.</text>
+      </translation>
+    </entry>
+    <entry id="766">
+      <translation id="0">
+        <text>Coca-Cola and Pepsi are not than different.</text>
+      </translation>
+      <translation id="1">
+        <text>Coca-Cola e Pepsi não são tão diferentes.</text>
+      </translation>
+    </entry>
+    <entry id="767">
+      <translation id="0">
+        <text>This meal is too small.</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2024-05-13T19:17:40</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+      <translation id="1">
+        <text>Esta refeição e tão pequena.</text>
+      </translation>
+    </entry>
+    <entry id="768">
+      <translation id="0">
+        <text>Her bedroom is very small.</text>
+      </translation>
+      <translation id="1">
+        <text>O banheiro dela é muito pequeno.</text>
+      </translation>
+    </entry>
+    <entry id="769">
+      <translation id="0">
+        <text>I want an extra-large pizza.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu quero uma pizza extra-grande.</text>
+      </translation>
+    </entry>
+    <entry id="770">
+      <translation id="0">
+        <text>What a large monument!</text>
+      </translation>
+      <translation id="1">
+        <text>Que grande monumento!</text>
+      </translation>
+    </entry>
+    <entry id="771">
+      <translation id="0">
+        <text>Attention! You are the next in line.</text>
+      </translation>
+      <translation id="1">
+        <text>Atenção! Você é o próximo.</text>
+      </translation>
+    </entry>
+    <entry id="772">
+      <translation id="0">
+        <text>His next book will be about birds.</text>
+      </translation>
+      <translation id="1">
+        <text>Seu próximo livro será sobre pássaros.</text>
+      </translation>
+    </entry>
+    <entry id="773">
+      <translation id="0">
+        <text>Julia wakes up early every day.</text>
+      </translation>
+      <translation id="1">
+        <text>Julia acorda cedo todo dia.</text>
+      </translation>
+    </entry>
+    <entry id="774">
+      <translation id="0">
+        <text>Paul is early for his class.</text>
+      </translation>
+      <translation id="1">
+        <text>Paul está adiantado para sua aula.</text>
+      </translation>
+    </entry>
+    <entry id="775">
+      <translation id="0">
+        <text>I want to be forever young.</text>
+      </translation>
+      <translation id="1">
+        <text>Eu quero ser eternamente jovem.</text>
+      </translation>
+    </entry>
+    <entry id="776">
+      <translation id="0">
+        <text>My teacher is really young.</text>
+      </translation>
+      <translation id="1">
+        <text>Meu professor é realmente jovem.</text>
+      </translation>
+    </entry>
+    <entry id="777">
+      <translation id="0">
+        <text>It's important to be punctual.</text>
+      </translation>
+      <translation id="1">
+        <text>É importante ser pontual.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2024-05-13T19:15:20</date>
+          <interval>0</interval>
+        </grade>
+      </translation>
+    </entry>
+    <entry id="778">
+      <translation id="0">
+        <text>Linda has to make an important decision today.</text>
+      </translation>
+      <translation id="1">
+        <text>Linda tem que fazer uma importante decisão hoje.</text>
+      </translation>
+    </entry>
+    <entry id="779">
+      <translation id="0">
+        <text>Can I ask you few questions?</text>
+      </translation>
+      <translation id="1">
+        <text>Eu posso perguntar algumas questões?</text>
+      </translation>
+    </entry>
+    <entry id="780">
+      <translation id="0">
+        <text>Wendy has few friends in London.</text>
+      </translation>
+      <translation id="1">
+        <text>Wendy tem poucos amigos em Londres.</text>
+      </translation>
+    </entry>
+    <entry id="781">
+      <translation id="0">
+        <text>Public schools in Brazil are usually bad.</text>
+      </translation>
+      <translation id="1">
+        <text>Escolas públicas no Brasil são usualmente ruins.</text>
+      </translation>
+    </entry>
+    <entry id="782">
+      <translation id="0">
+        <text>How's the public transport in your city?</text>
+      </translation>
+      <translation id="1">
+        <text>Como é o transporte público na sua cidade?</text>
+      </translation>
+    </entry>
+    <entry id="783">
+      <translation id="0">
+        <text>Jack is a bad boss.</text>
+      </translation>
+      <translation id="1">
+        <text>Jack é um chefe ruim.</text>
+      </translation>
+    </entry>
+    <entry id="784">
+      <translation id="0">
+        <text>This fish is bad. Don't eat it!</text>
+      </translation>
+      <translation id="1">
+        <text>Este peixe é ruim. Não coma-o!</text>
+      </translation>
+    </entry>
+    <entry id="785">
+      <translation id="0">
+        <text>We have the same name. What a coincidence!</text>
+      </translation>
+      <translation id="1">
+        <text>Nós temos o mesmo nome. Que coincidência!</text>
+      </translation>
+    </entry>
+    <entry id="786">
+      <translation id="0">
+        <text>Can we meet here next week at the same time?</text>
+      </translation>
+      <translation id="1">
+        <text>Nós podemos encontrar aqui na próxima semana no mesmo horário?</text>
+      </translation>
+    </entry>
+    <entry id="787">
+      <translation id="0">
+        <text>Mike is able to do incredible things.</text>
+      </translation>
+      <translation id="1">
+        <text>Mike é capaz de fazer coisas incríveis.</text>
+      </translation>
+    </entry>
+    <entry id="788">
+      <translation id="0">
+        <text>Are you able to work under pressure?</text>
+      </translation>
+      <translation id="1">
+        <text>Você é capaz de trabalhar sob pressão?</text>
+      </translation>
+    </entry>
+    <entry id="789">
+      <translation id="0">
+        <text>Oliver can swim, but he cannot drive.</text>
+      </translation>
+      <translation id="1">
+        <text>Oliver pode nadar, mas ele não pode mergulhar.</text>
+      </translation>
+    </entry>
+    <entry id="790">
+      <translation id="0">
+        <text>Ingrid can run fast, and she can ride a horse.</text>
+      </translation>
+      <translation id="1">
+        <text>Ingrid pode correr rápido, e ela pode andar de cavalo.</text>
+      </translation>
+    </entry>
+    <entry id="791">
+      <translation id="0">
+        <text>My brothers can play basketball very well.</text>
+      </translation>
+      <translation id="1">
+        <text>Meus irmãos podem jogar basquete muito bem.</text>
+      </translation>
+    </entry>
+    <entry id="792">
+      <translation id="0">
+        <text>Her dog can't jump.</text>
+      </translation>
+      <translation id="1">
+        <text>O cachorro dela não pode saltar.</text>
+      </translation>
+    </entry>
+    <entry id="793">
+      <translation id="0">
+        <text>Can we watch a movie now?</text>
+      </translation>
+      <translation id="1">
+        <text>Nós podemos assistir um filme agora.</text>
+      </translation>
+    </entry>
+    <entry id="794">
+      <translation id="0">
+        <text>Can Roger and Lisa speak Chinese?</text>
+      </translation>
+      <translation id="1">
+        <text>Roger e Lisa podem falar chinês?</text>
+      </translation>
+    </entry>
+    <entry id="795">
+      <translation id="0">
+        <text>Can you speak English?</text>
+      </translation>
+      <translation id="1">
+        <text>Você pode falar inglês.</text>
+      </translation>
+    </entry>
+    <entry id="796">
+      <translation id="0">
+        <text>John can speak English very well.</text>
+      </translation>
+      <translation id="1">
+        <text>John pode falar inglês muito bem.</text>
+      </translation>
+    </entry>
+    <entry id="797">
+      <translation id="0">
+        <text>Brenda can't drive.</text>
+      </translation>
+      <translation id="1">
+        <text>Brenda não pode dirigir.</text>
+      </translation>
+    </entry>
+    <entry id="798">
+      <translation id="0">
+        <text>You cannot sit here.</text>
+      </translation>
+      <translation id="1">
+        <text>Você não pode sentar aqui.</text>
+      </translation>
+    </entry>
+    <entry id="799">
+      <translation id="0">
+        <text>Can I use the toilet?</text>
+      </translation>
+      <translation id="1">
+        <text>Eu posso usar o banheiro?</text>
+      </translation>
+    </entry>
+    <entry id="800">
+      <translation id="0">
+        <text>It's Sunday, so we can have a picnic. Or maybe we can go shopping.</text>
+      </translation>
+      <translation id="1">
+        <text>É domingo, então nós podemos ter um picnic, ou talvez poderíamos ir as compras.</text>
+      </translation>
+    </entry>
+    <entry id="801">
+      <translation id="0">
+        <text>Bob can run fast.</text>
+      </translation>
+      <translation id="1">
+        <text>Bob pode correr rápido.</text>
+      </translation>
+    </entry>
+    <entry id="802">
+      <translation id="0">
+        <text>You cannot dance here.</text>
+      </translation>
+      <translation id="1">
+        <text>Você não pode dançar aqui.</text>
+      </translation>
+    </entry>
+    <entry id="803">
+      <translation id="0">
+        <text>Can I ask you a question?</text>
+      </translation>
+      <translation id="1">
+        <text>Eu posso perguntar?</text>
+      </translation>
+    </entry>
+    <entry id="804">
+      <translation id="0">
+        <text>Can you cook?</text>
+      </translation>
+      <translation id="1">
+        <text>Você pode cozinhar?</text>
+      </translation>
+    </entry>
+    <entry id="805">
+      <translation id="0">
+        <text>Can you play a musical instrument?</text>
+      </translation>
+      <translation id="1">
+        <text>Você pode tocar um instrumento musical?</text>
+      </translation>
+    </entry>
+    <entry id="806">
+      <translation id="0">
+        <text>Can you read?</text>
+      </translation>
+      <translation id="1">
+        <text>Você pode ler?</text>
+      </translation>
+    </entry>
+    <entry id="807">
+      <translation id="0">
+        <text>Can you ride a bicycle/motorcycle?</text>
+      </translation>
+      <translation id="1">
+        <text>Você pode andar de bicicleta/motocicleta?</text>
+      </translation>
+    </entry>
+    <entry id="808">
+      <translation id="0">
+        <text>Can you surf?</text>
+      </translation>
+      <translation id="1">
+        <text>Você pode surfar.</text>
+      </translation>
+    </entry>
+    <entry id="809">
+      <translation id="0">
+        <text>Can you play a sport well?</text>
+      </translation>
+      <translation id="1">
+        <text>Você pratica esportes bem?</text>
+      </translation>
+    </entry>
+    <entry id="810">
+      <translation id="0">
+        <text>Can you buy a diamond ring?</text>
+      </translation>
+      <translation id="1">
+        <text>Você pode comprar um anel de diamante?</text>
+      </translation>
+    </entry>
+    <entry id="811">
+      <translation id="0">
+        <text>Can you speak Chinese?</text>
+      </translation>
+      <translation id="1">
+        <text>Você pode falar chinês?</text>
+      </translation>
+    </entry>
+    <entry id="812">
+      <translation id="0">
+        <text>Yes, they can.</text>
+      </translation>
+      <translation id="1">
+        <text>Sim, eles podem.</text>
+      </translation>
+    </entry>
+    <entry id="813">
+      <translation id="0">
+        <text>No, they can't.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, eles não podem.</text>
+      </translation>
+    </entry>
+    <entry id="814">
+      <translation id="0">
+        <text>Yes, I can.</text>
+      </translation>
+      <translation id="1">
+        <text>Sim, eu posso.</text>
+      </translation>
+    </entry>
+    <entry id="815">
+      <translation id="0">
+        <text>No, I can't.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, eu não posso.</text>
+      </translation>
+    </entry>
+    <entry id="816">
+      <translation id="0">
+        <text>No, I cannot.</text>
+      </translation>
+      <translation id="1">
+        <text>Não, eu não posso.</text>
       </translation>
     </entry>
   </entries>
@@ -7167,6 +9151,233 @@
       <entry id="607"/>
       <entry id="608"/>
       <entry id="609"/>
+    </container>
+    <container>
+      <name>Module 2 Class 9</name>
+      <inpractice>true</inpractice>
+      <entry id="610"/>
+      <entry id="611"/>
+      <entry id="612"/>
+      <entry id="613"/>
+      <entry id="614"/>
+      <entry id="615"/>
+      <entry id="616"/>
+      <entry id="617"/>
+      <entry id="618"/>
+      <entry id="619"/>
+      <entry id="620"/>
+      <entry id="621"/>
+      <entry id="622"/>
+      <entry id="623"/>
+      <entry id="624"/>
+      <entry id="625"/>
+      <entry id="626"/>
+      <entry id="627"/>
+      <entry id="628"/>
+      <entry id="629"/>
+      <entry id="630"/>
+      <entry id="631"/>
+      <entry id="632"/>
+      <entry id="633"/>
+      <entry id="634"/>
+      <entry id="635"/>
+      <entry id="636"/>
+      <entry id="637"/>
+      <entry id="638"/>
+      <entry id="639"/>
+      <entry id="640"/>
+      <entry id="641"/>
+      <entry id="642"/>
+      <entry id="643"/>
+      <entry id="644"/>
+      <entry id="645"/>
+    </container>
+    <container>
+      <name>Module 2 Class 10</name>
+      <inpractice>true</inpractice>
+      <entry id="646"/>
+      <entry id="647"/>
+      <entry id="648"/>
+      <entry id="649"/>
+      <entry id="650"/>
+      <entry id="651"/>
+      <entry id="652"/>
+      <entry id="653"/>
+      <entry id="654"/>
+      <entry id="655"/>
+      <entry id="656"/>
+      <entry id="657"/>
+      <entry id="658"/>
+      <entry id="659"/>
+      <entry id="660"/>
+      <entry id="661"/>
+      <entry id="662"/>
+      <entry id="663"/>
+      <entry id="664"/>
+      <entry id="665"/>
+      <entry id="666"/>
+      <entry id="667"/>
+      <entry id="668"/>
+      <entry id="669"/>
+      <entry id="670"/>
+      <entry id="671"/>
+      <entry id="672"/>
+      <entry id="673"/>
+      <entry id="674"/>
+      <entry id="675"/>
+      <entry id="676"/>
+      <entry id="677"/>
+      <entry id="678"/>
+      <entry id="679"/>
+      <entry id="680"/>
+      <entry id="681"/>
+      <entry id="682"/>
+      <entry id="683"/>
+      <entry id="684"/>
+      <entry id="685"/>
+      <entry id="686"/>
+      <entry id="687"/>
+    </container>
+    <container>
+      <name>Module 2 Class 11</name>
+      <inpractice>true</inpractice>
+      <entry id="688"/>
+      <entry id="689"/>
+      <entry id="690"/>
+      <entry id="691"/>
+      <entry id="692"/>
+      <entry id="693"/>
+      <entry id="694"/>
+      <entry id="695"/>
+      <entry id="696"/>
+      <entry id="697"/>
+      <entry id="698"/>
+      <entry id="699"/>
+      <entry id="700"/>
+      <entry id="701"/>
+      <entry id="702"/>
+      <entry id="703"/>
+      <entry id="704"/>
+      <entry id="705"/>
+      <entry id="706"/>
+      <entry id="707"/>
+      <entry id="708"/>
+      <entry id="709"/>
+      <entry id="710"/>
+      <entry id="711"/>
+      <entry id="712"/>
+      <entry id="713"/>
+      <entry id="714"/>
+      <entry id="715"/>
+      <entry id="716"/>
+      <entry id="717"/>
+      <entry id="718"/>
+      <entry id="719"/>
+      <entry id="720"/>
+      <entry id="721"/>
+      <entry id="722"/>
+      <entry id="723"/>
+      <entry id="724"/>
+      <entry id="725"/>
+      <entry id="726"/>
+      <entry id="727"/>
+      <entry id="728"/>
+      <entry id="729"/>
+      <entry id="730"/>
+      <entry id="731"/>
+      <entry id="732"/>
+      <entry id="733"/>
+      <entry id="734"/>
+      <entry id="735"/>
+      <entry id="736"/>
+      <entry id="737"/>
+      <entry id="738"/>
+    </container>
+    <container>
+      <name>Module 2 Class 12</name>
+      <inpractice>true</inpractice>
+      <entry id="739"/>
+      <entry id="740"/>
+      <entry id="741"/>
+      <entry id="742"/>
+      <entry id="743"/>
+      <entry id="744"/>
+      <entry id="745"/>
+      <entry id="746"/>
+      <entry id="747"/>
+      <entry id="748"/>
+      <entry id="749"/>
+      <entry id="750"/>
+      <entry id="751"/>
+      <entry id="752"/>
+      <entry id="753"/>
+      <entry id="754"/>
+      <entry id="755"/>
+      <entry id="756"/>
+      <entry id="757"/>
+      <entry id="758"/>
+      <entry id="759"/>
+      <entry id="760"/>
+      <entry id="761"/>
+      <entry id="762"/>
+      <entry id="763"/>
+      <entry id="764"/>
+      <entry id="765"/>
+      <entry id="766"/>
+      <entry id="767"/>
+      <entry id="768"/>
+      <entry id="769"/>
+      <entry id="770"/>
+      <entry id="771"/>
+      <entry id="772"/>
+      <entry id="773"/>
+      <entry id="774"/>
+      <entry id="775"/>
+      <entry id="776"/>
+      <entry id="777"/>
+      <entry id="778"/>
+      <entry id="779"/>
+      <entry id="780"/>
+      <entry id="781"/>
+      <entry id="782"/>
+      <entry id="783"/>
+      <entry id="784"/>
+      <entry id="785"/>
+      <entry id="786"/>
+      <entry id="787"/>
+      <entry id="788"/>
+    </container>
+    <container>
+      <name>Module 3 Class 1</name>
+      <inpractice>true</inpractice>
+      <entry id="789"/>
+      <entry id="790"/>
+      <entry id="791"/>
+      <entry id="792"/>
+      <entry id="793"/>
+      <entry id="794"/>
+      <entry id="795"/>
+      <entry id="796"/>
+      <entry id="797"/>
+      <entry id="798"/>
+      <entry id="799"/>
+      <entry id="800"/>
+      <entry id="801"/>
+      <entry id="802"/>
+      <entry id="803"/>
+      <entry id="804"/>
+      <entry id="805"/>
+      <entry id="806"/>
+      <entry id="807"/>
+      <entry id="808"/>
+      <entry id="809"/>
+      <entry id="810"/>
+      <entry id="811"/>
+      <entry id="812"/>
+      <entry id="813"/>
+      <entry id="814"/>
+      <entry id="815"/>
+      <entry id="816"/>
     </container>
   </lessons>
   <wordtypes>

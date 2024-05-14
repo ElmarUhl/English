@@ -123,14 +123,6 @@
       </translation>
       <translation id="1">
         <text>largo</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T19:03:26</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="8">
@@ -373,10 +365,10 @@
         <text>longe</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:05:06</date>
+          <date>2024-05-04T19:10:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -410,10 +402,10 @@
         <text>dumb</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:45:09</date>
+          <date>2024-05-04T19:12:26</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/af85129b/dumb.mp3</sound>
@@ -556,14 +548,6 @@
       </translation>
       <translation id="1">
         <text>pequeno</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:50</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="43">
@@ -596,14 +580,6 @@
       </translation>
       <translation id="1">
         <text>próprio</text>
-        <grade>
-          <pregrade>1</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2024-05-13T19:03:11</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="47">
@@ -692,14 +668,6 @@
       </translation>
       <translation id="1">
         <text>pouco, algum(ns, a, as)</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T19:02:05</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="58">
@@ -756,14 +724,6 @@
       </translation>
       <translation id="1">
         <text>mais baixo do que</text>
-        <grade>
-          <pregrade>1</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2024-05-13T05:46:21</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="63">
@@ -814,10 +774,10 @@
         <text>mais fino do que</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:16:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1125,10 +1085,10 @@
         <text>broken</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>3</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-12T05:41:47</date>
+          <date>2024-05-09T13:16:15</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1296,10 +1256,10 @@
         <text>fazer de novo</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>13</count>
           <errorcount>1</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T14:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1405,10 +1365,10 @@
         <text>Once upon a time</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>13</count>
           <errorcount>1</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T14:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1464,10 +1424,10 @@
         <text>se virar com o que tem</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>14</count>
           <errorcount>2</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T14:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1528,10 +1488,10 @@
         <text>procurar por</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T14:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1568,10 +1528,10 @@
         <text>desligar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>4</currentgrade>
           <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-11T05:41:47</date>
+          <date>2024-05-04T02:44:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1629,10 +1589,10 @@
         <text>get up</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T14:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1653,10 +1613,10 @@
         <text>check in</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T14:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1664,10 +1624,10 @@
         <text>check in</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>4</currentgrade>
           <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-11T05:41:47</date>
+          <date>2024-05-04T02:44:07</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1677,10 +1637,10 @@
         <text>check out</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:41:47</date>
+          <date>2024-05-10T02:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1744,10 +1704,10 @@
         <text>trazer de volta</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T14:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1845,10 +1805,10 @@
         <text>call back</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T14:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2005,10 +1965,10 @@
         <text>point out</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T14:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2259,10 +2219,10 @@
         <text>run</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>3</currentgrade>
           <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-05-12T05:41:47</date>
+          <date>2024-05-09T13:19:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2380,9 +2340,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:02:10</date>
+          <date>2024-05-09T13:19:19</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/7e32c557/climb.mp3</sound>
@@ -2436,10 +2396,10 @@
         <text>study</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>3</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-10T14:46:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2492,10 +2452,10 @@
         <text>blink</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:43:27</date>
+          <date>2024-05-03T01:23:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2599,10 +2559,10 @@
         <text>socar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:03:24</date>
+          <date>2024-05-04T19:12:29</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2653,9 +2613,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>6</count>
+          <count>5</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:03:29</date>
+          <date>2024-05-09T13:17:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2711,10 +2671,10 @@
         <text>dobrar, curvar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:44:42</date>
+          <date>2024-05-03T01:23:01</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2847,10 +2807,10 @@
         <text>planar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:16:34</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2981,14 +2941,6 @@
       </translation>
       <translation id="1">
         <text>fazer careta</text>
-        <grade>
-          <pregrade>1</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2024-05-13T19:05:55</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="212">
@@ -3044,10 +2996,10 @@
         <text>explode</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-10T14:46:44</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3156,10 +3108,10 @@
         <text>chew</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:17:33</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/223471f9/chew.mp3</sound>
@@ -3179,15 +3131,6 @@
     <entry id="231">
       <translation id="0">
         <text>shove</text>
-        <grade>
-          <pregrade>1</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2024-05-13T19:05:13</date>
-          <interval>0</interval>
-        </grade>
-        <sound>file:///run/user/1000/doc/f538a6a/shove.mp3</sound>
       </translation>
       <translation id="1">
         <text>empurrar</text>
@@ -3416,14 +3359,6 @@
       </translation>
       <translation id="1">
         <text>dar</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T19:02:42</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="253">
@@ -3521,14 +3456,6 @@
       </translation>
       <translation id="1">
         <text>tombar</text>
-        <grade>
-          <pregrade>1</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2024-05-13T19:02:25</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="263">
@@ -3729,14 +3656,6 @@
       </translation>
       <translation id="1">
         <text>voar</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T05:42:28</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="280">
@@ -4084,10 +4003,10 @@
         <text>receber</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-10T14:46:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4124,10 +4043,10 @@
         <text>proteger</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-10T14:48:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4135,14 +4054,6 @@
     <entry id="317">
       <translation id="0">
         <text>pack</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T05:44:20</date>
-          <interval>0</interval>
-        </grade>
       </translation>
       <translation id="1">
         <text>empacotar</text>
@@ -4312,14 +4223,6 @@
     <entry id="334">
       <translation id="0">
         <text>praise</text>
-        <grade>
-          <pregrade>1</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2024-05-13T19:02:49</date>
-          <interval>0</interval>
-        </grade>
       </translation>
       <translation id="1">
         <text>louvar</text>
@@ -4331,14 +4234,6 @@
       </translation>
       <translation id="1">
         <text>enfeitar</text>
-        <grade>
-          <pregrade>1</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2024-05-13T05:45:03</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="336">
@@ -4459,10 +4354,10 @@
         <text>spend</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>3</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-12T05:41:47</date>
+          <date>2024-05-09T13:17:57</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4689,14 +4584,6 @@
     <entry id="365">
       <translation id="0">
         <text>wiggle</text>
-        <grade>
-          <pregrade>1</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>3</count>
-          <errorcount>2</errorcount>
-          <date>2024-05-13T05:46:07</date>
-          <interval>0</interval>
-        </grade>
       </translation>
       <translation id="1">
         <text>mexer</text>
@@ -4705,14 +4592,6 @@
     <entry id="366">
       <translation id="0">
         <text>whittle</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T05:43:24</date>
-          <interval>0</interval>
-        </grade>
         <sound>file:///run/user/1000/doc/a4f04147/whittle.mp3</sound>
       </translation>
       <translation id="1">
@@ -4832,9 +4711,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>5</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:02:39</date>
+          <date>2024-05-09T13:18:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -4882,14 +4761,6 @@
     <entry id="381">
       <translation id="0">
         <text>discuss</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T05:43:00</date>
-          <interval>0</interval>
-        </grade>
       </translation>
       <translation id="1">
         <text>dicutir</text>
@@ -5023,10 +4894,10 @@
         <text>grelhar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:41:47</date>
+          <date>2024-05-10T02:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5079,10 +4950,10 @@
         <text>tingir</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-10T14:47:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5220,10 +5091,10 @@
         <text>chop</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:16:20</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5325,10 +5196,10 @@
         <text>roast</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:41:47</date>
+          <date>2024-05-10T02:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5464,14 +5335,6 @@
       </translation>
       <translation id="1">
         <text>coar café ou chá</text>
-        <grade>
-          <pregrade>1</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2024-05-13T05:45:47</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="435">
@@ -5508,10 +5371,10 @@
         <text>conectar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:44:45</date>
+          <date>2024-05-08T02:09:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5597,10 +5460,10 @@
         <text>entrar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:16:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5757,10 +5620,10 @@
         <text>resolver</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:03:21</date>
+          <date>2024-05-03T13:46:55</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5930,10 +5793,10 @@
         <text>hate</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:18:39</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -5963,9 +5826,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:03:17</date>
+          <date>2024-05-09T13:19:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6050,10 +5913,10 @@
         <text>need</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:19:13</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6102,10 +5965,10 @@
         <text>procurar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:16:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6225,14 +6088,6 @@
     <entry id="502">
       <translation id="0">
         <text>visit</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T19:03:07</date>
-          <interval>0</interval>
-        </grade>
       </translation>
       <translation id="1">
         <text>visitar</text>
@@ -6638,10 +6493,10 @@
         <text>sugerir</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-10T14:47:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6971,14 +6826,6 @@
       </translation>
       <translation id="1">
         <text>Inglaterra</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T05:44:08</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="578">
@@ -7142,10 +6989,10 @@
         <text>Alemanha</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:41:47</date>
+          <date>2024-05-10T02:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7294,10 +7141,10 @@
         <text>Mianmar</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-10T14:48:19</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7308,14 +7155,6 @@
       </translation>
       <translation id="1">
         <text>Tailândia</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:52</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="608">
@@ -7435,10 +7274,10 @@
         <text>Yemen</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>2</count>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:42:54</date>
+          <date>2024-05-10T14:46:11</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7454,10 +7293,10 @@
         <text>Arábia Saudita</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:19:23</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7603,10 +7442,10 @@
         <text>Uruguay</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:42:22</date>
+          <date>2024-05-03T01:23:25</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7700,14 +7539,6 @@
       </translation>
       <translation id="1">
         <text>Guatemala</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T05:43:31</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
     <entry id="645">
@@ -7727,9 +7558,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>5</count>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:46</date>
+          <date>2024-05-09T13:16:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7771,10 +7602,10 @@
         <text>Bangladesh</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:18:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -7825,109 +7656,13 @@
     </entry>
     <entry id="656">
       <translation id="0">
-        <text>Algeria</text>
-      </translation>
-      <translation id="1">
-        <text>Argélia</text>
-      </translation>
-    </entry>
-    <entry id="657">
-      <translation id="0">
-        <text>America</text>
-      </translation>
-      <translation id="1">
-        <text>América</text>
-      </translation>
-    </entry>
-    <entry id="658">
-      <translation id="0">
-        <text>Amman</text>
-      </translation>
-      <translation id="1">
-        <text>Amã</text>
-      </translation>
-    </entry>
-    <entry id="659">
-      <translation id="0">
-        <text>Kenya</text>
-      </translation>
-      <translation id="1">
-        <text>Quénia</text>
-      </translation>
-    </entry>
-    <entry id="660">
-      <translation id="0">
-        <text>Kuwait</text>
-      </translation>
-      <translation id="1">
-        <text>Kuwait</text>
-      </translation>
-    </entry>
-    <entry id="661">
-      <translation id="0">
-        <text>Lebanon</text>
-      </translation>
-      <translation id="1">
-        <text>Líbano</text>
-      </translation>
-    </entry>
-    <entry id="662">
-      <translation id="0">
-        <text>Libya</text>
-      </translation>
-      <translation id="1">
-        <text>Líbia</text>
-      </translation>
-    </entry>
-    <entry id="663">
-      <translation id="0">
-        <text>Mecca</text>
-      </translation>
-      <translation id="1">
-        <text>Meca</text>
-      </translation>
-    </entry>
-    <entry id="664">
-      <translation id="0">
-        <text>Moscow</text>
-      </translation>
-      <translation id="1">
-        <text>Moscou</text>
-      </translation>
-    </entry>
-    <entry id="665">
-      <translation id="0">
-        <text>North</text>
-      </translation>
-      <translation id="1">
-        <text>Norte</text>
-      </translation>
-    </entry>
-    <entry id="666">
-      <translation id="0">
-        <text>Sudan</text>
-      </translation>
-      <translation id="1">
-        <text>Sudão</text>
-      </translation>
-    </entry>
-    <entry id="667">
-      <translation id="0">
-        <text>Tunisia</text>
-      </translation>
-      <translation id="1">
-        <text>Tunísia</text>
-      </translation>
-    </entry>
-    <entry id="668">
-      <translation id="0">
         <text>English</text>
       </translation>
       <translation id="1">
         <text>inglês</text>
       </translation>
     </entry>
-    <entry id="669">
+    <entry id="657">
       <translation id="0">
         <text>Australian</text>
         <grade>
@@ -7943,23 +7678,15 @@
         <text>australiano</text>
       </translation>
     </entry>
-    <entry id="670">
+    <entry id="658">
       <translation id="0">
         <text>Brazilian</text>
       </translation>
       <translation id="1">
         <text>brasileiro</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T05:43:05</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
-    <entry id="671">
+    <entry id="659">
       <translation id="0">
         <text>Chinese</text>
       </translation>
@@ -7967,15 +7694,15 @@
         <text>chinês</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-10T14:48:06</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="672">
+    <entry id="660">
       <translation id="0">
         <text>Egyptian</text>
         <sound>file:///run/user/1000/doc/b9dfc156/egyptian.mp3</sound>
@@ -7984,7 +7711,7 @@
         <text>egípicio</text>
       </translation>
     </entry>
-    <entry id="673">
+    <entry id="661">
       <translation id="0">
         <text>French</text>
       </translation>
@@ -7992,7 +7719,7 @@
         <text>francês</text>
       </translation>
     </entry>
-    <entry id="674">
+    <entry id="662">
       <translation id="0">
         <text>German</text>
       </translation>
@@ -8000,7 +7727,7 @@
         <text>alemão</text>
       </translation>
     </entry>
-    <entry id="675">
+    <entry id="663">
       <translation id="0">
         <text>Greek</text>
       </translation>
@@ -8008,7 +7735,7 @@
         <text>grego</text>
       </translation>
     </entry>
-    <entry id="676">
+    <entry id="664">
       <translation id="0">
         <text>Indian</text>
       </translation>
@@ -8016,7 +7743,7 @@
         <text>indiano</text>
       </translation>
     </entry>
-    <entry id="677">
+    <entry id="665">
       <translation id="0">
         <text>Italian</text>
       </translation>
@@ -8024,7 +7751,7 @@
         <text>italiano</text>
       </translation>
     </entry>
-    <entry id="678">
+    <entry id="666">
       <translation id="0">
         <text>Japanese</text>
         <grade>
@@ -8048,7 +7775,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="679">
+    <entry id="667">
       <translation id="0">
         <text>Mexican</text>
       </translation>
@@ -8056,7 +7783,7 @@
         <text>mexicano</text>
       </translation>
     </entry>
-    <entry id="680">
+    <entry id="668">
       <translation id="0">
         <text>Portuguese</text>
       </translation>
@@ -8072,7 +7799,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="681">
+    <entry id="669">
       <translation id="0">
         <text>Russian</text>
       </translation>
@@ -8080,7 +7807,7 @@
         <text>russo</text>
       </translation>
     </entry>
-    <entry id="682">
+    <entry id="670">
       <translation id="0">
         <text>Spanish</text>
       </translation>
@@ -8088,7 +7815,7 @@
         <text>espanhol</text>
       </translation>
     </entry>
-    <entry id="683">
+    <entry id="671">
       <translation id="0">
         <text>Turkish</text>
       </translation>
@@ -8096,7 +7823,7 @@
         <text>turco</text>
       </translation>
     </entry>
-    <entry id="684">
+    <entry id="672">
       <translation id="0">
         <text>American</text>
       </translation>
@@ -8112,7 +7839,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="685">
+    <entry id="673">
       <translation id="0">
         <text>Canadian</text>
       </translation>
@@ -8120,7 +7847,7 @@
         <text>canadense</text>
       </translation>
     </entry>
-    <entry id="686">
+    <entry id="674">
       <translation id="0">
         <text>Irish</text>
       </translation>
@@ -8128,7 +7855,7 @@
         <text>irlandês</text>
       </translation>
     </entry>
-    <entry id="687">
+    <entry id="675">
       <translation id="0">
         <text>Nigerian</text>
       </translation>
@@ -8136,7 +7863,7 @@
         <text>nigeriano</text>
       </translation>
     </entry>
-    <entry id="688">
+    <entry id="676">
       <translation id="0">
         <text>South Korean</text>
       </translation>
@@ -8144,7 +7871,7 @@
         <text>sul coreano</text>
       </translation>
     </entry>
-    <entry id="689">
+    <entry id="677">
       <translation id="0">
         <text>Swedish</text>
       </translation>
@@ -8152,7 +7879,7 @@
         <text>sueco</text>
       </translation>
     </entry>
-    <entry id="690">
+    <entry id="678">
       <translation id="0">
         <text>British</text>
         <grade>
@@ -8169,7 +7896,7 @@
         <text>britânico</text>
       </translation>
     </entry>
-    <entry id="691">
+    <entry id="679">
       <translation id="0">
         <text>Swiss</text>
         <sound>file:///run/user/1000/doc/a676616b/Swiss.mp3</sound>
@@ -8178,39 +7905,11 @@
         <text>suiço</text>
       </translation>
     </entry>
-    <entry id="692">
-      <translation id="0">
-        <text>African</text>
-      </translation>
-      <translation id="1">
-        <text>africano</text>
-      </translation>
+    <entry id="680">
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
-    <entry id="693">
-      <translation id="0">
-        <text>Asian</text>
-      </translation>
-      <translation id="1">
-        <text>asiático</text>
-      </translation>
-    </entry>
-    <entry id="694">
-      <translation id="0">
-        <text>Ottoman</text>
-      </translation>
-      <translation id="1">
-        <text>otomano</text>
-      </translation>
-    </entry>
-    <entry id="695">
-      <translation id="0">
-        <text>Jordanian</text>
-      </translation>
-      <translation id="1">
-        <text>jordão</text>
-      </translation>
-    </entry>
-    <entry id="696">
+    <entry id="681">
       <translation id="0">
         <text>Artic Ocean</text>
       </translation>
@@ -8218,7 +7917,7 @@
         <text>Oceano Ártico</text>
       </translation>
     </entry>
-    <entry id="697">
+    <entry id="682">
       <translation id="0">
         <text>Atlantic Ocean</text>
       </translation>
@@ -8226,7 +7925,7 @@
         <text>Oceano Atlântico</text>
       </translation>
     </entry>
-    <entry id="698">
+    <entry id="683">
       <translation id="0">
         <text>Pacific Ocean</text>
       </translation>
@@ -8234,7 +7933,7 @@
         <text>Oceano Pacífico</text>
       </translation>
     </entry>
-    <entry id="699">
+    <entry id="684">
       <translation id="0">
         <text>Indian Ocean</text>
         <grade>
@@ -8250,7 +7949,7 @@
         <text>Oceano Índico</text>
       </translation>
     </entry>
-    <entry id="700">
+    <entry id="685">
       <translation id="0">
         <text>action</text>
       </translation>
@@ -8266,7 +7965,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="701">
+    <entry id="686">
       <translation id="0">
         <text>adventure</text>
         <grade>
@@ -8282,7 +7981,7 @@
         <text>aventura</text>
       </translation>
     </entry>
-    <entry id="702">
+    <entry id="687">
       <translation id="0">
         <text>comedy</text>
       </translation>
@@ -8290,7 +7989,7 @@
         <text>comédia</text>
       </translation>
     </entry>
-    <entry id="703">
+    <entry id="688">
       <translation id="0">
         <text>drama</text>
       </translation>
@@ -8298,7 +7997,7 @@
         <text>drama</text>
       </translation>
     </entry>
-    <entry id="704">
+    <entry id="689">
       <translation id="0">
         <text>horror</text>
       </translation>
@@ -8306,7 +8005,7 @@
         <text>terror</text>
       </translation>
     </entry>
-    <entry id="705">
+    <entry id="690">
       <translation id="0">
         <text>science fiction</text>
       </translation>
@@ -8314,7 +8013,7 @@
         <text>ficção científica</text>
       </translation>
     </entry>
-    <entry id="706">
+    <entry id="691">
       <translation id="0">
         <text>romantic comedy</text>
         <grade>
@@ -8330,7 +8029,7 @@
         <text>comédia romântica</text>
       </translation>
     </entry>
-    <entry id="707">
+    <entry id="692">
       <translation id="0">
         <text>hockey</text>
       </translation>
@@ -8338,7 +8037,7 @@
         <text>hóquei</text>
       </translation>
     </entry>
-    <entry id="708">
+    <entry id="693">
       <translation id="0">
         <text>football/soccer</text>
       </translation>
@@ -8346,7 +8045,7 @@
         <text>futebol</text>
       </translation>
     </entry>
-    <entry id="709">
+    <entry id="694">
       <translation id="0">
         <text>basketball</text>
       </translation>
@@ -8354,7 +8053,7 @@
         <text>basquete</text>
       </translation>
     </entry>
-    <entry id="710">
+    <entry id="695">
       <translation id="0">
         <text>volleyball</text>
         <grade>
@@ -8370,7 +8069,7 @@
         <text>vôlei</text>
       </translation>
     </entry>
-    <entry id="711">
+    <entry id="696">
       <translation id="0">
         <text>handball</text>
       </translation>
@@ -8378,7 +8077,7 @@
         <text>handbol</text>
       </translation>
     </entry>
-    <entry id="712">
+    <entry id="697">
       <translation id="0">
         <text>baseball</text>
       </translation>
@@ -8386,7 +8085,7 @@
         <text>beisebol</text>
       </translation>
     </entry>
-    <entry id="713">
+    <entry id="698">
       <translation id="0">
         <text>travel</text>
       </translation>
@@ -8394,7 +8093,7 @@
         <text>viagens</text>
       </translation>
     </entry>
-    <entry id="714">
+    <entry id="699">
       <translation id="0">
         <text>self-help</text>
       </translation>
@@ -8402,7 +8101,7 @@
         <text>auto-ajuda</text>
       </translation>
     </entry>
-    <entry id="715">
+    <entry id="700">
       <translation id="0">
         <text>history</text>
       </translation>
@@ -8410,7 +8109,7 @@
         <text>história</text>
       </translation>
     </entry>
-    <entry id="716">
+    <entry id="701">
       <translation id="0">
         <text>fantasy</text>
       </translation>
@@ -8418,7 +8117,7 @@
         <text>conto de fadas</text>
       </translation>
     </entry>
-    <entry id="717">
+    <entry id="702">
       <translation id="0">
         <text>biographies</text>
       </translation>
@@ -8426,7 +8125,7 @@
         <text>biografias</text>
       </translation>
     </entry>
-    <entry id="718">
+    <entry id="703">
       <translation id="0">
         <text>samba</text>
       </translation>
@@ -8434,7 +8133,7 @@
         <text>samba</text>
       </translation>
     </entry>
-    <entry id="719">
+    <entry id="704">
       <translation id="0">
         <text>MPB</text>
       </translation>
@@ -8442,7 +8141,7 @@
         <text>MPB</text>
       </translation>
     </entry>
-    <entry id="720">
+    <entry id="705">
       <translation id="0">
         <text>funk</text>
       </translation>
@@ -8450,23 +8149,15 @@
         <text>funk</text>
       </translation>
     </entry>
-    <entry id="721">
+    <entry id="706">
       <translation id="0">
         <text>classical music</text>
       </translation>
       <translation id="1">
         <text>música clássica</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T19:02:55</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
-    <entry id="722">
+    <entry id="707">
       <translation id="0">
         <text>heavy metal</text>
       </translation>
@@ -8474,7 +8165,7 @@
         <text>heavy metal</text>
       </translation>
     </entry>
-    <entry id="723">
+    <entry id="708">
       <translation id="0">
         <text>electronic</text>
       </translation>
@@ -8482,7 +8173,7 @@
         <text>eletrônica</text>
       </translation>
     </entry>
-    <entry id="724">
+    <entry id="709">
       <translation id="0">
         <text>country</text>
       </translation>
@@ -8490,7 +8181,7 @@
         <text>country</text>
       </translation>
     </entry>
-    <entry id="725">
+    <entry id="710">
       <translation id="0">
         <text>pop</text>
       </translation>
@@ -8498,7 +8189,7 @@
         <text>pop</text>
       </translation>
     </entry>
-    <entry id="726">
+    <entry id="711">
       <translation id="0">
         <text>racing</text>
       </translation>
@@ -8506,15 +8197,15 @@
         <text>corrida</text>
       </translation>
     </entry>
-    <entry id="727">
+    <entry id="712">
       <translation id="0">
         <text>RPG</text>
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>3</currentgrade>
-          <count>3</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:02:57</date>
+          <date>2024-05-09T13:17:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8522,7 +8213,7 @@
         <text>RPG</text>
       </translation>
     </entry>
-    <entry id="728">
+    <entry id="713">
       <translation id="0">
         <text>simulation</text>
       </translation>
@@ -8530,7 +8221,7 @@
         <text>simulação</text>
       </translation>
     </entry>
-    <entry id="729">
+    <entry id="714">
       <translation id="0">
         <text>strategy</text>
       </translation>
@@ -8538,7 +8229,7 @@
         <text>estratégia</text>
       </translation>
     </entry>
-    <entry id="730">
+    <entry id="715">
       <translation id="0">
         <text>During</text>
       </translation>
@@ -8546,7 +8237,7 @@
         <text>durante</text>
       </translation>
     </entry>
-    <entry id="731">
+    <entry id="716">
       <translation id="0">
         <text>of</text>
       </translation>
@@ -8554,31 +8245,23 @@
         <text>de, do, da</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-10T14:46:20</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="732">
+    <entry id="717">
       <translation id="0">
         <text>to</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T19:02:45</date>
-          <interval>0</interval>
-        </grade>
       </translation>
       <translation id="1">
         <text>para</text>
       </translation>
     </entry>
-    <entry id="733">
+    <entry id="718">
       <translation id="0">
         <text>under</text>
       </translation>
@@ -8586,7 +8269,7 @@
         <text>embaixo</text>
       </translation>
     </entry>
-    <entry id="734">
+    <entry id="719">
       <translation id="0">
         <text>for</text>
       </translation>
@@ -8594,7 +8277,7 @@
         <text>por</text>
       </translation>
     </entry>
-    <entry id="735">
+    <entry id="720">
       <translation id="0">
         <text>with</text>
       </translation>
@@ -8610,7 +8293,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="736">
+    <entry id="721">
       <translation id="0">
         <text>without</text>
       </translation>
@@ -8618,7 +8301,7 @@
         <text>sem</text>
       </translation>
     </entry>
-    <entry id="737">
+    <entry id="722">
       <translation id="0">
         <text>from</text>
       </translation>
@@ -8626,7 +8309,7 @@
         <text>de,do,da (origem)</text>
       </translation>
     </entry>
-    <entry id="738">
+    <entry id="723">
       <translation id="0">
         <text>by</text>
       </translation>
@@ -8634,7 +8317,7 @@
         <text>por, pelo, de</text>
       </translation>
     </entry>
-    <entry id="739">
+    <entry id="724">
       <translation id="0">
         <text>about</text>
       </translation>
@@ -8642,7 +8325,7 @@
         <text>sobre</text>
       </translation>
     </entry>
-    <entry id="740">
+    <entry id="725">
       <translation id="0">
         <text>into</text>
       </translation>
@@ -8650,7 +8333,7 @@
         <text>dentro</text>
       </translation>
     </entry>
-    <entry id="741">
+    <entry id="726">
       <translation id="0">
         <text>through*</text>
         <sound>file:///run/user/1000/doc/4ac121ef/through.mp3</sound>
@@ -8659,7 +8342,7 @@
         <text>através</text>
       </translation>
     </entry>
-    <entry id="742">
+    <entry id="727">
       <translation id="0">
         <text>before</text>
       </translation>
@@ -8667,7 +8350,7 @@
         <text>antes</text>
       </translation>
     </entry>
-    <entry id="743">
+    <entry id="728">
       <translation id="0">
         <text>after</text>
       </translation>
@@ -8675,7 +8358,7 @@
         <text>após</text>
       </translation>
     </entry>
-    <entry id="744">
+    <entry id="729">
       <translation id="0">
         <text>between</text>
       </translation>
@@ -8683,7 +8366,7 @@
         <text>entre</text>
       </translation>
     </entry>
-    <entry id="745">
+    <entry id="730">
       <translation id="0">
         <text>among</text>
       </translation>
@@ -8691,7 +8374,7 @@
         <text>entre</text>
       </translation>
     </entry>
-    <entry id="746">
+    <entry id="731">
       <translation id="0">
         <text>out</text>
       </translation>
@@ -8699,7 +8382,7 @@
         <text>fora</text>
       </translation>
     </entry>
-    <entry id="747">
+    <entry id="732">
       <translation id="0">
         <text>over</text>
       </translation>
@@ -8707,7 +8390,7 @@
         <text>por sobre</text>
       </translation>
     </entry>
-    <entry id="748">
+    <entry id="733">
       <translation id="0">
         <text>off</text>
         <grade>
@@ -8723,7 +8406,7 @@
         <text>deligado, fora</text>
       </translation>
     </entry>
-    <entry id="749">
+    <entry id="734">
       <translation id="0">
         <text>against</text>
       </translation>
@@ -8731,7 +8414,7 @@
         <text>contra</text>
       </translation>
     </entry>
-    <entry id="750">
+    <entry id="735">
       <translation id="0">
         <text>near</text>
       </translation>
@@ -8739,23 +8422,15 @@
         <text>perto</text>
       </translation>
     </entry>
-    <entry id="751">
+    <entry id="736">
       <translation id="0">
         <text>up</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T05:42:49</date>
-          <interval>0</interval>
-        </grade>
       </translation>
       <translation id="1">
         <text>para cima</text>
       </translation>
     </entry>
-    <entry id="752">
+    <entry id="737">
       <translation id="0">
         <text>down</text>
       </translation>
@@ -8763,7 +8438,7 @@
         <text>para baixo</text>
       </translation>
     </entry>
-    <entry id="753">
+    <entry id="738">
       <translation id="0">
         <text>around</text>
       </translation>
@@ -8771,7 +8446,7 @@
         <text>ao redor</text>
       </translation>
     </entry>
-    <entry id="754">
+    <entry id="739">
       <translation id="0">
         <text>behind</text>
       </translation>
@@ -8779,7 +8454,7 @@
         <text>atrás</text>
       </translation>
     </entry>
-    <entry id="755">
+    <entry id="740">
       <translation id="0">
         <text>in front</text>
       </translation>
@@ -8787,7 +8462,7 @@
         <text>na frente</text>
       </translation>
     </entry>
-    <entry id="756">
+    <entry id="741">
       <translation id="0">
         <text>beside</text>
       </translation>
@@ -8795,7 +8470,7 @@
         <text>ao lado</text>
       </translation>
     </entry>
-    <entry id="757">
+    <entry id="742">
       <translation id="0">
         <text>as</text>
       </translation>
@@ -8803,7 +8478,7 @@
         <text>como</text>
       </translation>
     </entry>
-    <entry id="758">
+    <entry id="743">
       <translation id="0">
         <text>like</text>
       </translation>
@@ -8811,7 +8486,7 @@
         <text>como</text>
       </translation>
     </entry>
-    <entry id="759">
+    <entry id="744">
       <translation id="0">
         <text>in</text>
       </translation>
@@ -8819,7 +8494,7 @@
         <text>dentro</text>
       </translation>
     </entry>
-    <entry id="760">
+    <entry id="745">
       <translation id="0">
         <text>on</text>
       </translation>
@@ -8827,7 +8502,7 @@
         <text>sobre</text>
       </translation>
     </entry>
-    <entry id="761">
+    <entry id="746">
       <translation id="0">
         <text>at</text>
       </translation>
@@ -8835,7 +8510,7 @@
         <text>em, no, na</text>
       </translation>
     </entry>
-    <entry id="762">
+    <entry id="747">
       <translation id="0">
         <text>zero</text>
         <grade>
@@ -8852,7 +8527,7 @@
         <text>0</text>
       </translation>
     </entry>
-    <entry id="763">
+    <entry id="748">
       <translation id="0">
         <text>one</text>
         <sound>file:///run/user/1000/doc/fec4e4fe/one.mp3</sound>
@@ -8869,7 +8544,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="764">
+    <entry id="749">
       <translation id="0">
         <text>two</text>
         <grade>
@@ -8894,7 +8569,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="765">
+    <entry id="750">
       <translation id="0">
         <text>three</text>
         <sound>file:///run/user/1000/doc/f13ca67b/three.mp3</sound>
@@ -8903,7 +8578,7 @@
         <text>3</text>
       </translation>
     </entry>
-    <entry id="766">
+    <entry id="751">
       <translation id="0">
         <text>four</text>
         <sound>file:///run/user/1000/doc/714cae16/four.mp3</sound>
@@ -8920,15 +8595,15 @@
         </grade>
       </translation>
     </entry>
-    <entry id="767">
+    <entry id="752">
       <translation id="0">
         <text>five</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:18:28</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/7bd56141/five.mp3</sound>
@@ -8945,7 +8620,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="768">
+    <entry id="753">
       <translation id="0">
         <text>six</text>
         <grade>
@@ -8962,7 +8637,7 @@
         <text>6</text>
       </translation>
     </entry>
-    <entry id="769">
+    <entry id="754">
       <translation id="0">
         <text>seven</text>
         <sound>file:///run/user/1000/doc/8cb1d509/seven.mp3</sound>
@@ -8979,7 +8654,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="770">
+    <entry id="755">
       <translation id="0">
         <text>eight</text>
         <sound>file:///run/user/1000/doc/f5a6febb/eight.mp3</sound>
@@ -8988,7 +8663,7 @@
         <text>8</text>
       </translation>
     </entry>
-    <entry id="771">
+    <entry id="756">
       <translation id="0">
         <text>nine</text>
         <grade>
@@ -9013,15 +8688,15 @@
         </grade>
       </translation>
     </entry>
-    <entry id="772">
+    <entry id="757">
       <translation id="0">
         <text>ten</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>6</currentgrade>
-          <count>5</count>
+          <currentgrade>5</currentgrade>
+          <count>4</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:43:36</date>
+          <date>2024-05-03T01:22:41</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/b19db25b/ten.mp3</sound>
@@ -9038,7 +8713,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="773">
+    <entry id="758">
       <translation id="0">
         <text>eleven</text>
         <sound>file:///run/user/1000/doc/b85e8dd3/eleven.mp3</sound>
@@ -9055,7 +8730,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="774">
+    <entry id="759">
       <translation id="0">
         <text>twelve</text>
         <sound>file:///run/user/1000/doc/fc91dcc/twelve.mp3</sound>
@@ -9064,15 +8739,15 @@
         <text>12</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>7</currentgrade>
-          <count>7</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:43:48</date>
+          <date>2024-04-27T13:25:15</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="775">
+    <entry id="760">
       <translation id="0">
         <text>thirteen</text>
         <grade>
@@ -9089,15 +8764,15 @@
         <text>13</text>
       </translation>
     </entry>
-    <entry id="776">
+    <entry id="761">
       <translation id="0">
         <text>fourteen</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>7</currentgrade>
-          <count>7</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:44:12</date>
+          <date>2024-04-27T13:28:25</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/51407f7/fourteen.mp3</sound>
@@ -9106,7 +8781,7 @@
         <text>14</text>
       </translation>
     </entry>
-    <entry id="777">
+    <entry id="762">
       <translation id="0">
         <text>fifteen</text>
         <grade>
@@ -9123,7 +8798,7 @@
         <text>15</text>
       </translation>
     </entry>
-    <entry id="778">
+    <entry id="763">
       <translation id="0">
         <text>sixteen</text>
         <sound>file:///run/user/1000/doc/90ab63ad/sixteen.mp3</sound>
@@ -9140,7 +8815,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="779">
+    <entry id="764">
       <translation id="0">
         <text>seventeen</text>
         <grade>
@@ -9165,7 +8840,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="780">
+    <entry id="765">
       <translation id="0">
         <text>eighteen</text>
         <sound>file:///run/user/1000/doc/c41d986c/eighteen.mp3</sound>
@@ -9174,15 +8849,15 @@
         <text>18</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>7</currentgrade>
-          <count>7</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:46:12</date>
+          <date>2024-04-27T13:25:17</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="781">
+    <entry id="766">
       <translation id="0">
         <text>nineteen</text>
         <sound>file:///run/user/1000/doc/fb05d4f5/nineteen.mp3</sound>
@@ -9199,7 +8874,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="782">
+    <entry id="767">
       <translation id="0">
         <text>twenty</text>
         <sound>file:///run/user/1000/doc/7070960c/twenty.mp3</sound>
@@ -9208,15 +8883,15 @@
         <text>20</text>
       </translation>
     </entry>
-    <entry id="783">
+    <entry id="768">
       <translation id="0">
         <text>twenty-one</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>7</currentgrade>
-          <count>7</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:03:01</date>
+          <date>2024-04-29T13:38:10</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/4201c882/twenty one.mp3</sound>
@@ -9233,7 +8908,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="784">
+    <entry id="769">
       <translation id="0">
         <text>twenty-two</text>
         <sound>file:///run/user/1000/doc/b26b3fb1/twenty two.mp3</sound>
@@ -9250,7 +8925,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="785">
+    <entry id="770">
       <translation id="0">
         <text>twenty-three</text>
         <sound>file:///run/user/1000/doc/9d2820eb/twenty three.mp3</sound>
@@ -9267,15 +8942,15 @@
         </grade>
       </translation>
     </entry>
-    <entry id="786">
+    <entry id="771">
       <translation id="0">
         <text>twenty-four</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>7</currentgrade>
-          <count>7</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:02:22</date>
+          <date>2024-04-29T13:37:09</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/956b68d1/twenty four.mp3</sound>
@@ -9284,15 +8959,15 @@
         <text>24</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>7</currentgrade>
-          <count>7</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:44:00</date>
+          <date>2024-04-27T13:25:33</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="787">
+    <entry id="772">
       <translation id="0">
         <text>twenty-five</text>
         <sound>file:///run/user/1000/doc/74a39c1e/twenty five.mp3</sound>
@@ -9301,7 +8976,7 @@
         <text>25</text>
       </translation>
     </entry>
-    <entry id="788">
+    <entry id="773">
       <translation id="0">
         <text>twenty-six</text>
         <sound>file:///run/user/1000/doc/da0d8c86/twenty six.mp3</sound>
@@ -9318,7 +8993,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="789">
+    <entry id="774">
       <translation id="0">
         <text>twenty-seven</text>
         <grade>
@@ -9335,7 +9010,7 @@
         <text>27</text>
       </translation>
     </entry>
-    <entry id="790">
+    <entry id="775">
       <translation id="0">
         <text>twenty-eight</text>
         <sound>file:///run/user/1000/doc/75f3616d/twenty eight.mp3</sound>
@@ -9352,7 +9027,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="791">
+    <entry id="776">
       <translation id="0">
         <text>twenty-nine</text>
         <sound>file:///run/user/1000/doc/33e14ba7/twenty nine.mp3</sound>
@@ -9369,7 +9044,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="792">
+    <entry id="777">
       <translation id="0">
         <text>thirty</text>
         <sound>file:///run/user/1000/doc/449e1705/thirty.mp3</sound>
@@ -9378,15 +9053,15 @@
         <text>30</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>7</currentgrade>
-          <count>7</count>
+          <currentgrade>6</currentgrade>
+          <count>6</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T05:42:38</date>
+          <date>2024-04-27T13:26:07</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="793">
+    <entry id="778">
       <translation id="0">
         <text>forty</text>
         <sound>file:///run/user/1000/doc/f91bbfc/forty.mp3</sound>
@@ -9403,7 +9078,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="794">
+    <entry id="779">
       <translation id="0">
         <text>fifty</text>
         <grade>
@@ -9428,7 +9103,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="795">
+    <entry id="780">
       <translation id="0">
         <text>sixty</text>
         <sound>file:///run/user/1000/doc/960c95c/sixty.mp3</sound>
@@ -9437,7 +9112,7 @@
         <text>60</text>
       </translation>
     </entry>
-    <entry id="796">
+    <entry id="781">
       <translation id="0">
         <text>seventy</text>
         <grade>
@@ -9454,7 +9129,7 @@
         <text>70</text>
       </translation>
     </entry>
-    <entry id="797">
+    <entry id="782">
       <translation id="0">
         <text>eighty</text>
         <sound>file:///run/user/1000/doc/75dce11e/eighty.mp3</sound>
@@ -9463,7 +9138,7 @@
         <text>80</text>
       </translation>
     </entry>
-    <entry id="798">
+    <entry id="783">
       <translation id="0">
         <text>ninety</text>
         <sound>file:///run/user/1000/doc/822b76cc/ninety.mp3</sound>
@@ -9472,7 +9147,7 @@
         <text>90</text>
       </translation>
     </entry>
-    <entry id="799">
+    <entry id="784">
       <translation id="0">
         <text>one hundred</text>
         <grade>
@@ -9497,7 +9172,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="800">
+    <entry id="785">
       <translation id="0">
         <text>1st first</text>
         <sound>file:///run/user/1000/doc/ae0fdf26/first.mp3</sound>
@@ -9506,7 +9181,7 @@
         <text>1° primeiro</text>
       </translation>
     </entry>
-    <entry id="801">
+    <entry id="786">
       <translation id="0">
         <text>2nd second</text>
         <sound>file:///run/user/1000/doc/b7d860d9/second.mp3</sound>
@@ -9515,7 +9190,7 @@
         <text>2° segundo</text>
       </translation>
     </entry>
-    <entry id="802">
+    <entry id="787">
       <translation id="0">
         <text>3rd third</text>
         <sound>file:///run/user/1000/doc/22fa30c8/third.mp3</sound>
@@ -9524,7 +9199,7 @@
         <text>3° terceiro</text>
       </translation>
     </entry>
-    <entry id="803">
+    <entry id="788">
       <translation id="0">
         <text>4th fourth</text>
         <sound>file:///run/user/1000/doc/d4a529d9/fourth.mp3</sound>
@@ -9533,7 +9208,7 @@
         <text>4° quarto</text>
       </translation>
     </entry>
-    <entry id="804">
+    <entry id="789">
       <translation id="0">
         <text>5th fifth</text>
         <sound>file:///run/user/1000/doc/afe41f59/fifth.mp3</sound>
@@ -9542,7 +9217,7 @@
         <text>5° quinto</text>
       </translation>
     </entry>
-    <entry id="805">
+    <entry id="790">
       <translation id="0">
         <text>6th sixth</text>
         <sound>file:///run/user/1000/doc/b9a8107/sixth.mp3</sound>
@@ -9551,7 +9226,7 @@
         <text>6° sexto</text>
       </translation>
     </entry>
-    <entry id="806">
+    <entry id="791">
       <translation id="0">
         <text>7th seventh</text>
         <sound>file:///run/user/1000/doc/dae207ac/seventh.mp3</sound>
@@ -9560,7 +9235,7 @@
         <text>7° sétimo</text>
       </translation>
     </entry>
-    <entry id="807">
+    <entry id="792">
       <translation id="0">
         <text>8th eighth</text>
         <sound>file:///run/user/1000/doc/eeac47f9/eighth.mp3</sound>
@@ -9569,7 +9244,7 @@
         <text>8° oitavo</text>
       </translation>
     </entry>
-    <entry id="808">
+    <entry id="793">
       <translation id="0">
         <text>9th ninth</text>
         <sound>file:///run/user/1000/doc/16b26d77/ninth.mp3</sound>
@@ -9578,7 +9253,7 @@
         <text>9° nono</text>
       </translation>
     </entry>
-    <entry id="809">
+    <entry id="794">
       <translation id="0">
         <text>10th tenth</text>
         <sound>file:///run/user/1000/doc/cd5bbc26/tenth.mp3</sound>
@@ -9587,7 +9262,7 @@
         <text>10° décimo</text>
       </translation>
     </entry>
-    <entry id="810">
+    <entry id="795">
       <translation id="0">
         <text>11th eleventh</text>
         <sound>file:///run/user/1000/doc/dd427959/eleventh.mp3</sound>
@@ -9596,7 +9271,7 @@
         <text>11° décimo primeiro</text>
       </translation>
     </entry>
-    <entry id="811">
+    <entry id="796">
       <translation id="0">
         <text>12th twelfth</text>
         <sound>file:///run/user/1000/doc/e223997d/twelfth.mp3</sound>
@@ -9605,7 +9280,7 @@
         <text>12° décimo segundo</text>
       </translation>
     </entry>
-    <entry id="812">
+    <entry id="797">
       <translation id="0">
         <text>13th thirteenth</text>
         <sound>file:///run/user/1000/doc/7a18af88/thirteenth.mp3</sound>
@@ -9614,7 +9289,7 @@
         <text>13° décimo terceiro</text>
       </translation>
     </entry>
-    <entry id="813">
+    <entry id="798">
       <translation id="0">
         <text>14th fourteenth</text>
         <sound>file:///run/user/1000/doc/86a63c7/fourteenth.mp3</sound>
@@ -9623,7 +9298,7 @@
         <text>14° décimo quarto</text>
       </translation>
     </entry>
-    <entry id="814">
+    <entry id="799">
       <translation id="0">
         <text>15th fifteenth</text>
         <sound>file:///run/user/1000/doc/bc094c37/fifteenth.mp3</sound>
@@ -9632,7 +9307,7 @@
         <text>15° décimo quinto</text>
       </translation>
     </entry>
-    <entry id="815">
+    <entry id="800">
       <translation id="0">
         <text>16th sixteenth</text>
         <sound>file:///run/user/1000/doc/6916c259/sixteenth.mp3</sound>
@@ -9641,7 +9316,7 @@
         <text>16° décimo sexto</text>
       </translation>
     </entry>
-    <entry id="816">
+    <entry id="801">
       <translation id="0">
         <text>17th seventeenth</text>
         <sound>file:///run/user/1000/doc/29beacce/seventeenth.mp3</sound>
@@ -9650,7 +9325,7 @@
         <text>17° décimo sétimo</text>
       </translation>
     </entry>
-    <entry id="817">
+    <entry id="802">
       <translation id="0">
         <text>18th eighteenth</text>
         <sound>file:///run/user/1000/doc/2e7d294/eighteenth.mp3</sound>
@@ -9659,7 +9334,7 @@
         <text>18° décimo oitavo</text>
       </translation>
     </entry>
-    <entry id="818">
+    <entry id="803">
       <translation id="0">
         <text>19th nineteenth</text>
         <sound>file:///run/user/1000/doc/300ace24/nineteenth.mp3</sound>
@@ -9668,7 +9343,7 @@
         <text>19° décimo nono</text>
       </translation>
     </entry>
-    <entry id="819">
+    <entry id="804">
       <translation id="0">
         <text>20th twentieth</text>
         <sound>file:///run/user/1000/doc/aea21a67/twentieth.mp3</sound>
@@ -9677,7 +9352,7 @@
         <text>20° vigésimo</text>
       </translation>
     </entry>
-    <entry id="820">
+    <entry id="805">
       <translation id="0">
         <text>21st twenty-first</text>
         <sound>file:///run/user/1000/doc/b944feb4/twenty-first.mp3</sound>
@@ -9686,15 +9361,15 @@
         <text>21° vigésimo primeiro</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:18:12</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="821">
+    <entry id="806">
       <translation id="0">
         <text>22nd twenty-second</text>
         <sound>file:///run/user/1000/doc/197323da/twenty-second.mp3</sound>
@@ -9703,7 +9378,7 @@
         <text>22° vigésimo segundo</text>
       </translation>
     </entry>
-    <entry id="822">
+    <entry id="807">
       <translation id="0">
         <text>23rd twenty-third</text>
         <sound>file:///run/user/1000/doc/93eb2db3/twenty-third.mp3</sound>
@@ -9712,7 +9387,7 @@
         <text>23° vigésimo terceiro</text>
       </translation>
     </entry>
-    <entry id="823">
+    <entry id="808">
       <translation id="0">
         <text>24th twenty-fourth</text>
         <sound>file:///run/user/1000/doc/68f87cf4/twenty-fourth.mp3</sound>
@@ -9721,7 +9396,7 @@
         <text>24° vigésimo quarto</text>
       </translation>
     </entry>
-    <entry id="824">
+    <entry id="809">
       <translation id="0">
         <text>25th twenty-fifth</text>
         <sound>file:///run/user/1000/doc/5d77230b/twenty-fifth.mp3</sound>
@@ -9730,24 +9405,16 @@
         <text>25° vigésimo quinto</text>
       </translation>
     </entry>
-    <entry id="825">
+    <entry id="810">
       <translation id="0">
         <text>26th twenty-sixth</text>
         <sound>file:///run/user/1000/doc/8aadacab/twenty-sixth.mp3</sound>
       </translation>
       <translation id="1">
         <text>26° vigésimo sexto</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2024-05-13T05:44:38</date>
-          <interval>0</interval>
-        </grade>
       </translation>
     </entry>
-    <entry id="826">
+    <entry id="811">
       <translation id="0">
         <text>27th twenty-seventh</text>
         <sound>file:///run/user/1000/doc/52cce35f/twenty-seventh.mp3</sound>
@@ -9756,7 +9423,7 @@
         <text>27° vigésimo sétimo</text>
       </translation>
     </entry>
-    <entry id="827">
+    <entry id="812">
       <translation id="0">
         <text>28th twenty-eighth</text>
         <sound>file:///run/user/1000/doc/aaca9cff/twenty-eighth.mp3</sound>
@@ -9765,7 +9432,7 @@
         <text>28° vigésimo oitavo</text>
       </translation>
     </entry>
-    <entry id="828">
+    <entry id="813">
       <translation id="0">
         <text>29th twenty-ninth</text>
         <sound>file:///run/user/1000/doc/61e1ea8b/twenty-ninth.mp3</sound>
@@ -9774,24 +9441,16 @@
         <text>29° vigésimo nono</text>
       </translation>
     </entry>
-    <entry id="829">
+    <entry id="814">
       <translation id="0">
         <text>30th thirtieth</text>
-        <grade>
-          <pregrade>1</pregrade>
-          <currentgrade>0</currentgrade>
-          <count>2</count>
-          <errorcount>1</errorcount>
-          <date>2024-05-13T19:05:21</date>
-          <interval>0</interval>
-        </grade>
         <sound>file:///run/user/1000/doc/310c5480/thirtieth.mp3</sound>
       </translation>
       <translation id="1">
         <text>30° trigésimo</text>
       </translation>
     </entry>
-    <entry id="830">
+    <entry id="815">
       <translation id="0">
         <text>40th fortieth</text>
         <sound>file:///run/user/1000/doc/60000f07/fortieth.mp3</sound>
@@ -9800,7 +9459,7 @@
         <text>40° quadragésimo</text>
       </translation>
     </entry>
-    <entry id="831">
+    <entry id="816">
       <translation id="0">
         <text>50th fiftieth</text>
         <sound>file:///run/user/1000/doc/db3e1c44/fiftieth.mp3</sound>
@@ -9809,7 +9468,7 @@
         <text>50° quinquagésimo</text>
       </translation>
     </entry>
-    <entry id="832">
+    <entry id="817">
       <translation id="0">
         <text>60th sixtieth</text>
         <sound>file:///run/user/1000/doc/e8a2ce6/sixtieth.mp3</sound>
@@ -9818,15 +9477,15 @@
         <text>60° sexagésimo</text>
       </translation>
     </entry>
-    <entry id="833">
+    <entry id="818">
       <translation id="0">
         <text>70th seventieth</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>0</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2024-05-13T19:01:39</date>
+          <date>2024-05-09T13:19:01</date>
           <interval>0</interval>
         </grade>
         <sound>file:///run/user/1000/doc/6fd8442f/seventieth.mp3</sound>
@@ -9835,7 +9494,7 @@
         <text>70° septuagésimo</text>
       </translation>
     </entry>
-    <entry id="834">
+    <entry id="819">
       <translation id="0">
         <text>80th eightieth</text>
         <sound>file:///run/user/1000/doc/d332c84f/eightieth.mp3</sound>
@@ -9844,7 +9503,7 @@
         <text>80° octagésimo</text>
       </translation>
     </entry>
-    <entry id="835">
+    <entry id="820">
       <translation id="0">
         <text>90th ninetieth</text>
         <sound>file:///run/user/1000/doc/9679442d/ninetieth.mp3</sound>
@@ -9853,7 +9512,7 @@
         <text>90° nonagésimo</text>
       </translation>
     </entry>
-    <entry id="836">
+    <entry id="821">
       <translation id="0">
         <text>100th one-hundredth</text>
         <sound>file:///run/user/1000/doc/ba41328d/one-hundredth.mp3</sound>
@@ -9862,7 +9521,7 @@
         <text>100° centésimo</text>
       </translation>
     </entry>
-    <entry id="837">
+    <entry id="822">
       <translation id="0">
         <text>1000th one-thousandth</text>
         <sound>file:///run/user/1000/doc/ecfefafe/one-thousandth.mp3</sound>
@@ -9871,21 +9530,13 @@
         <text>1000° milésimo</text>
       </translation>
     </entry>
-    <entry id="838">
+    <entry id="823">
       <translation id="0">
         <text>1000000th one-milionth</text>
         <sound>file:///run/user/1000/doc/4f1d5cf6/one-milionth.mp3</sound>
       </translation>
       <translation id="1">
         <text>1000000° milionésimo</text>
-      </translation>
-    </entry>
-    <entry id="839">
-      <translation id="0">
-        <text>Argentina</text>
-      </translation>
-      <translation id="1">
-        <text>Argentina</text>
       </translation>
     </entry>
   </entries>
@@ -10572,6 +10223,10 @@
       <entry id="653"/>
       <entry id="654"/>
       <entry id="655"/>
+    </container>
+    <container>
+      <name>Nationalities</name>
+      <inpractice>true</inpractice>
       <entry id="656"/>
       <entry id="657"/>
       <entry id="658"/>
@@ -10584,10 +10239,6 @@
       <entry id="665"/>
       <entry id="666"/>
       <entry id="667"/>
-    </container>
-    <container>
-      <name>Nationalities</name>
-      <inpractice>true</inpractice>
       <entry id="668"/>
       <entry id="669"/>
       <entry id="670"/>
@@ -10601,10 +10252,18 @@
       <entry id="678"/>
       <entry id="679"/>
       <entry id="680"/>
+    </container>
+    <container>
+      <name>Oceans</name>
+      <inpractice>true</inpractice>
       <entry id="681"/>
       <entry id="682"/>
       <entry id="683"/>
       <entry id="684"/>
+    </container>
+    <container>
+      <name>movies</name>
+      <inpractice>true</inpractice>
       <entry id="685"/>
       <entry id="686"/>
       <entry id="687"/>
@@ -10612,52 +10271,52 @@
       <entry id="689"/>
       <entry id="690"/>
       <entry id="691"/>
-      <entry id="692"/>
-      <entry id="693"/>
-      <entry id="694"/>
-      <entry id="695"/>
-    </container>
-    <container>
-      <name>Oceans</name>
-      <inpractice>true</inpractice>
-      <entry id="696"/>
-      <entry id="697"/>
-      <entry id="698"/>
-      <entry id="699"/>
-    </container>
-    <container>
-      <name>movies</name>
-      <inpractice>true</inpractice>
-      <entry id="700"/>
-      <entry id="701"/>
-      <entry id="702"/>
-      <entry id="703"/>
-      <entry id="704"/>
-      <entry id="705"/>
-      <entry id="706"/>
     </container>
     <container>
       <name>sports</name>
       <inpractice>true</inpractice>
-      <entry id="707"/>
-      <entry id="708"/>
-      <entry id="709"/>
-      <entry id="710"/>
-      <entry id="711"/>
-      <entry id="712"/>
+      <entry id="692"/>
+      <entry id="693"/>
+      <entry id="694"/>
+      <entry id="695"/>
+      <entry id="696"/>
+      <entry id="697"/>
     </container>
     <container>
       <name>books</name>
       <inpractice>true</inpractice>
-      <entry id="713"/>
-      <entry id="714"/>
-      <entry id="715"/>
-      <entry id="716"/>
-      <entry id="717"/>
+      <entry id="698"/>
+      <entry id="699"/>
+      <entry id="700"/>
+      <entry id="701"/>
+      <entry id="702"/>
     </container>
     <container>
       <name>music</name>
       <inpractice>true</inpractice>
+      <entry id="703"/>
+      <entry id="704"/>
+      <entry id="705"/>
+      <entry id="706"/>
+      <entry id="707"/>
+      <entry id="708"/>
+      <entry id="709"/>
+      <entry id="710"/>
+    </container>
+    <container>
+      <name>games</name>
+      <inpractice>true</inpractice>
+      <entry id="711"/>
+      <entry id="712"/>
+      <entry id="713"/>
+      <entry id="714"/>
+    </container>
+    <container>
+      <name>prepositions</name>
+      <inpractice>true</inpractice>
+      <entry id="715"/>
+      <entry id="716"/>
+      <entry id="717"/>
       <entry id="718"/>
       <entry id="719"/>
       <entry id="720"/>
@@ -10666,18 +10325,10 @@
       <entry id="723"/>
       <entry id="724"/>
       <entry id="725"/>
-    </container>
-    <container>
-      <name>games</name>
-      <inpractice>true</inpractice>
       <entry id="726"/>
       <entry id="727"/>
       <entry id="728"/>
       <entry id="729"/>
-    </container>
-    <container>
-      <name>prepositions</name>
-      <inpractice>true</inpractice>
       <entry id="730"/>
       <entry id="731"/>
       <entry id="732"/>
@@ -10695,21 +10346,6 @@
       <entry id="744"/>
       <entry id="745"/>
       <entry id="746"/>
-      <entry id="747"/>
-      <entry id="748"/>
-      <entry id="749"/>
-      <entry id="750"/>
-      <entry id="751"/>
-      <entry id="752"/>
-      <entry id="753"/>
-      <entry id="754"/>
-      <entry id="755"/>
-      <entry id="756"/>
-      <entry id="757"/>
-      <entry id="758"/>
-      <entry id="759"/>
-      <entry id="760"/>
-      <entry id="761"/>
     </container>
     <container>
       <name>numbers</name>
@@ -10717,6 +10353,21 @@
       <container>
         <name>Cardinal numbers</name>
         <inpractice>true</inpractice>
+        <entry id="747"/>
+        <entry id="748"/>
+        <entry id="749"/>
+        <entry id="750"/>
+        <entry id="751"/>
+        <entry id="752"/>
+        <entry id="753"/>
+        <entry id="754"/>
+        <entry id="755"/>
+        <entry id="756"/>
+        <entry id="757"/>
+        <entry id="758"/>
+        <entry id="759"/>
+        <entry id="760"/>
+        <entry id="761"/>
         <entry id="762"/>
         <entry id="763"/>
         <entry id="764"/>
@@ -10740,6 +10391,10 @@
         <entry id="782"/>
         <entry id="783"/>
         <entry id="784"/>
+      </container>
+      <container>
+        <name>ordinals</name>
+        <inpractice>true</inpractice>
         <entry id="785"/>
         <entry id="786"/>
         <entry id="787"/>
@@ -10755,10 +10410,6 @@
         <entry id="797"/>
         <entry id="798"/>
         <entry id="799"/>
-      </container>
-      <container>
-        <name>ordinals</name>
-        <inpractice>true</inpractice>
         <entry id="800"/>
         <entry id="801"/>
         <entry id="802"/>
@@ -10783,27 +10434,7 @@
         <entry id="821"/>
         <entry id="822"/>
         <entry id="823"/>
-        <entry id="824"/>
-        <entry id="825"/>
-        <entry id="826"/>
-        <entry id="827"/>
-        <entry id="828"/>
-        <entry id="829"/>
-        <entry id="830"/>
-        <entry id="831"/>
-        <entry id="832"/>
-        <entry id="833"/>
-        <entry id="834"/>
-        <entry id="835"/>
-        <entry id="836"/>
-        <entry id="837"/>
-        <entry id="838"/>
       </container>
-    </container>
-    <container>
-      <name>Default Lesson</name>
-      <inpractice>true</inpractice>
-      <entry id="839"/>
     </container>
   </lessons>
 </kvtml>

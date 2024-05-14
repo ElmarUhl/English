@@ -1,9 +1,0 @@
-car	carro
-aeroplane	avião
-aeroplane	avião
-boat	barco
-bike	bicicleta
-tractor	tractor
-bus	autocarro
-tanker	petroleiro
-

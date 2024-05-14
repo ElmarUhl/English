@@ -1,4 +1,7 @@
+African	africano
 American	americano
+Asian	asiático
+Asian	asiático
 Australian	australiano
 Brazilian	brasileiro
 British	britânico
@@ -13,15 +16,15 @@ Indian	indiano
 Irish	irlandês
 Italian	italiano
 Japanese	japonês
+Jordanian	jordão
 Mexican	mexicano
 Nigerian	nigeriano
+Ottoman	otomano
 Portuguese	português
+Roman	Romano
 Russian	russo
 South Korean	sul coreano
 Spanish	espanhol
 Swedish	sueco
 Swiss	suiço
 Turkish	turco
-Asian	asiático
-Roman	Romano
-

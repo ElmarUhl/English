@@ -1,8 +1,13 @@
 Afghanistan	Afeganistão
+Algeria	Argélia
+Algeria	Argélia
+America	América
+Amman	Amã
 Antarctica	Antártida
 Argentina	Argentina
 Australia	Austrália
 Austria	Áustria
+Babylon	Babilónia
 Bangladesh	Bangladesh
 Belarus	Bielorrússia
 Bolivia	Bolívia
@@ -25,30 +30,47 @@ Greece	Grécia
 Greenland	Groenlândia
 Guatemala	Guatemala
 Guyana	Guiana
+Holland	Holanda
+Hungary	Hungria
 India	Índia
 Indonesia	Indonésia
 Iran	Irã
 Iraq	Iraque
 Ireland	Irlanda
+Israel	Israel
+Israel	Israel
+Italy	Itália
 Italy	Itália
 Jamaica	Jamaica
 Japan	Japão
+Kenya	Quénia
+Kuwait	Koweit
+Lebanon	Líbano
+Libya	Líbia
 Madagascar	Madagascar
 Malaysia	Malásia
+Mecca	Meca
 Mexico	México
 Mongolia	Mongólia
+Mongolia	Mongólia
+Morocco	Marrocos
+Moscow	Moscou
 Myanmar	Mianmar
 Nepal	Nepal
 New Zealand	Nova Zelândia
 Nigeria	Nigéria
 North Korea	Coreia do Norte
+North	Norte
 Norway	Noruega
+Norway	Noruega
+Oman	Omã
 Oman	Omã
 Pakistan	Paquistão
 Papua New Guinea	Papua Nova Guiné
 Paraguay	Paraguai
 Peru	Peru
 Philippines	Filipinas
+Poland	Polônia
 Poland	Polônia
 Portugal	Portugal
 Puerto Rico	Porto Rico
@@ -61,12 +83,14 @@ South Africa	África do Sul
 South Korea	Coreia do Sul
 Spain	Espanha
 Sri Lanka	Sri Lanka
+Sudan	Sudão
 Suriname	Suriname
 Sweden	Suécia
 Switzerland	Suíça
 Syria	Síria
 Taiwan	Taiwan
 Thailand	Tailândia
+Tunisia	Tunísia
 Turkey	Turquia
 Ukraine	Ucrânia
 United Kingdom	Reino Unido
@@ -77,41 +101,3 @@ Venezuela	Venezuela
 Vietnam	Vietnã
 Wales	País de Gales
 Yemen	Iémen
-
--------------------------------
-Novos
-Hungary	Hungria
-Libya	Líbia
-Lebanon	Líbano
-Sudan	Sudão
-Algeria	Argélia
-Amman	Amã
-Tunisia	Tunísia
-Holland	Holanda
-Israel	Israel
-Italy	Itália
-Kenya	Quénia
-Kuwait	Koweit
-Mongolia	Mongólia
-Morocco	Marrocos
-Moscow	Moscou
-Algeria	Argélia
-Israel	Israel
-
-African	africano
-American	americano
-Jordanian	jordão
-Ottoman	otomano
-Asian	asiático
-
-America	América
-
-Mecca	Meca
-Babylon	Babilónia
-
-North	Norte
-Norway	Noruega
-Oman	Omã
-Poland	Polónia
-
-

@@ -1,4 +1,0 @@
-boxing	boxe
-volleyball	voleibol
-wrestling	luta livre
-basketball	basquetebol
