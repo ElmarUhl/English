@@ -25,4 +25,5 @@ Repository for English-portuguese learners
 
 [Sound of text](https://soundoftext.cc): creates mp3 files from text as same style of Google tradutor.
 
-[Vocabulary.com](https://www.vocabulary.com) [Oxford Learners Dictionary](https://www.oxfordlearnersdictionaries.com/us/): English dictionaries
+[Vocabulary.com](https://www.vocabulary.com/)
+[Oxford Learners Dictionary](https://www.oxfordlearnersdictionaries.com/us/): English dictionaries
