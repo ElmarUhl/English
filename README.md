@@ -11,7 +11,12 @@ Repository for English-portuguese learners
 
 [EnglishBay](https://www.youtube.com/watch?v=g6eC2MQ1Kv8&list=PLZ65xj2SRHQB0T2GGk-R7bYxorKUkcyoj): YouTube channel with a good English course.
 
-[Fluent English Fast](https://www.youtube.com/@FluentEnglishFast/videos) [EnglishTestBlog](https://www.youtube.com/@EnglishTestBlog) [Easy English](https://www.youtube.com/@easyenglish551/videos) [Elanguages](https://www.youtube.com/@Elanguages) [Practice Easy English](https://www.youtube.com/@PracticeEasyEnglish/videos): videos to increase your vocabulary
+[Fluent English Fast](https://www.youtube.com/@FluentEnglishFast/videos)
+[EnglishTestBlog](https://www.youtube.com/@EnglishTestBlog)
+[Easy English](https://www.youtube.com/@easyenglish551/videos)
+[Elanguages](https://www.youtube.com/@Elanguages)
+[Practice Easy English](https://www.youtube.com/@PracticeEasyEnglish/videos): videos to increase your vocabulary
+[Rachel English](https://www.youtube.com/@rachelsenglish/videos)
 
 
 ## Others
