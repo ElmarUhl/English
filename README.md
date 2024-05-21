@@ -20,6 +20,7 @@ Repository for English-portuguese learners
 
 
 ## Others
+[Anki](https://apps.ankiweb.net/index.html): excellent rogram to memorize vocabulary.
 
 [English Bay](https://app.englishbay.com.br/)
 
