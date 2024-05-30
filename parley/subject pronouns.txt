@@ -1,7 +1,0 @@
-he	ele
-I	eu
-it	neutro
-she	ela
-they	eles
-we	nós
-you	tu,vós
